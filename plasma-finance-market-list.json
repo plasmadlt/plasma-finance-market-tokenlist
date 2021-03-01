@@ -24,6 +24,15 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
       },
       {
+         "address": "0x9Fd1d329BB687fef164F529f6F6DcD6f69e7b978",
+         "chainId": 1,
+         "name": "Plasma PPAY Staking",
+         "symbol": "xPPAY",
+         "coingecko_id": "",
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9Fd1d329BB687fef164F529f6F6DcD6f69e7b978.png"
+      },
+      {
          "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
          "chainId": 1,
          "name": "Stox",
@@ -105,7 +114,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5.png"
       },
       {
-         "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+         "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
          "chainId": 1,
          "name": "Reef.finance",
          "symbol": "REEF",
@@ -132,7 +141,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
       },
       {
-         "address": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+         "address": "0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0",
          "chainId": 1,
          "name": "AnRKey X",
          "symbol": "$ANRX",
@@ -159,7 +168,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0d438f3b5175bebc262bf23753c1e53d03432bde.png"
       },
       {
-         "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+         "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
          "chainId": 1,
          "name": "NXM",
          "symbol": "NXM",
@@ -492,7 +501,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2.png"
       },
       {
-         "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+         "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
          "chainId": 1,
          "name": "DAO Maker",
          "symbol": "DAO",
@@ -600,7 +609,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x42d6622dece394b54999fbd73d108123806f6a18.png"
       },
       {
-         "address": "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
+         "address": "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
          "chainId": 1,
          "name": "PAID Network",
          "symbol": "PAID",
@@ -689,7 +698,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea.png"
       },
       {
-         "address": "0x885e127aba09bf8fae058a2895c221b37697c9be",
+         "address": "0x885e127abA09Bf8FAE058a2895c221B37697c9bE",
          "chainId": 1,
          "name": "AceD",
          "symbol": "AceD",
@@ -1742,7 +1751,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc5bbae50781be1669306b9e001eff57a2957b09d.png"
       },
       {
-         "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+         "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
          "chainId": 1,
          "name": "Fantom",
          "symbol": "FTM",
@@ -1778,7 +1787,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcc4304a31d09258b0029ea7fe63d032f52e44efe.png"
       },
       {
-         "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+         "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
          "chainId": 1,
          "name": "TrueFi",
          "symbol": "TRU",
@@ -1787,7 +1796,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784.png"
       },
       {
-         "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+         "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
          "chainId": 1,
          "name": "Wootrade Network",
          "symbol": "WOO",
@@ -1796,7 +1805,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
       },
       {
-         "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+         "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
          "chainId": 1,
          "name": "Wrapped UST",
          "symbol": "UST",
@@ -1823,7 +1832,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png"
       },
       {
-         "address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+         "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
          "chainId": 1,
          "name": "DuckDaoDime",
          "symbol": "DDIM",
@@ -1832,7 +1841,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20.png"
       },
       {
-         "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+         "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
          "chainId": 1,
          "name": "Shopping.io",
          "symbol": "SPI",
@@ -1841,7 +1850,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7.png"
       },
       {
-         "address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+         "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
          "chainId": 1,
          "name": "CyberFi",
          "symbol": "CFi",
@@ -1850,7 +1859,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4.png"
       },
       {
-         "address": "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64",
+         "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
          "chainId": 1,
          "name": "OptionRoom",
          "symbol": "ROOM",
@@ -1859,7 +1868,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64.png"
       },
       {
-         "address": "0xfe9a29ab92522d14fc65880d817214261d8479ae",
+         "address": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
          "chainId": 1,
          "name": "SnowSwap",
          "symbol": "SNOW",
@@ -1922,7 +1931,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae.png"
       },
       {
-         "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+         "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
          "chainId": 1,
          "name": "Tokenlon",
          "symbol": "LON",
@@ -2183,7 +2192,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x26607ac599266b21d13c7acf7942c7701a8b699c.png"
       },
       {
-         "address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+         "address": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
          "chainId": 1,
          "name": "Yearn Ecosystem Index",
          "symbol": "YETI",
@@ -2192,7 +2201,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d.png"
       },
       {
-         "address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+         "address": "0xFA2562da1Bba7B954f26C74725dF51fb62646313",
          "chainId": 1,
          "name": "ASSY Index",
          "symbol": "ASSY",
@@ -2201,18 +2210,18 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfa2562da1bba7b954f26c74725df51fb62646313.png"
       },
       {
-         "address": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+         "address": "0xfa6de2697D59E88Ed7Fc4dFE5A33daC43565ea41",
          "chainId": 1,
-         "name": "DEFI Top 5 Tokens Index",
+         "name": "DEFI Top-5 Tokens Index",
          "symbol": "DEFI5",
          "coingecko_id": "defi-top-5-tokens-index",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41.png"
       },
       {
-         "address": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+         "address": "0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
          "chainId": 1,
-         "name": "Cryptocurrency Top 10 Tokens Index",
+         "name": "Cryptocurrency Top-10 Index",
          "symbol": "CC10",
          "coingecko_id": "cryptocurrency-top-10-tokens-index",
          "decimals": 18,
@@ -2309,7 +2318,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776.png"
       },
       {
-         "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+         "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
          "chainId": 1,
          "name": "Ultra",
          "symbol": "UOS",
@@ -3319,7 +3328,7 @@
       {
          "address": "0x4Dfd148B532e934a2a26eA65689cf6268753e130",
          "chainId": 1,
-         "name": "Governance token MonolithosDAO",
+         "name": "Governance MonolithosDAO",
          "symbol": "MDT2",
          "coingecko_id": "",
          "decimals": 18,
@@ -3344,9 +3353,9 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8a9c67fee641579deba04928c4bc45f66e26343a.png"
       },
       {
-         "address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
+         "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
          "chainId": 1,
-         "name": "UNION Protocol Governance Token",
+         "name": "UNION Protocol",
          "symbol": "UNN",
          "coingecko_id": "union-protocol-governance-token",
          "decimals": 18,
@@ -3380,7 +3389,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x362bc847a3a9637d3af6624eec853618a43ed7d2.png"
       },
       {
-         "address": "0x441761326490cacf7af299725b6292597ee822c2",
+         "address": "0x441761326490cACF7aF299725B6292597EE822c2",
          "chainId": 1,
          "name": "Unifi Protocol DAO",
          "symbol": "UNFI",
@@ -3434,7 +3443,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4fe5851c9af07df9e5ad8217afae1ea72737ebda.png"
       },
       {
-         "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+         "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
          "chainId": 1,
          "name": "Bella",
          "symbol": "BEL",
@@ -3578,7 +3587,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3f382dbd960e3a9bbceae22651e88158d2791550.png"
       },
       {
-         "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+         "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
          "chainId": 1,
          "name": "Terra Virtua Kolect",
          "symbol": "TVK",
@@ -3587,7 +3596,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988.png"
       },
       {
-         "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+         "address": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81",
          "chainId": 1,
          "name": "Muse",
          "symbol": "MUSE",
@@ -3596,7 +3605,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81.png"
       },
       {
-         "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+         "address": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
          "chainId": 1,
          "name": "Crowns",
          "symbol": "CWS",
@@ -3650,7 +3659,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xca1207647ff814039530d7d35df0e1dd2e91fa84.png"
       },
       {
-         "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+         "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
          "chainId": 1,
          "name": "Ferrum Network",
          "symbol": "FRM",
@@ -4010,7 +4019,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x18aaa7115705e8be94bffebde57af9bfc265b998.png"
       },
       {
-         "address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+         "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
          "chainId": 1,
          "name": "Bridge Mutual",
          "symbol": "BMI",
@@ -4019,7 +4028,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x725c263e32c72ddc3a19bea12c5a0479a81ee688.png"
       },
       {
-         "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+         "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
          "chainId": 1,
          "name": "Wrapped Celo",
          "symbol": "wCELO",
@@ -4028,7 +4037,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a.png"
       },
       {
-         "address": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195",
+         "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
          "chainId": 1,
          "name": "Wrapped Celo USD",
          "symbol": "wCUSD",
@@ -4145,7 +4154,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x00a8b738e453ffd858a7edf03bccfe20412f0eb0.png"
       },
       {
-         "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+         "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
          "chainId": 1,
          "name": "Bounce",
          "symbol": "AUCTION",
@@ -4208,7 +4217,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa.png"
       },
       {
-         "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+         "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
          "chainId": 1,
          "name": "Alpha Finance Lab",
          "symbol": "ALPHA",
@@ -4217,7 +4226,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa1faa113cbe53436df28ff0aee54275c13b40975.png"
       },
       {
-         "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+         "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
          "chainId": 1,
          "name": "Injective Protocol",
          "symbol": "INJ",
@@ -4521,16 +4530,7 @@
          "coingecko_id": "basis-share",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa7ed29b253d8b4e3109ce07c80fc570f81b63696.png"
-      },
-      {
-         "address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
-         "chainId": 1,
-         "name": "Power Index Pool",
-         "symbol": "PIPT",
-         "coingecko_id": "power-index-pool-token",
-         "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x26607ac599266b21d13c7acf7942c7701a8b699c.png"
-      },
+      }
       {
          "address": "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
          "chainId": 1,
@@ -4814,13 +4814,13 @@
          "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
          "chainId": 1,
          "name": "Lido Staked Ether",
-         "symbol": "STETH",
+         "symbol": "stETH",
          "coingecko_id": "lido-staked-ether",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png"
       },
       {
-         "address": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+         "address": "0x0DDe6F6e345bfd23f3F419F0DFe04E93143b44FB",
          "chainId": 1,
          "name": "SOTA Finance",
          "symbol": "SOTA",
@@ -4829,7 +4829,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb.png"
       },
       {
-         "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+         "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
          "chainId": 1,
          "name": "SuperFarm",
          "symbol": "SUPER",
@@ -4838,7 +4838,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55.png"
       },
       {
-         "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+         "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
          "chainId": 1,
          "name": "Mask Network",
          "symbol": "MASK",
@@ -4847,7 +4847,7 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x69af81e73a73b40adf4f3d4223cd9b1ece623074.png"
       },
       {
-         "address": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+         "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
          "chainId": 1,
          "name": "AntiMatter",
          "symbol": "MATTER",
@@ -4863,15 +4863,6 @@
          "coingecko_id": "tornado-cash",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x77777feddddffc19ff86db637967013e6c6a116c.png"
-      },
-      {
-         "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-         "chainId": 1,
-         "name": "stETH",
-         "symbol": "stETH",
-         "coingecko_id": "staked-ether",
-         "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png"
       },
       {
          "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
