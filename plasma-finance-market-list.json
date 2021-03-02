@@ -2132,7 +2132,7 @@
     ]
   },
   {
-    "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
     "chainId": 1,
     "name": "Rai Reflex Index",
     "symbol": "RAI",
@@ -5716,7 +5716,7 @@
     ]
   },
   {
-    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "chainId": 1,
     "name": "Lido Staked Ether",
     "symbol": "stETH",
@@ -5820,7 +5820,7 @@
     ]
   },
   {
-    "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+    "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
     "chainId": 1,
     "name": "BoringDAO",
     "symbol": "BOR",
@@ -5968,7 +5968,7 @@
     "tags": []
   },
   {
-    "address": "0x560a20eddeddf84217221aef0d5ca7d7ae7ae798",
+    "address": "0x560a20EDdeDDf84217221AeF0d5Ca7d7aE7aE798",
     "chainId": 1,
     "name": "PBK",
     "symbol": "PBK",
