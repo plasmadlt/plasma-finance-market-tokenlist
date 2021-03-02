@@ -4530,7 +4530,7 @@
          "coingecko_id": "basis-share",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa7ed29b253d8b4e3109ce07c80fc570f81b63696.png"
-      }
+      },
       {
          "address": "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
          "chainId": 1,
