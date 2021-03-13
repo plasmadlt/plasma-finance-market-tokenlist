@@ -280,6 +280,19 @@
     "tags": []
   },
   {
+    "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
+    "chainId": 1,
+    "name": "Kylin Network",
+    "symbol": "KYL",
+    "coingeckoId": "kylin-network",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C.png",
+    "tags": [
+      "defi",
+      "alliance"
+    ]
+  },
+  {
     "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
     "chainId": 1,
     "name": "GRID",
