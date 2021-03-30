@@ -357,7 +357,7 @@
   {
     "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
     "chainId": 1,
-    "name": "Augur",
+    "name": "Augur Reputation v2",
     "symbol": "REPv2",
     "coingeckoId": "augur",
     "decimals": 18,
@@ -430,16 +430,6 @@
     "coingeckoId": "sapien",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png",
-    "tags": []
-  },
-  {
-    "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
-    "chainId": 1,
-    "name": "ReputationV2",
-    "symbol": "REPv2",
-    "coingeckoId": "augur",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x221657776846890989a759ba2973e427dff5c9bb.png",
     "tags": []
   },
   {
@@ -6479,6 +6469,125 @@
     "coingeckoId": "xsushi",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+    "chainId": 1,
+    "name": "DELTA Financial",
+    "symbol": "DELTA",
+    "coingeckoId": "delta-financial",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x68bB81B3F67f7AAb5fd1390ECB0B8e1a806F2465",
+    "chainId": 1,
+    "name": "NFT Platform Index",
+    "symbol": "NFTP",
+    "coingeckoId": "nft-platform-index",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x68bB81B3F67f7AAb5fd1390ECB0B8e1a806F2465.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+    "chainId": 1,
+    "name": "Convergence",
+    "symbol": "CONV",
+    "coingeckoId": "convergence",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x0E192d382a36De7011F795Acc4391Cd302003606",
+    "chainId": 1,
+    "name": "Futureswap",
+    "symbol": "FST",
+    "coingeckoId": "futureswap",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0E192d382a36De7011F795Acc4391Cd302003606.png",
+    "tags": [
+      "defi",
+      "swap"
+    ]
+  },
+  {
+    "address": "0xE4fA3C576c31696322e8d7165C5965d5a1F6A1A5",
+    "chainId": 1,
+    "name": "GamyFi",
+    "symbol": "GFX",
+    "coingeckoId": "gamyfi-token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xE4fA3C576c31696322e8d7165C5965d5a1F6A1A5.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+    "chainId": 1,
+    "name": "Dora Factory",
+    "symbol": "DORA",
+    "coingeckoId": "dora-factory",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7",
+    "chainId": 1,
+    "name": "Tidal Finance",
+    "symbol": "TIDAL",
+    "coingeckoId": "tidal-finance",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x99295f1141d58A99e939F7bE6BBe734916a875B8",
+    "chainId": 1,
+    "name": "LinkPool",
+    "symbol": "LPL",
+    "coingeckoId": "linkpool",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x99295f1141d58A99e939F7bE6BBe734916a875B8.png",
+    "tags": []
+  },
+  {
+    "address": "0x33840024177A7DacA3468912363BeD8b425015c5",
+    "chainId": 1,
+    "name": "Ethbox",
+    "symbol": "EBOX",
+    "coingeckoId": "ethbox-token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x33840024177A7DacA3468912363BeD8b425015c5.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
+    "chainId": 1,
+    "name": "Xend Finance",
+    "symbol": "XEND",
+    "coingeckoId": "xend-finance",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903.png",
     "tags": [
       "defi"
     ]
