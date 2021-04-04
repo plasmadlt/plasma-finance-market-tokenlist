@@ -6591,5 +6591,89 @@
     "tags": [
       "defi"
     ]
+  },
+  {
+    "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+    "chainId": 1,
+    "name": "Tribe",
+    "symbol": "TRIBE",
+    "coingeckoId": "tribe",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "chainId": 1,
+    "name": "Fei USD",
+    "symbol": "FEI",
+    "coingeckoId": "fei-protocol",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.png",
+    "tags": [
+      "defi",
+      "stable"
+    ]
+  },
+  {
+    "address": "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848",
+    "chainId": 1,
+    "name": "Splyt",
+    "symbol": "SHOPX",
+    "coingeckoId": "splyt",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+    "chainId": 1,
+    "name": "Unmarshal",
+    "symbol": "MARSH",
+    "coingeckoId": "unmarshal",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+    "chainId": 1,
+    "name": "Polkamon",
+    "symbol": "PMON",
+    "coingeckoId": "polkamon",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0x3d6F0DEa3AC3C607B3998e6Ce14b6350721752d9",
+    "chainId": 1,
+    "name": "Cardstarter",
+    "symbol": "CARDS",
+    "coingeckoId": "cardstarter",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3d6F0DEa3AC3C607B3998e6Ce14b6350721752d9.png",
+    "tags": [
+      "nft",
+      "defi"
+    ]
+  },
+  {
+    "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+    "chainId": 1,
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "coingeckoId": "aioz-network",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18.png",
+    "tags": []
   }
 ]
