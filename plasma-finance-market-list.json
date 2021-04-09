@@ -10,7 +10,8 @@
     "tags": [
       "defi",
       "alliance",
-      "dex"
+      "dex",
+      "trending"
     ]
   },
   {
@@ -2309,7 +2310,9 @@
     "coingeckoId": "duckdaodime",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20.png",
-    "tags": []
+    "tags": [
+      "ido"
+    ]
   },
   {
     "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
@@ -2979,7 +2982,9 @@
     "coingeckoId": "aave-dai",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d.png",
-    "tags": []
+    "tags": [
+      "lending"
+    ]
   },
   {
     "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
