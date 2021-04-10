@@ -11,7 +11,8 @@
       "defi",
       "alliance",
       "dex",
-      "trending"
+      "trending",
+      "ido"
     ]
   },
   {
@@ -604,7 +605,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png",
     "tags": [
-      "defi"
+      "defi",
+      "ido"
     ]
   },
   {
@@ -730,7 +732,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df.png",
     "tags": [
       "defi",
-      "alliance"
+      "alliance",
+      "ido"
     ]
   },
   {
@@ -875,7 +878,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4da9b813057d04baef4e5800e36083717b4a0341.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -1025,7 +1029,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -1893,7 +1898,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -2097,7 +2103,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
     "tags": [
       "defi",
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -2145,7 +2152,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -2334,7 +2342,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4.png",
     "tags": [
       "defi",
-      "alliance"
+      "alliance",
+      "ido"
     ]
   },
   {
@@ -2892,7 +2901,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
     "tags": [
-      "nft"
+      "nft",
+      "trending"
     ]
   },
   {
@@ -2904,7 +2914,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -3063,7 +3074,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -3075,7 +3087,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf5dce57282a584d2746faf1593d3121fcac444dc.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -3087,7 +3100,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -3099,7 +3113,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x39aa39c021dfbae8fac545936693ac917d5e7563.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -3111,7 +3126,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x158079ee67fce2f58472a96584a73c7ab9ac95c1.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -4729,7 +4745,8 @@
     "tags": [
       "defi",
       "aavev2",
-      "alliance"
+      "alliance",
+      "lending"
     ]
   },
   {
@@ -4886,7 +4903,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -4898,7 +4916,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x35a18000230da775cac24873d00ff85bccded550.png",
     "tags": [
-      "comp"
+      "comp",
+      "lending"
     ]
   },
   {
@@ -5285,7 +5304,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096.png",
     "tags": [
-      "defi"
+      "defi",
+      "ido"
     ]
   },
   {
@@ -5348,7 +5368,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa.png",
     "tags": [
       "defi",
-      "alliance"
+      "alliance",
+      "ido"
     ]
   },
   {
@@ -5802,7 +5823,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5814,7 +5836,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa361718326c15715591c299427c62086f69923d9.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5826,7 +5849,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5838,7 +5862,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xac6df26a590f08dcc95d5a4705ae8abbc88509ef.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5850,7 +5875,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x39c6b3e42d6a679d7d776778fe880bc9487c2eda.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5862,7 +5888,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5874,7 +5901,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa685a61171bb30d4072b338c80cb7b2c865c873e.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5886,7 +5914,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc713e5e149d5d0715dcd1c156a020976e7e56b88.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5898,7 +5927,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5910,7 +5940,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x35f6b052c598d933d69a4eec4d04c73a191fe6c2.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5922,7 +5953,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6c5024cd4f8a59110119c56f8933403a539555eb.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5934,7 +5966,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x101cc05f4a51c0319f570d5e146a8c625198e636.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5946,7 +5979,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5958,7 +5992,8 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbcca60bb61934080951369a648fb03df4f96263c.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5970,7 +6005,8 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5982,7 +6018,8 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -5994,7 +6031,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -6006,7 +6044,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5165d24277cd063f5ac44efd447b27025e888f37.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -6018,7 +6057,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e.png",
     "tags": [
-      "aavev2"
+      "aavev2",
+      "lending"
     ]
   },
   {
@@ -6655,7 +6695,8 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2.png",
     "tags": [
-      "nft"
+      "nft",
+      "trending"
     ]
   },
   {
@@ -6693,5 +6734,157 @@
       "alliance",
       "defi"
     ]
-   }
+  },
+  {
+    "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+    "chainId": 1,
+    "name": "Boson Protocol",
+    "symbol": "BOSON",
+    "coingeckoId": "boson-protocol",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC477D038d5420C6A9e0b031712f61c5120090de9.png",
+    "tags": [
+      "defi",
+      "trending"
+    ]
+  },
+  {
+    "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+    "chainId": 1,
+    "name": "Kattana",
+    "symbol": "KTN",
+    "coingeckoId": "kattana",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C.png",
+    "tags": [
+      "defi",
+      "trending"
+    ]
+  },
+  {
+    "address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060",
+    "chainId": 1,
+    "name": "Defi Pulse Index",
+    "symbol": "BDPI",
+    "coingeckoId": "interest-bearing-dpi",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060.png",
+    "tags": [
+      "defi",
+      "indexes"
+    ]
+  },
+  {
+    "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+    "chainId": 1,
+    "name": "NFT Index",
+    "symbol": "NFTI",
+    "coingeckoId": "nft-index",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c.png",
+    "tags": [
+      "nft",
+      "indexes"
+    ]
+  },
+  {
+    "address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+    "chainId": 1,
+    "name": "Polkalokr",
+    "symbol": "LKR",
+    "coingeckoId": "polkalokr",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+    "chainId": 1,
+    "name": "Equalizer",
+    "symbol": "EQZ",
+    "coingeckoId": "equalizer",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0.png",
+    "tags": [
+      "defi",
+      "trending"
+    ]
+  },
+  {
+    "address": "0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f",
+    "chainId": 1,
+    "name": "RAI Finance",
+    "symbol": "RAI",
+    "coingeckoId": "rai-finance",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f.png",
+    "tags": [
+      "defi",
+      "trending"
+    ]
+  },
+  {
+    "address": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+    "chainId": 1,
+    "name": "BasketDAO",
+    "symbol": "BASK",
+    "coingeckoId": "basketdao",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "chainId": 1,
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "coingeckoId": "liquity-usd",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png",
+    "tags": [
+      "defi",
+      "stable"
+    ]
+  },
+  {
+    "address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+    "chainId": 1,
+    "name": "Gains",
+    "symbol": "GAINS",
+    "coingeckoId": "gains",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+    "chainId": 1,
+    "name": "Poolz Finance",
+    "symbol": "POOLZ",
+    "coingeckoId": "poolz-finance",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23.png",
+    "tags": [
+      "defi",
+      "ido"
+    ]
+  },
+  {
+    "address": "0xD7e0F80FB28233bdde0006c50568606A8feb964C",
+    "chainId": 1,
+    "name": "Australian Dollar",
+    "symbol": "AUDT",
+    "coingeckoId": "audt",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD7e0F80FB28233bdde0006c50568606A8feb964C.png",
+    "tags": [
+      "stable"
+    ]
+  }
 ]
