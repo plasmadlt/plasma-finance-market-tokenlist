@@ -2248,7 +2248,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcc4304a31d09258b0029ea7fe63d032f52e44efe.png",
     "tags": [
       "defi",
-      "dex"
+      "dex",
+      "ido"
     ]
   },
   {
@@ -2901,8 +2902,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
     "tags": [
-      "nft",
-      "trending"
+      "nft"
     ]
   },
   {
@@ -6293,7 +6293,8 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3593d125a4f7849a1b059e64f4517a86dd60c95d.png",
     "tags": [
       "defi",
-      "alliance"
+      "alliance",
+      "ido"
     ]
   },
   {
