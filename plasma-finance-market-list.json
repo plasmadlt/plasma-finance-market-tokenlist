@@ -6887,5 +6887,17 @@
     "tags": [
       "stable"
     ]
+  },
+  {
+    "address": "0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A",
+    "chainId": 1,
+    "name": "TotemFi",
+    "symbol": "TOTM",
+    "coingeckoId": "totemfi",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A.png",
+    "tags": [
+      "defi"
+    ]
   }
 ]
