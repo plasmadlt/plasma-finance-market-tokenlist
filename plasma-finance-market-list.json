@@ -6899,5 +6899,18 @@
     "tags": [
       "defi"
     ]
+  },
+  {
+    "address": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+    "chainId": 1,
+    "name": "Deeper Network",
+    "symbol": "DPR",
+    "coingeckoId": "deeper-network",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1.png",
+    "tags": [
+      "defi",
+      "trending"
+    ]
   }
 ]
