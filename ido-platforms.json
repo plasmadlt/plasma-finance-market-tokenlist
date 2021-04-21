@@ -1,34 +1,44 @@
 [
     {
+        "IDOtitle": "DuckSTARTER",
         "IDOplatform": "duckstarter",
+        "IDOwebsite": "https://duckstarter.io",
         "Contract": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
         "Token": "DuckDaoDime",
         "Ticker": "DDIM",
         "CoingeckoID": "duckdaodime"
     },
     {
+        "IDOtitle": "PAID Ignition",
         "IDOplatform": "paidignition",
+        "IDOwebsite": "https://ignition.paidnetwork.com",
         "Contract": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787",
         "Token": "PAID Network",
         "Ticker": "PAID",
         "CoingeckoID": "paid-network"
     },
     {
+        "IDOtitle": "Polkastarter",
         "IDOplatform": "polkastarter",
+        "IDOwebsite": "https://www.polkastarter.com",
         "Contract": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
         "Token": "Polkastarter",
         "Ticker": "POLS",
         "CoingeckoID": "polkastarter"
     },
     {
+        "IDOtitle": "Poolz",
         "IDOplatform": "poolz",
+        "IDOwebsite": "https://www.poolz.finance",
         "Contract": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
         "Token": "Poolz Finance",
         "Ticker": "POOLZ",
         "CoingeckoID": "poolz-finance"
     },
     {
+        "IDOtitle": "DAO Maker",
         "IDOplatform": "daomaker",
+        "IDOwebsite": "https://daomaker.com",
         "Contract": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
         "Token": "DAO Maker",
         "Ticker": "DAO",
