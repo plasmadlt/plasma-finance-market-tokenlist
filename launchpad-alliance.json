@@ -1,6 +1,6 @@
 [
     {
-        "name": "SpiderDAO",
+        "token": "SpiderDAO",
         "ticker": "SPDR",
         "coingeckoId": "spiderdao",
         "contract": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
@@ -14,7 +14,7 @@
         "idoDate": "2020-12-16T00:00:00"
     },
     {
-        "name": "Polkastarter",
+        "token": "Polkastarter",
         "ticker": "POLS",
         "coingeckoId": "polkastarter",
         "contract": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
@@ -28,7 +28,7 @@
         "idoDate": "2020-12-17T00:00:00"
     },
     {
-        "name": "MahaDAO",
+        "token": "MahaDAO",
         "ticker": "MAHA",
         "coingeckoId": "mahadao",
         "contract": "0xb4d930279552397bba2ee473229f89ec245bc365",
@@ -42,7 +42,7 @@
         "idoDate": "2020-12-18T00:00:00"
     },
     {
-        "name": "Royale Finance",
+        "token": "Royale Finance",
         "ticker": "ROYA",
         "coingeckoId": "royale",
         "contract": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
@@ -56,7 +56,7 @@
         "idoDate": "2020-12-21T00:00:00"
     },
     {
-        "name": "Fire Protocol",
+        "token": "Fire Protocol",
         "ticker": "FIRE",
         "coingeckoId": "fire-protocol",
         "contract": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
@@ -70,7 +70,7 @@
         "idoDate": "2020-12-28T00:00:00"
     },
     {
-        "name": "Exeedme",
+        "token": "Exeedme",
         "ticker": "XED",
         "coingeckoId": "exeedme",
         "contract": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
@@ -84,7 +84,7 @@
         "idoDate": "2020-12-30T00:00:00"
     },
     {
-        "name": "Tenet",
+        "token": "Tenet",
         "ticker": "TEN",
         "coingeckoId": "tenet",
         "contract": "0x74159651a992952e2bf340d7628459aa4593fc05",
@@ -98,7 +98,7 @@
         "idoDate": "2021-01-05T00:00:00"
     },
     {
-        "name": "Nord Finance",
+        "token": "Nord Finance",
         "ticker": "NORD",
         "coingeckoId": "nord-finance",
         "contract": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
@@ -112,7 +112,7 @@
         "idoDate": "2021-01-12T00:00:00"
     },
     {
-        "name": "YOP Finance",
+        "token": "YOP Finance",
         "ticker": "YOP",
         "coingeckoId": "yield-optimization-platform",
         "contract": "0xae1eaae3f627aaca434127644371b67b18444051",
@@ -126,7 +126,7 @@
         "idoDate": "2021-01-15T00:00:00"
     },
     {
-        "name": "TosDis",
+        "token": "TosDis",
         "ticker": "DIS",
         "coingeckoId": "tosdis",
         "contract": "0x220b71671b649c03714da9c621285943f3cbcdc6",
@@ -140,7 +140,7 @@
         "idoDate": "2021-01-20T00:00:00"
     },
     {
-        "name": "PolkaCover",
+        "token": "PolkaCover",
         "ticker": "CVR",
         "coingeckoId": "polkacover",
         "contract": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
@@ -154,7 +154,7 @@
         "idoDate": "2021-01-21T00:00:00"
     },
     {
-        "name": "Bridge Mutual",
+        "token": "Bridge Mutual",
         "ticker": "BMI",
         "coingeckoId": "bridge-mutual",
         "contract": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
@@ -168,7 +168,7 @@
         "idoDate": "2021-01-30T00:00:00"
     },
     {
-        "name": "Butterfly Protocol",
+        "token": "Butterfly Protocol",
         "ticker": "BFLY",
         "coingeckoId": "butterfly-protocol",
         "contract": "0xf680429328caaacabee69b7a9fdb21a71419c063",
@@ -182,7 +182,7 @@
         "idoDate": "2021-02-04T00:00:00"
     },
     {
-        "name": "OptionRoom",
+        "token": "OptionRoom",
         "ticker": "ROOM",
         "coingeckoId": "option-room",
         "contract": "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64",
@@ -196,7 +196,7 @@
         "idoDate": "2021-02-05T00:00:00"
     },
     {
-        "name": "Finxflo",
+        "token": "Finxflo",
         "ticker": "FXF",
         "coingeckoId": "finxflo",
         "contract": "0x8a40c222996f9f3431f63bf80244c36822060f12",
@@ -210,7 +210,7 @@
         "idoDate": "2021-02-08T00:00:00"
     },
     {
-        "name": "Umbrella Network",
+        "token": "Umbrella Network",
         "ticker": "UMB",
         "coingeckoId": "umbrella-network",
         "contract": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
@@ -224,7 +224,7 @@
         "idoDate": "2021-02-09T00:00:00"
     },
     {
-        "name": "DAOventures",
+        "token": "DAOventures",
         "ticker": "DVG",
         "coingeckoId": "daoventures",
         "contract": "0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c",
@@ -238,7 +238,7 @@
         "idoDate": "2021-02-15T00:00:00"
     },
     {
-        "name": "SuperFarm",
+        "token": "SuperFarm",
         "ticker": "SUPER",
         "coingeckoId": "superfarm",
         "contract": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
@@ -252,7 +252,7 @@
         "idoDate": "2021-02-22T00:00:00"
     },
     {
-        "name": "Polkamarkets",
+        "token": "Polkamarkets",
         "ticker": "POLK",
         "coingeckoId": "polkamarkets",
         "contract": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
@@ -266,7 +266,7 @@
         "idoDate": "2021-02-24T00:00:00"
     },
     {
-        "name": "Fractal",
+        "token": "Fractal",
         "ticker": "FCL",
         "coingeckoId": "fractal",
         "contract": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
@@ -280,7 +280,7 @@
         "idoDate": "2021-02-25T00:00:00"
     },
     {
-        "name": "Public Mint",
+        "token": "Public Mint",
         "ticker": "MINT",
         "coingeckoId": "public-mint",
         "contract": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
@@ -294,7 +294,7 @@
         "idoDate": "2021-02-26T00:00:00"
     },
     {
-        "name": "AntiMatter",
+        "token": "AntiMatter",
         "ticker": "MATTER",
         "coingeckoId": "antimatter",
         "contract": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
@@ -308,7 +308,7 @@
         "idoDate": "2021-02-27T00:00:00"
     },
     {
-        "name": "Kylin",
+        "token": "Kylin",
         "ticker": "KYL",
         "coingeckoId": "kylin-network",
         "contract": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
@@ -322,7 +322,7 @@
         "idoDate": "2021-03-01T00:00:00"
     },
     {
-        "name": "APYSwap",
+        "token": "APYSwap",
         "ticker": "APYS",
         "coingeckoId": "apyswap",
         "contract": "0xf7413489c474ca4399eee604716c72879eea3615",
@@ -336,7 +336,7 @@
         "idoDate": "2021-03-02T00:00:00"
     },
     {
-        "name": "Unido",
+        "token": "Unido",
         "ticker": "UDO",
         "coingeckoId": "unido",
         "contract": "0xea3983fc6d0fbbc41fb6f6091f68f3e08894dc06",
@@ -350,7 +350,7 @@
         "idoDate": "2021-03-03T00:00:00"
     },
     {
-        "name": "Blank Wallet",
+        "token": "Blank Wallet",
         "ticker": "BLANK",
         "coingeckoId": "blank",
         "contract": "0xaec7e1f531bb09115103c53ba76829910ec48966",
@@ -364,7 +364,7 @@
         "idoDate": "2021-03-05T00:00:00"
     },
     {
-        "name": "Ethernity Chain",
+        "token": "Ethernity Chain",
         "ticker": "ERN",
         "coingeckoId": "ethernity-chain",
         "contract": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
@@ -378,7 +378,7 @@
         "idoDate": "2021-03-08T00:00:00"
     },
     {
-        "name": "Chain Guardians",
+        "token": "Chain Guardians",
         "ticker": "CGG",
         "coingeckoId": "chain-guardians",
         "contract": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
@@ -392,7 +392,7 @@
         "idoDate": "2021-03-10T00:00:00"
     },
     {
-        "name": "Blockchain Cuties Universe Governance",
+        "token": "Blockchain Cuties Universe Governance",
         "ticker": "BCUG",
         "coingeckoId": "blockchain-cuties-universe-governance",
         "contract": "0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
@@ -406,7 +406,7 @@
         "idoDate": "2021-03-15T00:00:00"
     },
     {
-        "name": "Konomi Network",
+        "token": "Konomi Network",
         "ticker": "KONO",
         "coingeckoId": "konomi-network",
         "contract": "0x850aAB69f0e0171A9a49dB8BE3E71351c8247Df4",
@@ -420,7 +420,7 @@
         "idoDate": "2021-03-16T00:00:00"
     },
     {
-        "name": "Oddz",
+        "token": "Oddz",
         "ticker": "ODDZ",
         "coingeckoId": "oddz",
         "contract": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
@@ -434,7 +434,7 @@
         "idoDate": "2021-03-18T00:00:00"
     },
     {
-        "name": "Tidal Finance",
+        "token": "Tidal Finance",
         "ticker": "TIDAL",
         "coingeckoId": "tidal-finance",
         "contract": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
@@ -448,7 +448,7 @@
         "idoDate": "2021-03-23T00:00:00"
     },
     {
-        "name": "Convergence",
+        "token": "Convergence",
         "ticker": "CONV",
         "coingeckoId": "convergence",
         "contract": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
@@ -462,7 +462,7 @@
         "idoDate": "2021-03-25T00:00:00"
     },
     {
-        "name": "Shyft Network",
+        "token": "Shyft Network",
         "ticker": "SHFT",
         "coingeckoId": "shyft-network",
         "contract": "0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c",
@@ -476,7 +476,7 @@
         "idoDate": "2021-03-27T00:00:00"
     },
     {
-        "name": "UnMarshal",
+        "token": "UnMarshal",
         "ticker": "MARSH",
         "coingeckoId": "unmarshal",
         "contract": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
@@ -490,7 +490,7 @@
         "idoDate": "2021-03-30T00:00:00"
     },
     {
-        "name": "Polkamon",
+        "token": "Polkamon",
         "ticker": "PMON",
         "coingeckoId": "polkamon",
         "contract": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
@@ -504,7 +504,7 @@
         "idoDate": "2021-03-31T00:00:00"
     },
     {
-        "name": "Polkalokr",
+        "token": "Polkalokr",
         "ticker": "LKR",
         "coingeckoId": "polkalokr",
         "contract": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
@@ -518,7 +518,7 @@
         "idoDate": "2021-04-07T00:00:00"
     },
     {
-        "name": "Kattana",
+        "token": "Kattana",
         "ticker": "KTN",
         "coingeckoId": "kattana",
         "contract": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
@@ -532,7 +532,7 @@
         "idoDate": "2021-04-09T00:00:00"
     },
     {
-        "name": "Ethereum Push Notification Service",
+        "token": "Ethereum Push Notification Service",
         "ticker": "EPNS",
         "coingeckoId": "ethereum-push-notification-service",
         "contract": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
@@ -546,7 +546,7 @@
         "idoDate": "2021-04-13T00:00:00"
     },
     {
-        "name": "Genesis Shards",
+        "token": "Genesis Shards",
         "ticker": "GS",
         "coingeckoId": "genesis-shards",
         "contract": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112",
@@ -560,7 +560,7 @@
         "idoDate": "2021-04-14T02:00:00"
     },
     {
-        "name": "Polkadex",
+        "token": "Polkadex",
         "ticker": "PDEX",
         "coingeckoId": "polkadex",
         "contract": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
@@ -574,7 +574,7 @@
         "idoDate": "2021-04-16T09:30:00"
     },
     {
-        "name": "Saito",
+        "token": "Saito",
         "ticker": "SAITO",
         "coingeckoId": "saito",
         "contract": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
@@ -588,7 +588,7 @@
         "idoDate": "2021-04-22T00:00:00"
     },
     {
-        "name": "Refinable",
+        "token": "Refinable",
         "ticker": "FINE",
         "coingeckoId": "refinable",
         "contract": "",
@@ -602,7 +602,7 @@
         "idoDate": "2021-04-23T00:00:00"
     },
     {
-        "name": "Standard",
+        "token": "Standard",
         "ticker": "STND",
         "coingeckoId": "",
         "contract": "",
@@ -616,7 +616,7 @@
         "idoDate": "2021-04-27T00:00:00"
     },
     {
-        "name": "UnoRe",
+        "token": "UnoRe",
         "ticker": "UNO",
         "coingeckoId": "",
         "contract": "",
@@ -630,7 +630,7 @@
         "idoDate": "2021-04-28T00:00:00"
     },
     {
-        "name": "Naos Finance",
+        "token": "Naos Finance",
         "ticker": "NAOS",
         "coingeckoId": "",
         "contract": "",
@@ -644,7 +644,7 @@
         "idoDate": "2021-04-30T00:00:00"
     },
     {
-        "name": "Cere Network",
+        "token": "Cere Network",
         "ticker": "CERE",
         "coingeckoId": "",
         "contract": "",
@@ -658,7 +658,7 @@
         "idoDate": "2021-05-03T00:00:00"
     },
     {
-        "name": "Sienna Network",
+        "token": "Sienna Network",
         "ticker": "SIENNA",
         "coingeckoId": "",
         "contract": "",
@@ -672,7 +672,7 @@
         "idoDate": "2021-05-05T02:00:00"
     },
     {
-        "name": "Shadows Network",
+        "token": "Shadows Network",
         "ticker": "DOWS",
         "coingeckoId": "shadows",
         "contract": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
@@ -686,7 +686,7 @@
         "idoDate": "2021-03-02T00:00:00"
     },
     {
-        "name": "Blind Boxes",
+        "token": "Blind Boxes",
         "ticker": "BLES",
         "coingeckoId": "blind-boxes",
         "contract": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
@@ -700,7 +700,7 @@
         "idoDate": "2021-03-27T00:00:00"
     },
     {
-        "name": "Splyt",
+        "token": "Splyt",
         "ticker": "SPLYT",
         "coingeckoId": "splyt",
         "contract": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
@@ -714,7 +714,7 @@
         "idoDate": "2021-03-31T00:00:00"
     },
     {
-        "name": "AIOZ Network",
+        "token": "AIOZ Network",
         "ticker": "AIOZ",
         "coingeckoId": "aioz-network",
         "contract": "0x626e8036deb333b408be468f951bdb42433cbf18",
@@ -728,7 +728,7 @@
         "idoDate": "2021-04-02T00:00:00"
     },
     {
-        "name": "Deeper Network",
+        "token": "Deeper Network",
         "ticker": "DPR",
         "coingeckoId": "deeper-network",
         "contract": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
@@ -742,7 +742,7 @@
         "idoDate": "2021-04-05T00:00:00"
     },
     {
-        "name": "Equalizer",
+        "token": "Equalizer",
         "ticker": "EQZ",
         "coingeckoId": "equalizer",
         "contract": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
@@ -756,7 +756,7 @@
         "idoDate": "2021-04-09T00:00:00"
     },
     {
-        "name": "Beyond Finance",
+        "token": "Beyond Finance",
         "ticker": "BYN",
         "coingeckoId": "beyond-finance",
         "contract": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
@@ -770,7 +770,7 @@
         "idoDate": "2021-04-12T00:00:00"
     },
     {
-        "name": "Collateral",
+        "token": "Collateral",
         "ticker": "COLL",
         "coingeckoId": "collateral-pay",
         "contract": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
@@ -784,7 +784,7 @@
         "idoDate": "2021-04-16T00:00:00"
     },
     {
-        "name": "StackOS",
+        "token": "StackOS",
         "ticker": "STACK",
         "coingeckoId": "stackos",
         "contract": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
@@ -798,7 +798,7 @@
         "idoDate": "2021-04-23T00:00:00"
     },
     {
-        "name": "Alphr.Finance",
+        "token": "Alphr.Finance",
         "ticker": "ALPHR",
         "coingeckoId": "alphr-finance",
         "contract": "",
@@ -812,7 +812,7 @@
         "idoDate": "2021-04-26T11:00:00"
     },
     {
-        "name": "Smoothly",
+        "token": "Smoothly",
         "ticker": "SMTY",
         "coingeckoId": "smoothy",
         "contract": "",
@@ -826,7 +826,7 @@
         "idoDate": "2021-04-27T11:00:00"
     },
     {
-        "name": "BlockBank",
+        "token": "BlockBank",
         "ticker": "BANK",
         "coingeckoId": "blockbank",
         "contract": "",
@@ -840,7 +840,7 @@
         "idoDate": "2021-04-28T11:00:00"
     },
     {
-        "name": "XFai",
+        "token": "XFai",
         "ticker": "XFIT",
         "coingeckoId": "xfai",
         "contract": "",
@@ -854,7 +854,7 @@
         "idoDate": "2021-04-29T00:00:00"
     },
     {
-        "name": "Plethori",
+        "token": "Plethori",
         "ticker": "PLE",
         "coingeckoId": "plethori",
         "contract": "",
@@ -868,7 +868,7 @@
         "idoDate": "2021-05-03T11:00:00"
     },
     {
-        "name": "Shield Finance",
+        "token": "Shield Finance",
         "ticker": "SHLD",
         "coingeckoId": "",
         "contract": "0xa7e6b2ce535b83e82ab598e9e432705f8d7ce929",
@@ -882,7 +882,7 @@
         "idoDate": "2021-05-05T11:00:00"
     },
     {
-        "name": "Relite",
+        "token": "Relite",
         "ticker": "RELI",
         "coingeckoId": "",
         "contract": "",
@@ -896,13 +896,13 @@
         "idoDate": ""
     },
     {
-        "name": "Globe",
+        "token": "Globe",
         "ticker": "GDT",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
         "telegram": "https://t.me/GlobeOfficial",
-        "twitter": "https://twitter.com/intent/follow?screen_name=globedx",
+        "twitter": "https://twitter.com/intent/follow?screen_token=globedx",
         "idoPlatform": "paidignition",
         "idoCap": "",
         "idoAllocation": "",
@@ -910,7 +910,7 @@
         "idoDate": "2021-04-30T11:00:00"
     },
     {
-        "name": "Playcent",
+        "token": "Playcent",
         "ticker": "PCNT",
         "coingeckoId": "playcent",
         "contract": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
@@ -924,7 +924,7 @@
         "idoDate": "2021-02-06T00:00:00"
     },
     {
-        "name": "Bot Ocean",
+        "token": "Bot Ocean",
         "ticker": "BOTS",
         "coingeckoId": "bot-ocean",
         "contract": "0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
@@ -938,7 +938,7 @@
         "idoDate": "2021-02-08T00:00:00"
     },
     {
-        "name": "Lepricon",
+        "token": "Lepricon",
         "ticker": "L3P",
         "coingeckoId": "lepricon",
         "contract": "0xdef1da03061ddd2a5ef6c59220c135dec623116d",
@@ -952,7 +952,7 @@
         "idoDate": "2021-02-17T00:00:00"
     },
     {
-        "name": "Playcent",
+        "token": "Playcent",
         "ticker": "PCNT",
         "coingeckoId": "playcent",
         "contract": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
@@ -966,7 +966,7 @@
         "idoDate": "2021-03-06T00:00:00"
     },
     {
-        "name": "HAPI",
+        "token": "HAPI",
         "ticker": "HAPI",
         "coingeckoId": "hapi",
         "contract": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
@@ -980,7 +980,7 @@
         "idoDate": "2021-03-10T00:00:00"
     },
     {
-        "name": "LABS Group",
+        "token": "LABS Group",
         "ticker": "LABS",
         "coingeckoId": "labs-group",
         "contract": "0x8b0e42f366ba502d787bb134478adfae966c8798",
@@ -994,7 +994,7 @@
         "idoDate": "2021-03-15T00:00:00"
     },
     {
-        "name": "FM Gallery",
+        "token": "FM Gallery",
         "ticker": "FMG",
         "coingeckoId": "fm-gallery",
         "contract": "0x2991341d28eaea277785d20e1d878d478c7ba4c7",
@@ -1008,7 +1008,7 @@
         "idoDate": "2021-03-22T00:00:00"
     },
     {
-        "name": "MerchDAO",
+        "token": "MerchDAO",
         "ticker": "MRCH",
         "coingeckoId": "merchdao",
         "contract": "0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e",
@@ -1022,7 +1022,7 @@
         "idoDate": "2021-03-27T00:00:00"
     },
     {
-        "name": "Rage Fan",
+        "token": "Rage Fan",
         "ticker": "RAGE",
         "coingeckoId": "rage-fan",
         "contract": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
@@ -1036,7 +1036,7 @@
         "idoDate": "2021-03-31T00:00:00"
     },
     {
-        "name": "Deeper Network",
+        "token": "Deeper Network",
         "ticker": "DPR",
         "coingeckoId": "deeper-network",
         "contract": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
@@ -1050,7 +1050,7 @@
         "idoDate": "2021-04-05T00:00:00"
     },
     {
-        "name": "Gains Associates",
+        "token": "Gains Associates",
         "ticker": "GAINS",
         "coingeckoId": "gains",
         "contract": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
@@ -1064,7 +1064,7 @@
         "idoDate": "2021-04-06T00:00:00"
     },
     {
-        "name": "Yellow Road",
+        "token": "Yellow Road",
         "ticker": "ROAD",
         "coingeckoId": "yellow-road",
         "contract": "0x1a3057027032a1af433f6f596cab15271e4d8196",
@@ -1078,7 +1078,7 @@
         "idoDate": "2021-04-10T13:00:02"
     },
     {
-        "name": "Raze Network",
+        "token": "Raze Network",
         "ticker": "RAZE",
         "coingeckoId": "raze-network",
         "contract": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
@@ -1092,7 +1092,7 @@
         "idoDate": "2021-04-12T00:00:00"
     },
     {
-        "name": "Rocket Vault",
+        "token": "Rocket Vault",
         "ticker": "RVF",
         "coingeckoId": "rocket-vault",
         "contract": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
@@ -1106,7 +1106,7 @@
         "idoDate": "2021-04-13T00:00:00"
     },
     {
-        "name": "Franklin",
+        "token": "Franklin",
         "ticker": "FLY",
         "coingeckoId": "franklin",
         "contract": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
@@ -1120,7 +1120,7 @@
         "idoDate": "2021-04-13T00:00:00"
     },
     {
-        "name": "Disbalancer",
+        "token": "Disbalancer",
         "ticker": "DDOS",
         "coingeckoId": "disbalancer",
         "contract": "0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3",
@@ -1134,7 +1134,7 @@
         "idoDate": "2021-04-15T15:30:00"
     },
     {
-        "name": "Kianite",
+        "token": "Kianite",
         "ticker": "KIAN",
         "coingeckoId": "kianite",
         "contract": "0x5ece3f1542c4e1a06767457e4d8286bea772fc41",
@@ -1148,7 +1148,7 @@
         "idoDate": "2021-04-16T14:00:00"
     },
     {
-        "name": "DeHive",
+        "token": "DeHive",
         "ticker": "DHV",
         "coingeckoId": "dehive",
         "contract": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
@@ -1162,7 +1162,7 @@
         "idoDate": "2021-04-20T14:00:00"
     },
     {
-        "name": "Busy",
+        "token": "Busy",
         "ticker": "BUSY",
         "coingeckoId": "busy-dao",
         "contract": "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a",
@@ -1176,7 +1176,7 @@
         "idoDate": "2021-04-21T14:00:00"
     },
     {
-        "name": "Unifarm",
+        "token": "Unifarm",
         "ticker": "UFARM",
         "coingeckoId": "",
         "contract": "",
@@ -1190,7 +1190,7 @@
         "idoDate": "2021-04-22T00:00:00"
     },
     {
-        "name": "DISCIPLINA",
+        "token": "DISCIPLINA",
         "ticker": "DSCPL",
         "coingeckoId": "",
         "contract": "0x03e3f0c25965f13dbbc58246738c183e27b26a56",
@@ -1204,7 +1204,7 @@
         "idoDate": "2021-04-23T14:00:00"
     },
     {
-        "name": "1MillionNFT",
+        "token": "1MillionNFT",
         "ticker": "1MLN",
         "coingeckoId": "",
         "contract": "",
@@ -1218,7 +1218,7 @@
         "idoDate": "2021-04-24T00:00:00"
     },
     {
-        "name": "Ares Protocol",
+        "token": "Ares Protocol",
         "ticker": "ARES",
         "coingeckoId": "",
         "contract": "0x358AA737e033F34df7c54306960a38d09AaBd523",
@@ -1232,7 +1232,7 @@
         "idoDate": "2021-04-26T00:00:00"
     },
     {
-        "name": "XFai",
+        "token": "XFai",
         "ticker": "XFIT",
         "coingeckoId": "",
         "contract": "",
@@ -1246,7 +1246,7 @@
         "idoDate": "2021-04-29T00:00:00"
     },
     {
-        "name": "Vortex Defi",
+        "token": "Vortex Defi",
         "ticker": "VTX",
         "coingeckoId": "vortex-defi",
         "contract": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
@@ -1260,7 +1260,7 @@
         "idoDate": "2021-02-28T00:00:00"
     },
     {
-        "name": "Shadows",
+        "token": "Shadows",
         "ticker": "DOWS",
         "coingeckoId": "shadows",
         "contract": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
@@ -1274,7 +1274,7 @@
         "idoDate": "2021-03-02T00:00:00"
     },
     {
-        "name": "LABS Group",
+        "token": "LABS Group",
         "ticker": "LABS",
         "coingeckoId": "labs-group",
         "contract": "0x8b0e42f366ba502d787bb134478adfae966c8798",
@@ -1288,7 +1288,7 @@
         "idoDate": "2021-03-07T00:00:00"
     },
     {
-        "name": "Ampnet",
+        "token": "Ampnet",
         "ticker": "AAPX",
         "coingeckoId": "ampnet",
         "contract": "0xbfd815347d024f449886c171f78fa5b8e6790811",
@@ -1302,7 +1302,7 @@
         "idoDate": "2021-03-08T00:00:00"
     },
     {
-        "name": "KeyTango",
+        "token": "KeyTango",
         "ticker": "TANGO",
         "coingeckoId": "keytango",
         "contract": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef",
@@ -1316,7 +1316,7 @@
         "idoDate": "2021-03-11T00:00:00"
     },
     {
-        "name": "PolkaFoundry",
+        "token": "PolkaFoundry",
         "ticker": "PKF",
         "coingeckoId": "polkafoundry",
         "contract": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
@@ -1330,7 +1330,7 @@
         "idoDate": "2021-03-16T00:00:00"
     },
     {
-        "name": "Lepricon",
+        "token": "Lepricon",
         "ticker": "L3P",
         "coingeckoId": "lepricon",
         "contract": "0xdef1da03061ddd2a5ef6c59220c135dec623116d",
@@ -1344,7 +1344,7 @@
         "idoDate": "2021-03-17T00:00:00"
     },
     {
-        "name": "DoraFactory",
+        "token": "DoraFactory",
         "ticker": "DORA",
         "coingeckoId": "dora-factory",
         "contract": "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d",
@@ -1358,7 +1358,7 @@
         "idoDate": "2021-03-21T00:00:00"
     },
     {
-        "name": "Cash Tech",
+        "token": "Cash Tech",
         "ticker": "CATE",
         "coingeckoId": "cash-tech",
         "contract": "0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
@@ -1372,7 +1372,7 @@
         "idoDate": "2021-03-22T00:00:00"
     },
     {
-        "name": "ImpulseVen",
+        "token": "ImpulseVen",
         "ticker": "VEN",
         "coingeckoId": "impulseven",
         "contract": "0xe14e06671702f0db50055388c29adc66821d933b",
@@ -1386,7 +1386,7 @@
         "idoDate": "2021-03-23T00:00:00"
     },
     {
-        "name": "Ethbox",
+        "token": "Ethbox",
         "ticker": "EBOX",
         "coingeckoId": "ethbox-token",
         "contract": "0x33840024177a7daca3468912363bed8b425015c5",
@@ -1400,7 +1400,7 @@
         "idoDate": "2021-03-25T00:00:00"
     },
     {
-        "name": "Ramifi Protocol",
+        "token": "Ramifi Protocol",
         "ticker": "RAM",
         "coingeckoId": "ramifi-protocol",
         "contract": "0xac6fE9aA6b996D15f23E2E9a384fE64607bba7d5",
@@ -1414,7 +1414,7 @@
         "idoDate": "2021-03-30T00:00:00"
     },
     {
-        "name": "Cook Protocol",
+        "token": "Cook Protocol",
         "ticker": "COOK",
         "coingeckoId": "cook-protocol",
         "contract": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
@@ -1428,7 +1428,7 @@
         "idoDate": "2021-03-31T00:00:00"
     },
     {
-        "name": "Collateral Pay",
+        "token": "Collateral Pay",
         "ticker": "COLL",
         "coingeckoId": "collateral-pay",
         "contract": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
@@ -1442,7 +1442,7 @@
         "idoDate": "2021-03-31T00:00:00"
     },
     {
-        "name": "TotemFi",
+        "token": "TotemFi",
         "ticker": "TOTM",
         "coingeckoId": "totemfi",
         "contract": "0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a",
@@ -1456,7 +1456,7 @@
         "idoDate": "2021-04-06T00:00:00"
     },
     {
-        "name": "Cryptonovae",
+        "token": "Cryptonovae",
         "ticker": "YAE",
         "coingeckoId": "cryptonovae",
         "contract": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
@@ -1470,7 +1470,7 @@
         "idoDate": "2021-04-09T00:00:00"
     },
     {
-        "name": "Rocket Vault",
+        "token": "Rocket Vault",
         "ticker": "RVF",
         "coingeckoId": "rocket-vault",
         "contract": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
@@ -1484,7 +1484,7 @@
         "idoDate": "2021-04-12T00:00:00"
     },
     {
-        "name": "Beyond Finance",
+        "token": "Beyond Finance",
         "ticker": "BYN",
         "coingeckoId": "beyond-finance",
         "contract": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
@@ -1498,7 +1498,7 @@
         "idoDate": "2021-04-12T00:00:00"
     },
     {
-        "name": "Raze Network",
+        "token": "Raze Network",
         "ticker": "RAZE",
         "coingeckoId": "raze-network",
         "contract": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
@@ -1512,7 +1512,7 @@
         "idoDate": "2021-04-13T00:00:00"
     },
     {
-        "name": "Franklin",
+        "token": "Franklin",
         "ticker": "FLY",
         "coingeckoId": "franklin",
         "contract": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
@@ -1526,7 +1526,7 @@
         "idoDate": "2021-04-14T00:00:00"
     },
     {
-        "name": "Disbalancer",
+        "token": "Disbalancer",
         "ticker": "DDOS",
         "coingeckoId": "disbalancer",
         "contract": "0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3",
@@ -1540,7 +1540,7 @@
         "idoDate": "2021-04-15T00:00:00"
     },
     {
-        "name": "Unifarm",
+        "token": "Unifarm",
         "ticker": "UFARM",
         "coingeckoId": "",
         "contract": "",
@@ -1554,7 +1554,7 @@
         "idoDate": "2021-04-19T00:00:00"
     },
     {
-        "name": "Melalie",
+        "token": "Melalie",
         "ticker": "MEL",
         "coingeckoId": "melalie",
         "contract": "0xed0889f7e1c7c7267407222be277e1f1ef4d4892",
@@ -1568,7 +1568,7 @@
         "idoDate": "2021-04-21T02:00:00"
     },
     {
-        "name": "Ares Protocol",
+        "token": "Ares Protocol",
         "ticker": "ARES",
         "coingeckoId": "",
         "contract": "0x358AA737e033F34df7c54306960a38d09AaBd523",
@@ -1582,7 +1582,7 @@
         "idoDate": "2021-04-26T00:00:00"
     },
     {
-        "name": "Crypto Puzzles",
+        "token": "Crypto Puzzles",
         "ticker": "CPTE",
         "coingeckoId": "",
         "contract": "",
@@ -1596,7 +1596,7 @@
         "idoDate": "2021-04-26T00:00:00"
     },
     {
-        "name": "Best Token",
+        "token": "Best Token",
         "ticker": "BEST",
         "coingeckoId": "",
         "contract": "",
@@ -1610,7 +1610,7 @@
         "idoDate": "2021-04-30T00:00:00"
     },
     {
-        "name": "PERI Finance",
+        "token": "PERI Finance",
         "ticker": "PERI",
         "coingeckoId": "perifinance",
         "contract": "",
@@ -1624,7 +1624,7 @@
         "idoDate": "2021-05-10T00:00:00"
     },
     {
-        "name": "NFT Tech",
+        "token": "NFT Tech",
         "ticker": "NFTT",
         "coingeckoId": "",
         "contract": "",
@@ -1638,7 +1638,7 @@
         "idoDate": ""
     },
     {
-        "name": "Alphr.Finance",
+        "token": "Alphr.Finance",
         "ticker": "ALPHR",
         "coingeckoId": "alphr-finance",
         "contract": "",
@@ -1652,7 +1652,7 @@
         "idoDate": ""
     },
     {
-        "name": "LTO Network",
+        "token": "LTO Network",
         "ticker": "LTO",
         "coingeckoId": "lto-network",
         "contract": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
@@ -1666,7 +1666,7 @@
         "idoDate": "2019-01-15T00:00:00"
     },
     {
-        "name": "Orion Protocol",
+        "token": "Orion Protocol",
         "ticker": "ORN",
         "coingeckoId": "orion-protocol",
         "contract": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
@@ -1680,7 +1680,7 @@
         "idoDate": "2020-07-15T00:00:00"
     },
     {
-        "name": "Definer",
+        "token": "Definer",
         "ticker": "FIN",
         "coingeckoId": "definer",
         "contract": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
@@ -1694,7 +1694,7 @@
         "idoDate": "2020-09-19T00:00:00"
     },
     {
-        "name": "PlotX",
+        "token": "PlotX",
         "ticker": "PLOT",
         "coingeckoId": "plotx",
         "contract": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
@@ -1708,7 +1708,7 @@
         "idoDate": "2020-09-26T00:00:00"
     },
     {
-        "name": "AnRKey X",
+        "token": "AnRKey X",
         "ticker": "ANRX",
         "coingeckoId": "anrkey-x",
         "contract": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
@@ -1722,7 +1722,7 @@
         "idoDate": "2020-12-07T00:00:00"
     },
     {
-        "name": "Seascape",
+        "token": "Seascape",
         "ticker": "CWS",
         "coingeckoId": "crowns",
         "contract": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
@@ -1736,7 +1736,7 @@
         "idoDate": "2021-01-28T00:00:00"
     },
     {
-        "name": "My Neighbor Alice",
+        "token": "My Neighbor Alice",
         "ticker": "ALICE",
         "coingeckoId": "my-neighbor-alice",
         "contract": "0xac51066d7bec65dc4589368da368b212745d63e8",
@@ -1750,7 +1750,7 @@
         "idoDate": "2021-02-02T00:00:00"
     },
     {
-        "name": "VAIOT",
+        "token": "VAIOT",
         "ticker": "VAI",
         "coingeckoId": "vaiot",
         "contract": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9",
@@ -1764,7 +1764,7 @@
         "idoDate": "2021-02-15T00:00:00"
     },
     {
-        "name": "Xend Finance",
+        "token": "Xend Finance",
         "ticker": "XEND",
         "coingeckoId": "xend-finance",
         "contract": "0xe4cfe9eaa8cdb0942a80b7bc68fd8ab0f6d44903",
@@ -1778,7 +1778,7 @@
         "idoDate": "2021-02-15T00:00:00"
     },
     {
-        "name": "Yield Protocol",
+        "token": "Yield Protocol",
         "ticker": "YIELD",
         "coingeckoId": "yield",
         "contract": "0xa8b61cff52564758a204f841e636265bebc8db9b",
@@ -1792,7 +1792,7 @@
         "idoDate": "2021-02-23T00:00:00"
     },
     {
-        "name": "Aluna",
+        "token": "Aluna",
         "ticker": "ALN",
         "coingeckoId": "aluna",
         "contract": "0x8185bc4757572da2a610f887561c32298f1a5748",
@@ -1806,7 +1806,7 @@
         "idoDate": "2021-03-03T00:00:00"
     },
     {
-        "name": "HAPI",
+        "token": "HAPI",
         "ticker": "HAPI",
         "coingeckoId": "hapi",
         "contract": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
@@ -1820,7 +1820,7 @@
         "idoDate": "2021-03-08T00:00:00"
     },
     {
-        "name": "DAFI Protocol",
+        "token": "DAFI Protocol",
         "ticker": "DAFI",
         "coingeckoId": "dafi-protocol",
         "contract": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
@@ -1834,7 +1834,7 @@
         "idoDate": "2021-03-11T00:00:00"
     },
     {
-        "name": "Crowny",
+        "token": "Crowny",
         "ticker": "CRWNY",
         "coingeckoId": "crowny-token",
         "contract": "0xdbddf072d7aae7b9288e31a4eebe6c54e3a143b1",
@@ -1848,7 +1848,7 @@
         "idoDate": "2021-04-14T00:00:00"
     },
     {
-        "name": "Hord",
+        "token": "Hord",
         "ticker": "Hord",
         "coingeckoId": "Hord",
         "contract": "0x43a96962254855f16b925556f9e97be436a43448",
@@ -1862,7 +1862,7 @@
         "idoDate": "2021-04-22T00:00:00"
     },
     {
-        "name": "Showcase",
+        "token": "Showcase",
         "ticker": "SHO",
         "coingeckoId": "",
         "contract": "",
@@ -1876,7 +1876,7 @@
         "idoDate": "2021-04-22T00:00:00"
     },
     {
-        "name": "OpenPredict Token",
+        "token": "OpenPredict Token",
         "ticker": "OPT",
         "coingeckoId": "open-predict-token",
         "contract": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda",
@@ -1890,7 +1890,7 @@
         "idoDate": "2021-04-23T00:00:00"
     },
     {
-        "name": "Smoothy",
+        "token": "Smoothy",
         "ticker": "SMTY",
         "coingeckoId": "smoothy",
         "contract": "",
@@ -1904,7 +1904,7 @@
         "idoDate": "2021-04-24T00:00:00"
     },
     {
-        "name": "Legends of Crypto",
+        "token": "Legends of Crypto",
         "ticker": "LOCG",
         "coingeckoId": "",
         "contract": "",
@@ -1918,7 +1918,7 @@
         "idoDate": "2021-04-28T00:00:00"
     },
     {
-        "name": "Mochi.Market",
+        "token": "Mochi.Market",
         "ticker": "MOMA",
         "coingeckoId": "",
         "contract": "",
