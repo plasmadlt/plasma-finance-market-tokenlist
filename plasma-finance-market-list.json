@@ -6959,5 +6959,17 @@
     "tags": [
       "nft"
     ]
+  },
+  {
+    "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+    "chainId": 1,
+    "name": "BlockBank",
+    "symbol": "BBANK",
+    "coingeckoId": "",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267.png",
+    "tags": [
+      "defi"
+    ]
   }
 ]
