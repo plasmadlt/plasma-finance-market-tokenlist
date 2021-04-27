@@ -8,7 +8,7 @@
         "telegram": "https://t.me/SpiderDAO",
         "twitter": "https://twitter.com/spiderdao",
         "idoPlatform": "polkastarter",
-        "idoCap": "3333333",
+        "idoAllo": "3333333",
         "idoPrice": "0.03",
         "idoDate": "2020-12-16T00:00:00"
     },
@@ -21,7 +21,7 @@
         "telegram": "https://t.me/polkastarter",
         "twitter": "https://twitter.com/polkastarter",
         "idoPlatform": "polkastarter",
-        "idoCap": "100000",
+        "idoAllo": "100000",
         "idoPrice": "0.6",
         "idoDate": "2020-12-17T00:00:00"
     },
@@ -34,7 +34,7 @@
         "telegram": "https://t.me/mahadao",
         "twitter": "https://twitter.com/themahadao",
         "idoPlatform": "polkastarter",
-        "idoCap": "200000",
+        "idoAllo": "200000",
         "idoPrice": "0.6",
         "idoDate": "2020-12-18T00:00:00"
     },
@@ -47,7 +47,7 @@
         "telegram": "https://t.me/Royalefinanceofficial",
         "twitter": "https://twitter.com/Royale_Finance",
         "idoPlatform": "polkastarter",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.12",
         "idoDate": "2020-12-21T00:00:00"
     },
@@ -60,7 +60,7 @@
         "telegram": "https://t.me/fireprotocol",
         "twitter": "https://twitter.com/FireProtocolOS",
         "idoPlatform": "polkastarter",
-        "idoCap": "416666",
+        "idoAllo": "416666",
         "idoPrice": "0.12",
         "idoDate": "2020-12-28T00:00:00"
     },
@@ -73,7 +73,7 @@
         "telegram": "https://t.me/exeedme",
         "twitter": "https://twitter.com/eXeedme",
         "idoPlatform": "polkastarter",
-        "idoCap": "1500000",
+        "idoAllo": "1500000",
         "idoPrice": "0.05",
         "idoDate": "2020-12-30T00:00:00"
     },
@@ -86,7 +86,7 @@
         "telegram": "https://t.me/Tenetfarm",
         "twitter": "https://twitter.com/TenetFarm",
         "idoPlatform": "polkastarter",
-        "idoCap": "300000",
+        "idoAllo": "300000",
         "idoPrice": "1",
         "idoDate": "2021-01-05T00:00:00"
     },
@@ -99,7 +99,7 @@
         "telegram": "https://t.me/NordFinance",
         "twitter": "https://twitter.com/Nord_Finance",
         "idoPlatform": "polkastarter",
-        "idoCap": "100000",
+        "idoAllo": "100000",
         "idoPrice": "0.9",
         "idoDate": "2021-01-12T00:00:00"
     },
@@ -112,7 +112,7 @@
         "telegram": "https://t.me/yopfi",
         "twitter": "https://twitter.com/yopfi",
         "idoPlatform": "polkastarter",
-        "idoCap": "1212121",
+        "idoAllo": "1212121",
         "idoPrice": "0.05",
         "idoDate": "2021-01-15T00:00:00"
     },
@@ -125,7 +125,7 @@
         "telegram": "https://t.me/Tosdis",
         "twitter": "https://twitter.com/TosdisFinance",
         "idoPlatform": "polkastarter",
-        "idoCap": "8750",
+        "idoAllo": "8750",
         "idoPrice": "51.3",
         "idoDate": "2021-01-20T00:00:00"
     },
@@ -138,7 +138,7 @@
         "telegram": "https://t.me/Polkacoverannouncement",
         "twitter": "https://twitter.com/polkacover",
         "idoPlatform": "polkastarter",
-        "idoCap": "1875000",
+        "idoAllo": "1875000",
         "idoPrice": "0.08",
         "idoDate": "2021-01-21T00:00:00"
     },
@@ -151,7 +151,7 @@
         "telegram": "https://t.me/bridge_mutual",
         "twitter": "https://twitter.com/Bridge_Mutual",
         "idoPlatform": "polkastarter",
-        "idoCap": "1200000",
+        "idoAllo": "1200000",
         "idoPrice": "0.125",
         "idoDate": "2021-01-30T00:00:00"
     },
@@ -164,7 +164,7 @@
         "telegram": "https://t.me/butterflyprotocol",
         "twitter": "https://twitter.com/butterflyproto",
         "idoPlatform": "polkastarter",
-        "idoCap": "370370",
+        "idoAllo": "370370",
         "idoPrice": "0.27",
         "idoDate": "2021-02-04T00:00:00"
     },
@@ -177,7 +177,7 @@
         "telegram": "https://t.me/OptionRoom",
         "twitter": "https://twitter.com/option_room",
         "idoPlatform": "polkastarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.05",
         "idoDate": "2021-02-05T00:00:00"
     },
@@ -190,7 +190,7 @@
         "telegram": "https://t.me/Finxflo_Community",
         "twitter": "https://twitter.com/finxflo",
         "idoPlatform": "polkastarter",
-        "idoCap": "4000000",
+        "idoAllo": "4000000",
         "idoPrice": "0.05",
         "idoDate": "2021-02-08T00:00:00"
     },
@@ -203,7 +203,7 @@
         "telegram": "https://t.me/umbrellanet",
         "twitter": "https://twitter.com/UmbNetwork",
         "idoPlatform": "polkastarter",
-        "idoCap": "5000000",
+        "idoAllo": "5000000",
         "idoPrice": "0.05",
         "idoDate": "2021-02-09T00:00:00"
     },
@@ -216,7 +216,7 @@
         "telegram": "https://t.me/DAOventures",
         "twitter": "https://twitter.com/VenturesDao",
         "idoPlatform": "polkastarter",
-        "idoCap": "444444",
+        "idoAllo": "444444",
         "idoPrice": "0.225",
         "idoDate": "2021-02-15T00:00:00"
     },
@@ -229,7 +229,7 @@
         "telegram": "https://t.me/SuperFarmDAO",
         "twitter": "https://twitter.com/SuperFarmDao",
         "idoPlatform": "polkastarter",
-        "idoCap": "10000000",
+        "idoAllo": "10000000",
         "idoPrice": "0.025",
         "idoDate": "2021-02-22T00:00:00"
     },
@@ -242,7 +242,7 @@
         "telegram": "https://t.me/polkamarkets",
         "twitter": "https://twitter.com/polkamarkets",
         "idoPlatform": "polkastarter",
-        "idoCap": "3000000",
+        "idoAllo": "3000000",
         "idoPrice": "0.03",
         "idoDate": "2021-02-24T00:00:00"
     },
@@ -255,7 +255,7 @@
         "telegram": "https://t.me/fractal_protocol",
         "twitter": "https://twitter.com/fractalprtcl",
         "idoPlatform": "polkastarter",
-        "idoCap": "4000000",
+        "idoAllo": "4000000",
         "idoPrice": "0.1",
         "idoDate": "2021-02-25T00:00:00"
     },
@@ -268,7 +268,7 @@
         "telegram": "https://t.me/PublicMint",
         "twitter": "https://twitter.com/PublicMint",
         "idoPlatform": "polkastarter",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.1",
         "idoDate": "2021-02-26T00:00:00"
     },
@@ -281,7 +281,7 @@
         "telegram": "https://t.me/antimatterchat",
         "twitter": "https://twitter.com/antimatterdefi",
         "idoPlatform": "polkastarter",
-        "idoCap": "500000",
+        "idoAllo": "500000",
         "idoPrice": "0.05",
         "idoDate": "2021-02-27T00:00:00"
     },
@@ -294,7 +294,7 @@
         "telegram": "https://t.me/KylinOfficial",
         "twitter": "https://twitter.com/Kylin_Network",
         "idoPlatform": "polkastarter",
-        "idoCap": "15000000",
+        "idoAllo": "15000000",
         "idoPrice": "0.05",
         "idoDate": "2021-03-01T00:00:00"
     },
@@ -307,7 +307,7 @@
         "telegram": "https://t.me/apyswapcom",
         "twitter": "https://twitter.com/apyswap",
         "idoPlatform": "polkastarter",
-        "idoCap": "670000",
+        "idoAllo": "670000",
         "idoPrice": "0.186",
         "idoDate": "2021-03-02T00:00:00"
     },
@@ -320,7 +320,7 @@
         "telegram": "https://t.me/unidogroup",
         "twitter": "https://twitter.com/UnidoEP",
         "idoPlatform": "polkastarter",
-        "idoCap": "1666666",
+        "idoAllo": "1666666",
         "idoPrice": "0.06",
         "idoDate": "2021-03-03T00:00:00"
     },
@@ -333,7 +333,7 @@
         "telegram": "https://t.me/blankwallet",
         "twitter": "https://twitter.com/BlankWallet",
         "idoPlatform": "polkastarter",
-        "idoCap": "1875000",
+        "idoAllo": "1875000",
         "idoPrice": "0.064",
         "idoDate": "2021-03-05T00:00:00"
     },
@@ -346,7 +346,7 @@
         "telegram": "https://t.me/EthernityChain",
         "twitter": "https://twitter.com/ethernitychain",
         "idoPlatform": "polkastarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.275",
         "idoDate": "2021-03-08T00:00:00"
     },
@@ -359,7 +359,7 @@
         "telegram": "https://t.me/ChainGuardians",
         "twitter": "https://twitter.com/chain_guardians",
         "idoPlatform": "polkastarter",
-        "idoCap": "1800000",
+        "idoAllo": "1800000",
         "idoPrice": "0.12",
         "idoDate": "2021-03-10T00:00:00"
     },
@@ -372,7 +372,7 @@
         "telegram": "https://t.me/blockchaincuties_en",
         "twitter": "https://twitter.com/BlockchainCutie",
         "idoPlatform": "polkastarter",
-        "idoCap": "200000",
+        "idoAllo": "200000",
         "idoPrice": "2.2",
         "idoDate": "2021-03-15T00:00:00"
     },
@@ -385,7 +385,7 @@
         "telegram": "https://t.me/konominetwork",
         "twitter": "https://twitter.com/KonomiNetwork",
         "idoPlatform": "polkastarter",
-        "idoCap": "500000",
+        "idoAllo": "500000",
         "idoPrice": "0.4",
         "idoDate": "2021-03-16T00:00:00"
     },
@@ -398,7 +398,7 @@
         "telegram": "https://t.me/oddz_finance",
         "twitter": "https://twitter.com/oddz_finance",
         "idoPlatform": "polkastarter",
-        "idoCap": "300000",
+        "idoAllo": "300000",
         "idoPrice": "0.167",
         "idoDate": "2021-03-18T00:00:00"
     },
@@ -411,7 +411,7 @@
         "telegram": "https://t.me/TidalGlobal",
         "twitter": "https://twitter.com/tidaldefi",
         "idoPlatform": "polkastarter",
-        "idoCap": "26666666",
+        "idoAllo": "26666666",
         "idoPrice": "0.00375",
         "idoDate": "2021-03-23T00:00:00"
     },
@@ -424,7 +424,7 @@
         "telegram": "https://t.me/convergencefinanceofficial",
         "twitter": "https://twitter.com/ConvergenceFin",
         "idoPlatform": "polkastarter",
-        "idoCap": "60000000",
+        "idoAllo": "60000000",
         "idoPrice": "0.005",
         "idoDate": "2021-03-25T00:00:00"
     },
@@ -437,7 +437,7 @@
         "telegram": "https://t.me/shyftnetwork",
         "twitter": "https://twitter.com/shyftnetwork",
         "idoPlatform": "polkastarter",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.2",
         "idoDate": "2021-03-27T00:00:00"
     },
@@ -450,7 +450,7 @@
         "telegram": "https://t.me/Unmarshal_Chat",
         "twitter": "https://twitter.com/unmarshal",
         "idoPlatform": "polkastarter",
-        "idoCap": "1200000",
+        "idoAllo": "1200000",
         "idoPrice": "0.17",
         "idoDate": "2021-03-30T00:00:00"
     },
@@ -463,7 +463,7 @@
         "telegram": "https://t.me/polkamonorg",
         "twitter": "https://twitter.com/Polkamonorg",
         "idoPlatform": "polkastarter",
-        "idoCap": "285000",
+        "idoAllo": "285000",
         "idoPrice": "0.35",
         "idoDate": "2021-03-31T00:00:00"
     },
@@ -476,7 +476,7 @@
         "telegram": "https://t.me/joinchat/UHl_eLOuLNZCioHg",
         "twitter": "https://twitter.com/polkalokr",
         "idoPlatform": "polkastarter",
-        "idoCap": "3000000",
+        "idoAllo": "3000000",
         "idoPrice": "0.05",
         "idoDate": "2021-04-07T00:00:00"
     },
@@ -489,7 +489,7 @@
         "telegram": "https://t.me/kattana_announcement",
         "twitter": "https://twitter.com/kattanatrade",
         "idoPlatform": "polkastarter",
-        "idoCap": "200000",
+        "idoAllo": "200000",
         "idoPrice": "1",
         "idoDate": "2021-04-09T00:00:00"
     },
@@ -502,7 +502,7 @@
         "telegram": "https://t.me/cerenetwork_official",
         "twitter": "https://twitter.com/cerenetwork",
         "idoPlatform": "polkastarter",
-        "idoCap": "8333333",
+        "idoAllo": "8333333",
         "idoPrice": "0.12",
         "idoDate": "2021-04-13T00:00:00"
     },
@@ -515,7 +515,7 @@
         "telegram": "https://t.me/genshardsANN",
         "twitter": "https://twitter.com/GenShards",
         "idoPlatform": "polkastarter",
-        "idoCap": "1041666",
+        "idoAllo": "1041666",
         "idoPrice": "0.12",
         "idoDate": "2021-04-14T02:00:00"
     },
@@ -528,7 +528,7 @@
         "telegram": "https://t.me/Polkadex",
         "twitter": "https://twitter.com/polkadex",
         "idoPlatform": "polkastarter",
-        "idoCap": "125000",
+        "idoAllo": "125000",
         "idoPrice": "2",
         "idoDate": "2021-04-16T09:30:00"
     },
@@ -541,7 +541,7 @@
         "telegram": "https://t.me/SaitoIOann",
         "twitter": "https://twitter.com/SaitoOfficial",
         "idoPlatform": "polkastarter",
-        "idoCap": "100000000",
+        "idoAllo": "100000000",
         "idoPrice": "0.004",
         "idoDate": "2021-04-22T00:00:00"
     },
@@ -554,7 +554,7 @@
         "telegram": "https://t.me/refinableapp",
         "twitter": "https://twitter.com/refinableapp",
         "idoPlatform": "polkastarter",
-        "idoCap": "5454545",
+        "idoAllo": "5454545",
         "idoPrice": "0.033",
         "idoDate": "2021-04-23T00:00:00"
     },
@@ -567,7 +567,7 @@
         "telegram": "https://t.me/standard_protocol",
         "twitter": "https://twitter.com/standarddefi",
         "idoPlatform": "polkastarter",
-        "idoCap": "325000",
+        "idoAllo": "325000",
         "idoPrice": "0.25",
         "idoDate": "2021-04-27T00:00:00"
     },
@@ -580,7 +580,7 @@
         "telegram": "https://t.me/UnoReinsure",
         "twitter": "https://twitter.com/unoreinsure",
         "idoPlatform": "polkastarter",
-        "idoCap": "1666666",
+        "idoAllo": "1666666",
         "idoPrice": "0.12",
         "idoDate": "2021-04-28T00:00:00"
     },
@@ -593,7 +593,7 @@
         "telegram": "https://t.me/naos_finance",
         "twitter": "https://twitter.com/naos_finance/status/1384412638495395844",
         "idoPlatform": "polkastarter",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-04-30T00:00:00"
     },
@@ -606,7 +606,7 @@
         "telegram": "https://t.me/cerenetwork_official",
         "twitter": "https://twitter.com/cerenetwork",
         "idoPlatform": "polkastarter",
-        "idoCap": "25000000",
+        "idoAllo": "25000000",
         "idoPrice": "0.02",
         "idoDate": "2021-05-03T00:00:00"
     },
@@ -619,7 +619,7 @@
         "telegram": "https://t.me/GoSiennaNetwork",
         "twitter": "https://twitter.com/sienna_network",
         "idoPlatform": "polkastarter",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "6",
         "idoDate": "2021-05-05T02:00:00"
     },
@@ -632,7 +632,7 @@
         "telegram": "https://t.me/Shadows_defi",
         "twitter": "https://twitter.com/shadows_defi",
         "idoPlatform": "paidignition",
-        "idoCap": "2000000",
+        "idoAllo": "2000000",
         "idoPrice": "0.125",
         "idoDate": "2021-03-02T00:00:00"
     },
@@ -645,7 +645,7 @@
         "telegram": "https://t.me/blindboxes",
         "twitter": "https://twitter.com/blindboxes_io",
         "idoPlatform": "paidignition",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.15",
         "idoDate": "2021-03-27T00:00:00"
     },
@@ -658,7 +658,7 @@
         "telegram": "https://t.me/splytcore",
         "twitter": "https://twitter.com/splytcore",
         "idoPlatform": "paidignition",
-        "idoCap": "5214285",
+        "idoAllo": "5214285",
         "idoPrice": "0.042",
         "idoDate": "2021-03-31T00:00:00"
     },
@@ -671,7 +671,7 @@
         "telegram": "https://t.me/aioznetwork",
         "twitter": "https://twitter.com/aioznetwork",
         "idoPlatform": "paidignition",
-        "idoCap": "10333333",
+        "idoAllo": "10333333",
         "idoPrice": "0.015",
         "idoDate": "2021-04-02T00:00:00"
     },
@@ -684,7 +684,7 @@
         "telegram": "https://t.me/DeeperNetwork",
         "twitter": "https://twitter.com/deeper_network",
         "idoPlatform": "paidignition",
-        "idoCap": "62500000",
+        "idoAllo": "62500000",
         "idoPrice": "0.012",
         "idoDate": "2021-04-05T00:00:00"
     },
@@ -697,7 +697,7 @@
         "telegram": "https://t.me/EqualizerFlash",
         "twitter": "https://twitter.com/EqualizerFlash",
         "idoPlatform": "paidignition",
-        "idoCap": "833333",
+        "idoAllo": "833333",
         "idoPrice": "0.12",
         "idoDate": "2021-04-09T00:00:00"
     },
@@ -710,7 +710,7 @@
         "telegram": "https://t.me/beyondfinanceglobal",
         "twitter": "https://twitter.com/beyondfinanceio",
         "idoPlatform": "paidignition",
-        "idoCap": "150000",
+        "idoAllo": "150000",
         "idoPrice": "0.5",
         "idoDate": "2021-04-12T00:00:00"
     },
@@ -723,7 +723,7 @@
         "telegram": "https://t.me/CollateralChat",
         "twitter": "https://twitter.com/collateraldefi",
         "idoPlatform": "paidignition",
-        "idoCap": "250000",
+        "idoAllo": "250000",
         "idoPrice": "0.4",
         "idoDate": "2021-04-16T00:00:00"
     },
@@ -736,7 +736,7 @@
         "telegram": "https://t.me/StackOS",
         "twitter": "https://twitter.com/DeployOnStackOS",
         "idoPlatform": "paidignition",
-        "idoCap": "14000000",
+        "idoAllo": "14000000",
         "idoPrice": "0.015",
         "idoDate": "2021-04-23T00:00:00"
     },
@@ -749,7 +749,7 @@
         "telegram": "https://t.me/alphrfinance",
         "twitter": "https://twitter.com/alphrfinance",
         "idoPlatform": "paidignition",
-        "idoCap": "66667",
+        "idoAllo": "66667",
         "idoPrice": "1.5",
         "idoDate": "2021-04-26T11:00:00"
     },
@@ -762,7 +762,7 @@
         "telegram": "https://t.me/Smoothy_finance",
         "twitter": "https://twitter.com/smoothswap/",
         "idoPlatform": "paidignition",
-        "idoCap": "300000",
+        "idoAllo": "300000",
         "idoPrice": "0.5",
         "idoDate": "2021-04-27T11:00:00"
     },
@@ -775,7 +775,7 @@
         "telegram": "https://t.me/BlockBankApp",
         "twitter": "https://twitter.com/BLOCKBANKapp",
         "idoPlatform": "paidignition",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-04-28T11:00:00"
     },
@@ -788,7 +788,7 @@
         "telegram": "https://t.me/xfaiofficial",
         "twitter": "https://twitter.com/xfai_official",
         "idoPlatform": "paidignition",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-04-29T00:00:00"
     },
@@ -801,7 +801,7 @@
         "telegram": "https://t.me/plethori",
         "twitter": "https://twitter.com/plethori",
         "idoPlatform": "paidignition",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.04",
         "idoDate": "2021-05-03T11:00:00"
     },
@@ -814,7 +814,7 @@
         "telegram": "https://t.me/ShieldFinanceHQ",
         "twitter": "https://twitter.com/ShieldFinanceHQ",
         "idoPlatform": "paidignition",
-        "idoCap": "14563106",
+        "idoAllo": "14563106",
         "idoPrice": "0.0103",
         "idoDate": "2021-05-05T11:00:00"
     },
@@ -827,7 +827,7 @@
         "telegram": "https://t.me/ReliteFinanceOfficial",
         "twitter": "https://twitter.com/relitefinance",
         "idoPlatform": "paidignition",
-        "idoCap": "11111111",
+        "idoAllo": "11111111",
         "idoPrice": "0.045",
         "idoDate": ""
     },
@@ -840,7 +840,7 @@
         "telegram": "https://t.me/GlobeOfficial",
         "twitter": "https://twitter.com/intent/follow?screen_name=globedx",
         "idoPlatform": "paidignition",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-04-30T11:00:00"
     },
@@ -853,7 +853,7 @@
         "telegram": "https://t.me/playcentglobal",
         "twitter": "https://twitter.com/playcentglobal",
         "idoPlatform": "poolz",
-        "idoCap": "2400000",
+        "idoAllo": "2400000",
         "idoPrice": "0.12",
         "idoDate": "2021-02-06T00:00:00"
     },
@@ -866,7 +866,7 @@
         "telegram": "https://t.me/botocean",
         "twitter": "https://twitter.com/BotOceanInc",
         "idoPlatform": "poolz",
-        "idoCap": "3000000",
+        "idoAllo": "3000000",
         "idoPrice": "0.032",
         "idoDate": "2021-02-08T00:00:00"
     },
@@ -879,7 +879,7 @@
         "telegram": "https://t.me/lepriconio",
         "twitter": "https://twitter.com/lepriconio",
         "idoPlatform": "poolz",
-        "idoCap": "2857142",
+        "idoAllo": "2857142",
         "idoPrice": "0.035",
         "idoDate": "2021-02-17T00:00:00"
     },
@@ -892,7 +892,7 @@
         "telegram": "https://t.me/hapiHF",
         "twitter": "https://twitter.com/i_am_hapi_one",
         "idoPlatform": "poolz",
-        "idoCap": "10000",
+        "idoAllo": "10000",
         "idoPrice": "10",
         "idoDate": "2021-03-10T00:00:00"
     },
@@ -905,7 +905,7 @@
         "telegram": "https://t.me/labsgroupio",
         "twitter": "https://twitter.com/labsgroupio",
         "idoPlatform": "poolz",
-        "idoCap": "16666666",
+        "idoAllo": "16666666",
         "idoPrice": "0.006",
         "idoDate": "2021-03-15T00:00:00"
     },
@@ -918,7 +918,7 @@
         "telegram": "https://t.me/fmgalleryann",
         "twitter": "https://twitter.com/fm_gallery",
         "idoPlatform": "poolz",
-        "idoCap": "733333",
+        "idoAllo": "733333",
         "idoPrice": "0.15",
         "idoDate": "2021-03-22T00:00:00"
     },
@@ -931,7 +931,7 @@
         "telegram": "https://t.me/MerchDAO",
         "twitter": "https://twitter.com/MerchDao",
         "idoPlatform": "poolz",
-        "idoCap": "200000",
+        "idoAllo": "200000",
         "idoPrice": "0.6",
         "idoDate": "2021-03-27T00:00:00"
     },
@@ -944,7 +944,7 @@
         "telegram": "https://t.me/rage_fan",
         "twitter": "https://twitter.com/RageFanSocial",
         "idoPlatform": "poolz",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.04",
         "idoDate": "2021-03-31T00:00:00"
     },
@@ -957,7 +957,7 @@
         "telegram": "https://t.me/DeeperNetwork",
         "twitter": "https://twitter.com/deeper_network",
         "idoPlatform": "poolz",
-        "idoCap": "25000000",
+        "idoAllo": "25000000",
         "idoPrice": "0.012",
         "idoDate": "2021-04-05T00:00:00"
     },
@@ -970,7 +970,7 @@
         "telegram": "https://t.me/GainsChat",
         "twitter": "https://twitter.com/GainsAssociates",
         "idoPlatform": "poolz",
-        "idoCap": "2000000",
+        "idoAllo": "2000000",
         "idoPrice": "0.05",
         "idoDate": "2021-04-06T00:00:00"
     },
@@ -983,7 +983,7 @@
         "telegram": "https://t.me/yellowroadofficial",
         "twitter": "https://twitter.com/YellowRoad__",
         "idoPlatform": "poolz",
-        "idoCap": "350000",
+        "idoAllo": "350000",
         "idoPrice": "0.2",
         "idoDate": "2021-04-10T13:00:02"
     },
@@ -996,7 +996,7 @@
         "telegram": "https://t.me/Raze_Net",
         "twitter": "https://twitter.com/R4ZE_Network",
         "idoPlatform": "poolz",
-        "idoCap": "280000",
+        "idoAllo": "280000",
         "idoPrice": "0.25",
         "idoDate": "2021-04-12T00:00:00"
     },
@@ -1009,7 +1009,7 @@
         "telegram": "https://t.me/rocketvault",
         "twitter": "https://twitter.com/RocketVault_",
         "idoPlatform": "poolz",
-        "idoCap": "1598438",
+        "idoAllo": "1598438",
         "idoPrice": "0.08",
         "idoDate": "2021-04-13T00:00:00"
     },
@@ -1022,7 +1022,7 @@
         "telegram": "https://t.me/fly_global",
         "twitter": "https://twitter.com/FrankLinYield",
         "idoPlatform": "poolz",
-        "idoCap": "3645287",
+        "idoAllo": "3645287",
         "idoPrice": "0.024",
         "idoDate": "2021-04-13T00:00:00"
     },
@@ -1035,7 +1035,7 @@
         "telegram": "https://t.me/disbalancer_group",
         "twitter": "https://twitter.com/thedisbalancer",
         "idoPlatform": "poolz",
-        "idoCap": "140000",
+        "idoAllo": "140000",
         "idoPrice": "0.5",
         "idoDate": "2021-04-15T15:30:00"
     },
@@ -1048,7 +1048,7 @@
         "telegram": "https://t.me/kianite_co",
         "twitter": "https://twitter.com/KianiteFinance",
         "idoPlatform": "poolz",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.11",
         "idoDate": "2021-04-16T14:00:00"
     },
@@ -1061,7 +1061,7 @@
         "telegram": "https://t.me/DeHive_chat",
         "twitter": "https://twitter.com/dehive_finance",
         "idoPlatform": "poolz",
-        "idoCap": "50000",
+        "idoAllo": "50000",
         "idoPrice": "3",
         "idoDate": "2021-04-20T14:00:00"
     },
@@ -1074,7 +1074,7 @@
         "telegram": "https://t.me/busy_official",
         "twitter": "https://twitter.com/Busy_Technology",
         "idoPlatform": "poolz",
-        "idoCap": "1716666",
+        "idoAllo": "1716666",
         "idoPrice": "0.06",
         "idoDate": "2021-04-21T14:00:00"
     },
@@ -1087,7 +1087,7 @@
         "telegram": "https://t.me/unifarm",
         "twitter": "https://twitter.com/unifarm_",
         "idoPlatform": "poolz",
-        "idoCap": "1800000",
+        "idoAllo": "1800000",
         "idoPrice": "0.02",
         "idoDate": "2021-04-22T00:00:00"
     },
@@ -1100,7 +1100,7 @@
         "telegram": "https://t.me/disciplinaofficial",
         "twitter": "https://twitter.com/tchmpls_events",
         "idoPlatform": "poolz",
-        "idoCap": "8500000",
+        "idoAllo": "8500000",
         "idoPrice": "0.035",
         "idoDate": "2021-04-23T14:00:00"
     },
@@ -1113,7 +1113,7 @@
         "telegram": "https://t.me/OneMillionNFTs",
         "twitter": "https://twitter.com/1millionnft",
         "idoPlatform": "poolz",
-        "idoCap": "20000",
+        "idoAllo": "20000",
         "idoPrice": "5",
         "idoDate": "2021-04-24T00:00:00"
     },
@@ -1126,7 +1126,7 @@
         "telegram": "https://t.me/Aresprotocols",
         "twitter": "https://twitter.com/AresProtocols",
         "idoPlatform": "poolz",
-        "idoCap": "220000",
+        "idoAllo": "220000",
         "idoPrice": "0.03",
         "idoDate": "2021-04-26T00:00:00"
     },
@@ -1139,7 +1139,7 @@
         "telegram": "https://t.me/xfaiofficial",
         "twitter": "https://twitter.com/xfai_official",
         "idoPlatform": "poolz",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "0.12",
         "idoDate": "2021-04-29T00:00:00"
     },
@@ -1152,7 +1152,7 @@
         "telegram": "https://t.me/VortexDeFiOfficial",
         "twitter": "https://twitter.com/vortexdefi",
         "idoPlatform": "duckstarter",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.04",
         "idoDate": "2021-02-28T00:00:00"
     },
@@ -1165,7 +1165,7 @@
         "telegram": "https://t.me/Shadows_defi",
         "twitter": "https://twitter.com/shadows_defi",
         "idoPlatform": "duckstarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.125",
         "idoDate": "2021-03-02T00:00:00"
     },
@@ -1178,7 +1178,7 @@
         "telegram": "https://t.me/labsgroupio",
         "twitter": "https://twitter.com/labsgroupio",
         "idoPlatform": "duckstarter",
-        "idoCap": "33333333",
+        "idoAllo": "33333333",
         "idoPrice": "0.006",
         "idoDate": "2021-03-07T00:00:00"
     },
@@ -1191,7 +1191,7 @@
         "telegram": "https://t.me/ampnetapx",
         "twitter": "https://twitter.com/ampnetio",
         "idoPlatform": "duckstarter",
-        "idoCap": "160000",
+        "idoAllo": "160000",
         "idoPrice": "2.5",
         "idoDate": "2021-03-08T00:00:00"
     },
@@ -1204,7 +1204,7 @@
         "telegram": "https://t.me/keyTango",
         "twitter": "https://twitter.com/TangoKey",
         "idoPlatform": "duckstarter",
-        "idoCap": "400000",
+        "idoAllo": "400000",
         "idoPrice": "0.5",
         "idoDate": "2021-03-11T00:00:00"
     },
@@ -1217,7 +1217,7 @@
         "telegram": "https://t.me/polkafoundry",
         "twitter": "https://twitter.com/polkafoundry",
         "idoPlatform": "duckstarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.1",
         "idoDate": "2021-03-16T00:00:00"
     },
@@ -1230,7 +1230,7 @@
         "telegram": "https://t.me/lepriconio",
         "twitter": "https://twitter.com/lepriconio",
         "idoPlatform": "duckstarter",
-        "idoCap": "4285715",
+        "idoAllo": "4285715",
         "idoPrice": "0.035",
         "idoDate": "2021-03-17T00:00:00"
     },
@@ -1243,7 +1243,7 @@
         "telegram": "https://t.me/dorafactory",
         "twitter": "https://twitter.com/DoraFactory",
         "idoPlatform": "duckstarter",
-        "idoCap": "12500",
+        "idoAllo": "12500",
         "idoPrice": "8",
         "idoDate": "2021-03-21T00:00:00"
     },
@@ -1256,7 +1256,7 @@
         "telegram": "https://t.me/cashtechchat",
         "twitter": "https://twitter.com/TechCashDeFi",
         "idoPlatform": "duckstarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.1",
         "idoDate": "2021-03-22T00:00:00"
     },
@@ -1269,7 +1269,7 @@
         "telegram": "https://t.me/ImpulseVen",
         "twitter": "https://twitter.com/Impulse_ven",
         "idoPlatform": "duckstarter",
-        "idoCap": "150000",
+        "idoAllo": "150000",
         "idoPrice": "0.75",
         "idoDate": "2021-03-23T00:00:00"
     },
@@ -1282,7 +1282,7 @@
         "telegram": "https://www.t.me/ethbox_official",
         "twitter": "https://twitter.com/ethbox_official",
         "idoPlatform": "duckstarter",
-        "idoCap": "1625000",
+        "idoAllo": "1625000",
         "idoPrice": "0.055",
         "idoDate": "2021-03-25T00:00:00"
     },
@@ -1295,7 +1295,7 @@
         "telegram": "https://t.me/ramifiprotocol",
         "twitter": "https://twitter.com/RamifiProtocol",
         "idoPlatform": "duckstarter",
-        "idoCap": "99000",
+        "idoAllo": "99000",
         "idoPrice": "1",
         "idoDate": "2021-03-30T00:00:00"
     },
@@ -1308,7 +1308,7 @@
         "telegram": "https://t.me/cook_english",
         "twitter": "https://twitter.com/cook_finance",
         "idoPlatform": "duckstarter",
-        "idoCap": "4290000",
+        "idoAllo": "4290000",
         "idoPrice": "0.03",
         "idoDate": "2021-03-31T00:00:00"
     },
@@ -1321,7 +1321,7 @@
         "telegram": "https://t.me/CollateralChat",
         "twitter": "https://twitter.com/collateraldefi",
         "idoPlatform": "duckstarter",
-        "idoCap": "375000",
+        "idoAllo": "375000",
         "idoPrice": "0.4",
         "idoDate": "2021-03-31T00:00:00"
     },
@@ -1334,7 +1334,7 @@
         "telegram": "https://t.me/totemfi",
         "twitter": "https://twitter.com/TotemFi",
         "idoPlatform": "duckstarter",
-        "idoCap": "361111",
+        "idoAllo": "361111",
         "idoPrice": "0.225",
         "idoDate": "2021-04-06T00:00:00"
     },
@@ -1347,7 +1347,7 @@
         "telegram": "https://t.me/cryptonovae_community",
         "twitter": "https://twitter.com/Crypto_novae",
         "idoPlatform": "duckstarter",
-        "idoCap": "1500000",
+        "idoAllo": "1500000",
         "idoPrice": "0.08",
         "idoDate": "2021-04-09T00:00:00"
     },
@@ -1360,7 +1360,7 @@
         "telegram": "https://t.me/rocketvault",
         "twitter": "https://twitter.com/RocketVault_",
         "idoPlatform": "duckstarter",
-        "idoCap": "1401562",
+        "idoAllo": "1401562",
         "idoPrice": "0.08",
         "idoDate": "2021-04-12T00:00:00"
     },
@@ -1373,7 +1373,7 @@
         "telegram": "https://t.me/beyondfinancenews",
         "twitter": "https://twitter.com/beyondfinanceio",
         "idoPlatform": "duckstarter",
-        "idoCap": "292500",
+        "idoAllo": "292500",
         "idoPrice": "0.5",
         "idoDate": "2021-04-12T00:00:00"
     },
@@ -1386,7 +1386,7 @@
         "telegram": "https://t.me/Raze_Net",
         "twitter": "https://twitter.com/R4ZE_Network",
         "idoPlatform": "duckstarter",
-        "idoCap": "380250",
+        "idoAllo": "380250",
         "idoPrice": "0.25",
         "idoDate": "2021-04-13T00:00:00"
     },
@@ -1399,7 +1399,7 @@
         "telegram": "https://t.me/fly_global",
         "twitter": "https://twitter.com/FrankLinYield",
         "idoPlatform": "duckstarter",
-        "idoCap": "4062500",
+        "idoAllo": "4062500",
         "idoPrice": "0.024",
         "idoDate": "2021-04-14T00:00:00"
     },
@@ -1412,7 +1412,7 @@
         "telegram": "https://t.me/disbalancer_group",
         "twitter": "https://twitter.com/thedisbalancer",
         "idoPlatform": "duckstarter",
-        "idoCap": "140000",
+        "idoAllo": "140000",
         "idoPrice": "0.5",
         "idoDate": "2021-04-15T00:00:00"
     },
@@ -1425,7 +1425,7 @@
         "telegram": "https://t.me/unifarm",
         "twitter": "https://twitter.com/unifarm_",
         "idoPlatform": "duckstarter",
-        "idoCap": "2437500",
+        "idoAllo": "2437500",
         "idoPrice": "0.04",
         "idoDate": "2021-04-19T00:00:00"
     },
@@ -1438,7 +1438,7 @@
         "telegram": "https://t.me/melalie_announcemets",
         "twitter": "https://twitter.com/melalienetwork",
         "idoPlatform": "duckstarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.1",
         "idoDate": "2021-04-21T02:00:00"
     },
@@ -1451,7 +1451,7 @@
         "telegram": "https://t.me/Aresprotocols",
         "twitter": "https://twitter.com/AresProtocols",
         "idoPlatform": "duckstarter",
-        "idoCap": "600000",
+        "idoAllo": "600000",
         "idoPrice": "0.03",
         "idoDate": "2021-04-26T00:00:00"
     },
@@ -1464,7 +1464,7 @@
         "telegram": "https://t.me/cryptopuzzlle",
         "twitter": "https://twitter.com/Cryptopuzzles_",
         "idoPlatform": "duckstarter",
-        "idoCap": "150000",
+        "idoAllo": "150000",
         "idoPrice": "0.05",
         "idoDate": "2021-04-26T00:00:00"
     },
@@ -1477,7 +1477,7 @@
         "telegram": "https://t.me/bestokens",
         "twitter": "https://twitter.com/BESTokens",
         "idoPlatform": "duckstarter",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-04-30T00:00:00"
     },
@@ -1490,7 +1490,7 @@
         "telegram": "https://t.me/peri_global",
         "twitter": "https://twitter.com/PERIfinance",
         "idoPlatform": "duckstarter",
-        "idoCap": "",
+        "idoAllo": "",
         "idoPrice": "",
         "idoDate": "2021-05-10T00:00:00"
     },
@@ -1503,7 +1503,7 @@
         "telegram": "https://t.me/nfttech",
         "twitter": "https://twitter.com/TechNFTT",
         "idoPlatform": "duckstarter",
-        "idoCap": "1000000",
+        "idoAllo": "1000000",
         "idoPrice": "0.5",
         "idoDate": ""
     },
@@ -1516,7 +1516,7 @@
         "telegram": "https://t.me/alphrfinance",
         "twitter": "https://twitter.com/alphrfinance",
         "idoPlatform": "daomaker",
-        "idoCap": "100000",
+        "idoAllo": "100000",
         "idoPrice": "1.5",
         "idoDate": ""
     },
@@ -1529,7 +1529,7 @@
         "telegram": "https://t.me/LTOnetwork",
         "twitter": "https://twitter.com/TheLTONetwork",
         "idoPlatform": "daomaker",
-        "idoCap": "135761589",
+        "idoAllo": "135761589",
         "idoPrice": "0.0302",
         "idoDate": "2019-01-15T00:00:00"
     },
@@ -1542,7 +1542,7 @@
         "telegram": "https://t.me/orionprotocol",
         "twitter": "https://twitter.com/orion_protocol",
         "idoPlatform": "daomaker",
-        "idoCap": "400000",
+        "idoAllo": "400000",
         "idoPrice": "0.1",
         "idoDate": "2020-07-15T00:00:00"
     },
@@ -1555,7 +1555,7 @@
         "telegram": "https://t.me/DeFiner",
         "twitter": "https://twitter.com/DeFinerOrg",
         "idoPlatform": "daomaker",
-        "idoCap": "160000",
+        "idoAllo": "160000",
         "idoPrice": "0.6",
         "idoDate": "2020-09-19T00:00:00"
     },
@@ -1568,7 +1568,7 @@
         "telegram": "https://t.me/plotx_official",
         "twitter": "https://twitter.com/TryPlotX",
         "idoPlatform": "daomaker",
-        "idoCap": "5000000",
+        "idoAllo": "5000000",
         "idoPrice": "0.05",
         "idoDate": "2020-09-26T00:00:00"
     },
@@ -1581,7 +1581,7 @@
         "telegram": "https://t.me/anrkeyxofficial",
         "twitter": "https://twitter.com/anrkeyx",
         "idoPlatform": "daomaker",
-        "idoCap": "5000000",
+        "idoAllo": "5000000",
         "idoPrice": "0.025",
         "idoDate": "2020-12-07T00:00:00"
     },
@@ -1594,7 +1594,7 @@
         "telegram": "https://t.me/seascapenetwork",
         "twitter": "https://twitter.com/seascapenetwork",
         "idoPlatform": "daomaker",
-        "idoCap": "60000",
+        "idoAllo": "60000",
         "idoPrice": "1",
         "idoDate": "2021-01-28T00:00:00"
     },
@@ -1607,7 +1607,7 @@
         "telegram": "https://t.me/MyNeighborAlice",
         "twitter": "https://twitter.com/MyNeighborAlice",
         "idoPlatform": "daomaker",
-        "idoCap": "800000",
+        "idoAllo": "800000",
         "idoPrice": "0.125",
         "idoDate": "2021-02-02T00:00:00"
     },
@@ -1620,7 +1620,7 @@
         "telegram": "https://t.me/VAIOT_Community",
         "twitter": "https://twitter.com/vaiot_ltd",
         "idoPlatform": "daomaker",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.1",
         "idoDate": "2021-02-15T00:00:00"
     },
@@ -1633,7 +1633,7 @@
         "telegram": "https://t.me/xendFinance",
         "twitter": "https://twitter.com/xendfinance",
         "idoPlatform": "daomaker",
-        "idoCap": "1333334",
+        "idoAllo": "1333334",
         "idoPrice": "0.075",
         "idoDate": "2021-02-15T00:00:00"
     },
@@ -1646,7 +1646,7 @@
         "telegram": "https://t.me/yieldchat",
         "twitter": "https://twitter.com/YieldCredit",
         "idoPlatform": "daomaker",
-        "idoCap": "8000000",
+        "idoAllo": "8000000",
         "idoPrice": "0.025",
         "idoDate": "2021-02-23T00:00:00"
     },
@@ -1659,7 +1659,7 @@
         "telegram": "https://t.me/aluna_ann",
         "twitter": "https://twitter.com/alunasocial",
         "idoPlatform": "daomaker",
-        "idoCap": "2000000",
+        "idoAllo": "2000000",
         "idoPrice": "0.1",
         "idoDate": "2021-03-03T00:00:00"
     },
@@ -1672,7 +1672,7 @@
         "telegram": "https://t.me/hapiHF",
         "twitter": "https://twitter.com/i_am_hapi_one",
         "idoPlatform": "daomaker",
-        "idoCap": "10000",
+        "idoAllo": "10000",
         "idoPrice": "10",
         "idoDate": "2021-03-08T00:00:00"
     },
@@ -1685,7 +1685,7 @@
         "telegram": "https://t.me/dafiprotocol",
         "twitter": "https://twitter.com/DafiProtocol",
         "idoPlatform": "daomaker",
-        "idoCap": "45000000",
+        "idoAllo": "45000000",
         "idoPrice": "0.00333",
         "idoDate": "2021-03-11T00:00:00"
     },
@@ -1698,7 +1698,7 @@
         "telegram": "https://t.me/crownyio",
         "twitter": "https://twitter.com/crownyio",
         "idoPlatform": "daomaker",
-        "idoCap": "27000000",
+        "idoAllo": "27000000",
         "idoPrice": "0.00555",
         "idoDate": "2021-04-14T00:00:00"
     },
@@ -1711,7 +1711,7 @@
         "telegram": "https://t.me/hord_app",
         "twitter": "https://twitter.com/HordApp",
         "idoPlatform": "daomaker",
-        "idoCap": "5800000",
+        "idoAllo": "5800000",
         "idoPrice": "0.025",
         "idoDate": "2021-04-22T00:00:00"
     },
@@ -1724,7 +1724,7 @@
         "telegram": "https://t.me/Showcasechat",
         "twitter": "https://twitter.com/MyShowcase",
         "idoPlatform": "daomaker",
-        "idoCap": "2600000",
+        "idoAllo": "2600000",
         "idoPrice": "0.075",
         "idoDate": "2021-04-22T00:00:00"
     },
@@ -1737,7 +1737,7 @@
         "telegram": "https://t.me/OpenPredictAnnouncements",
         "twitter": "https://twitter.com/OPTprotocol",
         "idoPlatform": "daomaker",
-        "idoCap": "2500000",
+        "idoAllo": "2500000",
         "idoPrice": "0.1",
         "idoDate": "2021-04-23T00:00:00"
     },
@@ -1750,7 +1750,7 @@
         "telegram": "https://t.me/mochi_market",
         "twitter": "https://twitter.com/MarketMochi",
         "idoPlatform": "daomaker",
-        "idoCap": "95000",
+        "idoAllo": "95000",
         "idoPrice": "0.1",
         "idoDate": "2021-04-23T00:00:00"
     },
@@ -1763,7 +1763,7 @@
         "telegram": "https://t.me/Smoothy_finance",
         "twitter": "https://twitter.com/smoothswap/",
         "idoPlatform": "daomaker",
-        "idoCap": "200000",
+        "idoAllo": "200000",
         "idoPrice": "0.5",
         "idoDate": "2021-04-24T00:00:00"
     },
@@ -1776,7 +1776,7 @@
         "telegram": "https://t.me/loc_game",
         "twitter": "https://twitter.com/LOCgameio",
         "idoPlatform": "daomaker",
-        "idoCap": "4333333",
+        "idoAllo": "4333333",
         "idoPrice": "0.036",
         "idoDate": "2021-04-28T00:00:00"
     }
