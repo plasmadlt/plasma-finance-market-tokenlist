@@ -6985,18 +6985,6 @@
     ]
   },
   {
-    "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
-    "chainId": 1,
-    "name": "Alchemix",
-    "symbol": "ALCX",
-    "coingeckoId": "alchemix",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF.png",
-    "tags": [
-      "defi"
-    ]
-  },
-  {
     "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
     "chainId": 1,
     "name": "Vesper Finance",
