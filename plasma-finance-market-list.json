@@ -7073,5 +7073,29 @@
     "tags": [
       "defi"
     ]
+  },
+  {
+    "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
+    "chainId": 1,
+    "name": "Wirex",
+    "symbol": "WXT",
+    "coingeckoId": "wirex",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa02120696c7B8fE16C09C749E4598819b2B0E915.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x35a532d376FFd9a705d0Bb319532837337A398E7",
+    "chainId": 1,
+    "name": "DogeCoin",
+    "symbol": "WDOGE",
+    "coingeckoId": "dogecoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x35a532d376FFd9a705d0Bb319532837337A398E7.png",
+    "tags": [
+      "wrap"
+    ]
   }
 ]
