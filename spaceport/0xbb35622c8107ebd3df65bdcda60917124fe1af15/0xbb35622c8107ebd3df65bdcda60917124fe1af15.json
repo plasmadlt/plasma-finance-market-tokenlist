@@ -1,8 +1,48 @@
 {
   "name": "TEST Spaceport",
+  "projectKycForAdmins": "0",
+  "symbol": "BTC",
   "description": "Plasma.Finance is your home for decentralized finance. Invest, Store, and Manage any DeFi token with ease. Plasma.Finance is your home for decentralized finance. Invest, Store, and Manage any DeFi token with ease.",
+  "descriptionTranslate": {
+    "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "de": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "ar": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+    "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+  },
+  "chains": {
+    "1": "0x124Cb827862D666A18f8b0eC11534b0bDd59138D",
+    "137": "0x124Cb827862D666A18f8b0eC11534b0bDd59138D",
+    "56": "0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+  },
+  "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+  "tokenomicsData": {
+    "totalSupply": "1000000000"
+  },
+  "tokenMediaId": {
+    "coinmarketcapId": "plasma-finance",
+    "coingeckoId": "plasma-finance"
+  },
   "kycUrl": "https://app.plasmapay.com/id/sign-in",
   "socialAllocationUrl": "https://app.plasmapay.com/id/sign-in",
+  "contractAudit": "https://app.plasmapay.com/id/sign-in",
+  "pitchDeckPdf": "https://app.plasmapay.com/id/sign-in",
+  "youtubeLink": "https://app.plasmapay.com/id/sign-in",
   "links": [
     {
       "icon": "website",
@@ -20,14 +60,39 @@
       "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
     },
     {
+      "icon": "reddit",
+      "name": "Reddit",
+      "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+    },
+    {
       "icon": "twitter",
       "name": "Twitter",
+      "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+    },
+    {
+      "icon": "wechat",
+      "name": "WeChat",
+      "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+    },
+    {
+      "icon": "discord",
+      "name": "Discord",
       "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
     },
     {
       "icon": "medium",
       "name": "Blog",
       "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+    },
+    {
+      "icon": "explorer",
+      "name": "Etherscan",
+      "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+    },
+    {
+      "icon": "github",
+      "name": "GitHub",
+      "url": "https://github.com/ethereum"
     }
   ],
   "tokenomics": {
