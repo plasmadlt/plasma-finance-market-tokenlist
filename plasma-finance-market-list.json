@@ -7097,5 +7097,76 @@
     "tags": [
       "defi"
     ]
+  },
+  {
+    "address": "0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D",
+    "chainId": 1,
+    "name": "NFTify",
+    "symbol": "N1",
+    "coingeckoId": "nftify",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+    "chainId": 1,
+    "name": "Lossless",
+    "symbol": "LSS",
+    "coingeckoId": "lossless",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320.png",
+    "tags": [
+      "defi"
+    ]
+  },
+  {
+    "address": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
+    "chainId": 1,
+    "name": "Charged Particles",
+    "symbol": "IONX",
+    "coingeckoId": "charged-particles",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x02D3A27Ac3f55d5D91Fb0f52759842696a864217.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+    "chainId": 1,
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "coingeckoId": "gitcoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F.png",
+    "tags": []
+  },
+  {
+    "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+    "chainId": 1,
+    "name": "SAK3",
+    "symbol": "SAK3",
+    "coingeckoId": "sak3",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334.png",
+    "tags": [
+      "nft"
+    ]
+  },
+  {
+    "address": "0xaBAfA52D3d5A2c18A4C1Ae24480D22B831fC0413",
+    "chainId": 1,
+    "name": "Future Of Finance Fund",
+    "symbol": "FFF",
+    "coingeckoId": "future-of-finance-fund",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaBAfA52D3d5A2c18A4C1Ae24480D22B831fC0413.png",
+    "tags": [
+      "defi",
+      "index"
+    ]
   }
 ]
