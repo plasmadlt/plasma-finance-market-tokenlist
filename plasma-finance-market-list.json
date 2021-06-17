@@ -3,9 +3,34 @@
     "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
     "chainId": 1,
     "name": "Plasma Finance",
+    "description": {
+      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+    },
     "symbol": "PPAY",
     "coingeckoId": "plasma-finance",
+    "coinmarketcapId": "plasma-finance",
     "decimals": 18,
+    "tokenomicsData": {
+      "totalSupply": "1000000000"
+    },
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
     "tags": [
       "defi",
@@ -13,6 +38,58 @@
       "dex",
       "trending",
       "ido"
+    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "explorer",
+        "name": "Etherscan",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/ethereum"
+      }
     ]
   },
   {
@@ -7167,6 +7244,97 @@
     "tags": [
       "defi",
       "index"
+    ]
+  },
+  {
+    "address": "0x7738D8BC3418A2FDD4061E5Be45B6E2DB50E424F",
+    "chainId": 42,
+    "name": "BEST Test Token",
+    "description": {
+      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+    },
+    "symbol": "BEST",
+    "decimals": 18,
+    "tokenomicsData": {
+      "totalSupply": "100000"
+    },
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
+    "tags": [
+      "defi",
+      "alliance",
+      "dex",
+      "trending",
+      "ido"
+    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "explorer",
+        "name": "Etherscan",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/ethereum"
+      }
     ]
   }
 ]
