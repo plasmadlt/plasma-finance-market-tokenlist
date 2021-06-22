@@ -1,0 +1,75 @@
+{
+  "name": "Chainlink",
+  "description": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+  "descriptionTranslate": {
+    "en": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "ru": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "zh": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "de": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "es": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "fr": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "it": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "pl": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "ro": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "hu": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "nl": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "pt": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "sv": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "vi": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "tr": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "ja": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "ko": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "ar": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "th": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+    "id": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement."
+  },
+  "chainId": 42,
+  "projectVerifiedByAdmins": "0",
+  "kycUrl": "https://chain.link/",
+  "socialAllocationUrl": "https://chain.link/",
+  "contractAudit": "https://chain.link/",
+  "pitchDeckPdf": "https://research.chain.link/whitepaper-v2.pdf",
+  "youtubeLink": "https://www.youtube.com/watch?v=7Ow8uN1TmxA",
+  "tokenomics": {
+    "startTimestamp": 1624535311,
+    "period": "w",
+    "datasets": [
+      {
+        "title": "Team",
+        "line": [0, 0.7, 0.9, 0.8, 1.3, 1.8, 3, 4, 4.3, 5, 7, 8.1, 10]
+      },
+      {
+        "title": "VCs",
+        "line": [0, 2, 3, 5, 7, 8, 8.5, 9, 10, 13, 14, 16, 18]
+      },
+      {
+        "title": "IDO",
+        "line": [0, 3, 4, 6, 8, 10, 11, 14, 18, 22, 24, 28, 30]
+      },
+      {
+        "title": "Governance",
+        "line": [0, 5, 10, 18, 19, 21, 23, 24, 27, 30, 35, 40, 42]
+      }
+    ]
+  },
+  "allocations": {
+    "datasets": [
+      {
+        "title": "Team",
+        "amount": 10000
+      },
+      {
+        "title": "VCs",
+        "amount": 18000
+      },
+      {
+        "title": "IDO",
+        "amount": 30000
+      },
+      {
+        "title": "Governance",
+        "amount": 42000
+      }
+    ]
+  }
+}

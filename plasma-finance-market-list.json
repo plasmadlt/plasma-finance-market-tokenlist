@@ -1006,6 +1006,73 @@
     ]
   },
   {
+    "address": "0xa36085f69e2889c224210f603d836748e7dc0088",
+    "chainId": 42,
+    "name": "ChainLink",
+    "symbol": "LINK",
+    "coingeckoId": "chainlink",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "tags": [
+      "defi"
+    ],
+    "tokenomicsData": {
+      "totalSupply": "1000000000"
+    },
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/ethereum"
+      }
+    ]
+  },
+  {
     "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
     "chainId": 1,
     "name": "DAOStack",
