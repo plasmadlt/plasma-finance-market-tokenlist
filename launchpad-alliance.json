@@ -598,6 +598,19 @@
         "idoDate": "2021-05-03T00:00:00"
     },
     {
+        "token": "Cere Network",
+        "ticker": "CERE",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/cerenetwork_official",
+        "twitter": "https://twitter.com/cerenetwork",
+        "idoPlatform": "polkastarter",
+        "idoAllo": "25000000",
+        "idoPrice": "0.02",
+        "idoDate": ""
+    },
+    {
         "token": "Sienna Network",
         "ticker": "SIENNA",
         "coingeckoId": "sienna-erc20",
@@ -2322,47 +2335,73 @@
         "telegram": "https://t.me/DeltathetaNEWS",
         "twitter": "https://twitter.com/deltatheta_tech",
         "idoPlatform": "daomaker",
-        "idoAllo": "",
-        "idoPrice": "",
+        "idoAllo": "3388888",
+        "idoPrice": "0.09",
+        "idoDate": "2021-05-02T00:00:00"
+    },
+    {
+        "token": "Opulus",
+        "ticker": "OPUL",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/opulousapp",
+        "twitter": "https://twitter.com/opulousapp",
+        "idoPlatform": "daomaker",
+        "idoAllo": "4000000",
+        "idoPrice": "0.05",
         "idoDate": ""
+    },
+    {
+        "token": "Opulus",
+        "ticker": "OPUL",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/opulousapp",
+        "twitter": "https://twitter.com/opulousapp",
+        "idoPlatform": "daomaker",
+        "idoAllo": "16000000",
+        "idoPrice": "0.05",
+        "idoDate": "2021-05-11T00:00:00"
     },
     {
         "token": "Formation Fi",
         "ticker": "FORM",
-        "coingeckoId": "",
-        "contract": "",
+        "coingeckoId": "formation-fi",
+        "contract": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
         "totalSupply": "1000000000",
         "telegram": "https://t.me/FormationFi",
         "twitter": "https://twitter.com/formationfi",
         "idoPlatform": "daomaker",
-        "idoAllo": "",
+        "idoAllo": "6666666",
         "idoPrice": "0.03",
-        "idoDate": ""
+        "idoDate": "2021-05-07T00:00:00"
     },
     {
         "token": "Pera Finance",
-        "ticker": "",
+        "ticker": "PERA",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
-        "telegram": "",
-        "twitter": "",
+        "telegram": "https://t.me/perafinance",
+        "twitter": "https://twitter.com/perafinance",
         "idoPlatform": "daomaker",
-        "idoAllo": "",
-        "idoPrice": "",
-        "idoDate": ""
+        "idoAllo": "2500000",
+        "idoPrice": "0.1",
+        "idoDate": "2021-05-16T00:00:00"
     },
     {
         "token": "Bacon DAO",
-        "ticker": "",
+        "ticker": "BACON",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
-        "telegram": "",
-        "twitter": "",
+        "telegram": "https://t.me/BaconDAO",
+        "twitter": "https://twitter.com/BaconDAO_?s=09",
         "idoPlatform": "daomaker",
-        "idoAllo": "",
-        "idoPrice": "",
+        "idoAllo": "2625000",
+        "idoPrice": "0.04",
         "idoDate": ""
     },
     {
@@ -2380,15 +2419,15 @@
     },
     {
         "token": "Gamestarter",
-        "ticker": "",
+        "ticker": "GAME",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
-        "telegram": "",
-        "twitter": "",
+        "telegram": "https://t.me/gamestarter_co",
+        "twitter": "https://twitter.com/gamestarter_co",
         "idoPlatform": "daomaker",
-        "idoAllo": "",
-        "idoPrice": "",
+        "idoAllo": "4250000",
+        "idoPrice": "0.08",
         "idoDate": ""
     },
     {
@@ -2415,7 +2454,7 @@
         "idoPlatform": "polkastarter",
         "idoAllo": "5000000",
         "idoPrice": "0.045",
-        "idoDate": "2021-06-02T00:00"
+        "idoDate": "2021-06-02T00:00:00"
     },
     {
         "token": "Phuture",
@@ -2428,33 +2467,98 @@
         "idoPlatform": "polkastarter",
         "idoAllo": "833333",
         "idoPrice": "0.3",
-        "idoDate": "2021-06-03T00:00"
+        "idoDate": "2021-06-03T00:00:00"
     },
     {
         "token": "Stratos",
+        "ticker": "STOS",
+        "coingeckoId": "stratos",
+        "contract": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+        "totalSupply": "100000000",
+        "telegram": "https://t.me/Stratos_announcement",
+        "twitter": "https://twitter.com/Stratos_Network",
+        "idoPlatform": "polkastarter",
+        "idoAllo": "1000000",
+        "idoPrice": "0.3",
+        "idoDate": "2021-06-09T00:00:00"
+    },
+    {
+        "token": "Meme.com",
+        "ticker": "MEM",
+        "coingeckoId": "memecoin",
+        "contract": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+        "totalSupply": "100000000",
+        "telegram": "https://t.me/MemeExplorers",
+        "twitter": "https://twitter.com/MemeExplorers",
+        "idoPlatform": "polkastarter",
+        "idoAllo": "1041667",
+        "idoPrice": "0.48",
+        "idoDate": "2021-06-15T00:00:00"
+    },
+    {
+        "token": "Litium Finance",
+        "ticker": "LITH",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/lithiumfinanceofficial",
+        "twitter": "https://twitter.com/lithiumfinance",
+        "idoPlatform": "polkastarter",
+        "idoAllo": "22222222",
+        "idoPrice": "0.0045",
+        "idoDate": "2021-06-24T00:00:00"
+    },
+    {
+        "token": "Polytrade",
         "ticker": "",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
-        "telegram": "https://t.me/Stratos_announcement",
-        "twitter": "https://twitter.com/Stratos_Network",
+        "telegram": "https://t.me/polytrade_finance",
+        "twitter": "https://twitter.com/Polytrade_fin",
         "idoPlatform": "polkastarter",
         "idoAllo": "",
         "idoPrice": "",
         "idoDate": ""
     },
     {
-        "token": "Meme.com",
+        "token": "RealFevr",
         "ticker": "",
         "coingeckoId": "",
         "contract": "",
         "totalSupply": "",
-        "telegram": "https://t.me/MemeExplorers",
-        "twitter": "https://twitter.com/MemeExplorers",
+        "telegram": "",
+        "twitter": "https://twitter.com/realfevr",
         "idoPlatform": "polkastarter",
         "idoAllo": "",
         "idoPrice": "",
         "idoDate": ""
+    },
+    {
+        "token": "OpenOcean",
+        "ticker": "OOE",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/OOFinance",
+        "twitter": "https://twitter.com/OpenOceanGlobal",
+        "idoPlatform": "polkastarter",
+        "idoAllo": "3750000",
+        "idoPrice": "0.04",
+        "idoDate": ""
+    },
+    {
+        "token": "OpenOcean",
+        "ticker": "OOE",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/OOFinance",
+        "twitter": "https://twitter.com/OpenOceanGlobal",
+        "idoPlatform": "daomaker",
+        "idoAllo": "2500000",
+        "idoPrice": "0.04",
+        "idoDate": "2021-05-21T11:00:00"
     },
     {
         "token": "NFTify",
@@ -2467,7 +2571,7 @@
         "idoPlatform": "paidignition",
         "idoAllo": "1750000",
         "idoPrice": "0.08",
-        "idoDate": "2021-06-04T11:00"
+        "idoDate": "2021-06-04T11:00:00"
     },
     {
         "token": "Mozik",
@@ -2480,20 +2584,33 @@
         "idoPlatform": "paidignition",
         "idoAllo": "200000",
         "idoPrice": "0.02",
-        "idoDate": "2021-06-07T11:00"
+        "idoDate": "2021-06-07T11:00:00"
     },
     {
         "token": "Cryption Network",
         "ticker": "CNT",
-        "coingeckoId": "",
-        "contract": "",
-        "totalSupply": "",
+        "coingeckoId": "cryption-network",
+        "contract": "0x429876c4a6f89fb470e92456b8313879df98b63c",
+        "totalSupply": "100000000",
         "telegram": "https://t.me/CryptionNetwork",
         "twitter": "https://twitter.com/CryptionNetwork",
         "idoPlatform": "paidignition",
         "idoAllo": "1458333",
         "idoPrice": "0.12",
-        "idoDate": "2021-06-08T11:00"
+        "idoDate": "2021-06-08T11:00:00"
+    },
+    {
+        "token": "Cryption Network",
+        "ticker": "CNT",
+        "coingeckoId": "cryption-network",
+        "contract": "0x429876c4a6f89fb470e92456b8313879df98b63c",
+        "totalSupply": "100000000",
+        "telegram": "https://t.me/CryptionNetwork",
+        "twitter": "https://twitter.com/CryptionNetwork",
+        "idoPlatform": "poolz",
+        "idoAllo": "540000",
+        "idoPrice": "0.12",
+        "idoDate": "2021-06-08T11:00:00"
     },
     {
         "token": "Octopus Protocol",
@@ -2506,7 +2623,72 @@
         "idoPlatform": "paidignition",
         "idoAllo": "1000000",
         "idoPrice": "0.15",
-        "idoDate": "2021-06-11T11:00"
+        "idoDate": "2021-06-11T11:00:00"
+    },
+    {
+        "token": "Dot.Finance",
+        "ticker": "PINK",
+        "coingeckoId": "",
+        "contract": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+        "totalSupply": "100003972.91",
+        "telegram": "https://t.me/Dot_Finance",
+        "twitter": "https://twitter.com/dot_finance",
+        "idoPlatform": "paidignition",
+        "idoAllo": "1212121",
+        "idoPrice": "0.0825",
+        "idoDate": "2021-06-18T11:00:00"
+    },
+    {
+        "token": "Dot.Finance",
+        "ticker": "PINK",
+        "coingeckoId": "",
+        "contract": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+        "totalSupply": "100003972.91",
+        "telegram": "https://t.me/Dot_Finance",
+        "twitter": "https://twitter.com/dot_finance",
+        "idoPlatform": "poolz",
+        "idoAllo": "1333333",
+        "idoPrice": "0.0825",
+        "idoDate": "2021-06-18T11:00:00"
+    },
+    {
+        "token": "Nabox",
+        "ticker": "NABOX",
+        "coingeckoId": "nabox",
+        "contract": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+        "totalSupply": "20533974776.79",
+        "telegram": "",
+        "twitter": "https://twitter.com/naboxwallet",
+        "idoPlatform": "poolz",
+        "idoAllo": "2333333333",
+        "idoPrice": "0.00003",
+        "idoDate": "2021-06-15T00:00:00"
+    },
+    {
+        "token": "Bunicorn",
+        "ticker": "BUNI",
+        "coingeckoId": "",
+        "contract": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+        "totalSupply": "",
+        "telegram": "https://t.me/bunicornswap_en",
+        "twitter": "https://twitter.com/bunicornswap",
+        "idoPlatform": "poolz",
+        "idoAllo": "6666666",
+        "idoPrice": "0.03",
+        "idoDate": "2021-06-21T00:00:00"
+    },
+    {
+        "token": "Moonfarm Finance",
+        "ticker": "MFO",
+        "coingeckoId": "",
+        "contract": "0xb46049c79d77ff1d555a67835fba6978536581af",
+        "totalSupply": "100000000",
+        "telegram": "https://t.me/MoonfarmFinance",
+        "twitter": "https://twitter.com/MoonfarmFinance",
+        "idoPlatform": "poolz",
+        "idoAllo": "200000",
+        "idoPrice": "0.4",
+        "idoDate": "2021-06-11T00:00:00"
     },
     {
         "token": "Demodyfi",
@@ -2519,7 +2701,7 @@
         "idoPlatform": "paidignition",
         "idoAllo": "1200000",
         "idoPrice": "0.25",
-        "idoDate": "2021-06-10T11:00"
+        "idoDate": "2021-06-10T11:00:00"
     },
     {
         "token": "Hypersign",
@@ -2532,7 +2714,7 @@
         "idoPlatform": "paidignition",
         "idoAllo": "800000",
         "idoPrice": "0.25",
-        "idoDate": "2021-06-09T11:00"
+        "idoDate": "2021-06-09T11:00:00"
     },
     {
         "token": "Liquidity",
@@ -2548,7 +2730,7 @@
         "idoDate": ""
     },
     {
-        "token": "Moma",
+        "token": "Moma Protocol",
         "ticker": "MOMAT",
         "coingeckoId": "",
         "contract": "",
@@ -2571,7 +2753,7 @@
         "idoPlatform": "paidignition",
         "idoAllo": "2597402",
         "idoPrice": "0.077",
-        "idoDate": "2021-06-03T00:00"
+        "idoDate": "2021-06-03T00:00:00"
     },
     {
         "token": "Pandora Protocol",
@@ -2587,6 +2769,58 @@
         "idoDate": ""
     },
     {
+        "token": "Emiswap",
+        "ticker": "ESW",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/emiswap_announcement",
+        "twitter": "https://twitter.com/emiswap",
+        "idoPlatform": "paidignition",
+        "idoAllo": "1621621.62162162",
+        "idoPrice": "0.185",
+        "idoDate": "2021-06-30T11:00:00"
+    },
+    {
+        "token": "2Crazy",
+        "ticker": "2CRAZY",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/crazy2casino",
+        "twitter": "https://twitter.com/2crazylive",
+        "idoPlatform": "paidignition",
+        "idoAllo": "5625000",
+        "idoPrice": "0.04",
+        "idoDate": "2021-06-25T11:00:00"
+    },
+    {
+        "token": "Tribe ONE",
+        "ticker": "",
+        "coingeckoId": "HAKA",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/tribeone",
+        "twitter": "https://twitter.com/tribeonedefi",
+        "idoPlatform": "paidignition",
+        "idoAllo": "1363636.36363636",
+        "idoPrice": "0.11",
+        "idoDate": "2021-06-23T11:00:00"
+    },
+    {
+        "token": "Plutos Network",
+        "ticker": "PLUT",
+        "coingeckoId": "",
+        "contract": "0x2984f825bfe72e55e1725d5c020258e81ff97450",
+        "totalSupply": "100000000",
+        "telegram": "https://t.me/plutosnetwork",
+        "twitter": "https://twitter.com/PlutosNetwork",
+        "idoPlatform": "paidignition",
+        "idoAllo": "",
+        "idoPrice": "",
+        "idoDate": ""
+    },
+    {
         "token": "InvestDex",
         "ticker": "",
         "coingeckoId": "",
@@ -2595,9 +2829,9 @@
         "telegram": "https://t.me/Investdex",
         "twitter": "https://twitter.com/InvestDexio",
         "idoPlatform": "duckstarter",
-        "idoAllo": "",
-        "idoPrice": "",
-        "idoDate": ""
+        "idoAllo": "583333",
+        "idoPrice": "0.3",
+        "idoDate": "2021-06-22T11:00:00"
     },
     {
         "token": "BITE",
@@ -2607,6 +2841,58 @@
         "totalSupply": "",
         "telegram": "https://t.me/DragonBite",
         "twitter": "https://twitter.com/DragonBiteDB/",
+        "idoPlatform": "duckstarter",
+        "idoAllo": "",
+        "idoPrice": "",
+        "idoDate": ""
+    },
+    {
+        "token": "HoDooi",
+        "ticker": "HOD",
+        "coingeckoId": "hodooi-com",
+        "contract": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
+        "totalSupply": "1000000000",
+        "telegram": "",
+        "twitter": "https://twitter.com/hodooicom",
+        "idoPlatform": "duckstarter",
+        "idoAllo": "5416667",
+        "idoPrice": "0.045",
+        "idoDate": "2021-06-14T00:00:00"
+    },
+    {
+        "token": "HoDooi",
+        "ticker": "HOD",
+        "coingeckoId": "hodooi-com",
+        "contract": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
+        "totalSupply": "1000000000",
+        "telegram": "",
+        "twitter": "https://twitter.com/hodooicom",
+        "idoPlatform": "paidignition",
+        "idoAllo": "5555556",
+        "idoPrice": "0.045",
+        "idoDate": "2021-06-14T00:00:00"
+    },
+    {
+        "token": "DEFI city",
+        "ticker": "",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "",
+        "twitter": "",
+        "idoPlatform": "duckstarter",
+        "idoAllo": "",
+        "idoPrice": "",
+        "idoDate": ""
+    },
+    {
+        "token": "Octane",
+        "ticker": "",
+        "coingeckoId": "",
+        "contract": "",
+        "totalSupply": "",
+        "telegram": "https://t.me/octanefinance",
+        "twitter": "https://twitter.com/octane_finance",
         "idoPlatform": "duckstarter",
         "idoAllo": "",
         "idoPrice": "",
