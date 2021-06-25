@@ -18,7 +18,7 @@ Here is a model of IDO JSON data:
   "contractAudit": "https://chain.link/",
   "pitchDeckPdf": "https://research.chain.link/whitepaper-v2.pdf",
   "youtubeLink": "https://youtu.be/7Ow8uN1TmxA",
-  "email": "hello@gmail.com"
+  "email": "hello@gmail.com",
   "tokenomics": {
     "startTimestamp": 1624535311,
     "period": "w",
