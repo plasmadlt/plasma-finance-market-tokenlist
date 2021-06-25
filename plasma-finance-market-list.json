@@ -43,52 +43,52 @@
       {
         "icon": "website",
         "name": "Website",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://plasma.finance"
       },
       {
         "icon": "whitepaper",
         "name": "Whitepaper",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://docs.plasma.finance"
       },
       {
         "icon": "telegram",
         "name": "Telegram",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://t.me/plasmapay_community"
       },
       {
         "icon": "reddit",
         "name": "Reddit",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://www.reddit.com/r/PlasmaFinance/"
       },
       {
         "icon": "twitter",
         "name": "Twitter",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://twitter.com/plasma_pay"
       },
       {
         "icon": "wechat",
         "name": "WeChat",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": ""
       },
       {
         "icon": "discord",
         "name": "Discord",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://discord.gg/M3jDtyJ"
       },
       {
         "icon": "medium",
         "name": "Blog",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://medium.com/plasmapay"
       },
       {
         "icon": "etherscan",
         "name": "Etherscan",
-        "url": "https://kovan.etherscan.io/address/0x124Cb827862D666A18f8b0eC11534b0bDd59138D"
+        "url": "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
       },
       {
         "icon": "github",
         "name": "GitHub",
-        "url": "https://github.com/ethereum"
+        "url": "http://github.com/plasmadlt"
       }
     ]
   },
@@ -104,6 +104,58 @@
       "defi",
       "alliance",
       "dex"
+    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://plasma.finance"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://docs.plasma.finance"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/plasmapay_community"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/PlasmaFinance/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/plasma_pay"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": ""
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/M3jDtyJ"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://medium.com/plasmapay"
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "http://github.com/plasmadlt"
+      }
     ]
   },
   {
