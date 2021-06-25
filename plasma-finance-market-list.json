@@ -7314,6 +7314,16 @@
     ]
   },
   {
+    "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+    "chainId": 1,
+    "name": "0xBitcoin Token",
+    "symbol": "0xBTC",
+    "coingeckoId": "0xbitcoin",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png",
+    "tags": []
+  },
+  {
     "address": "0x7738D8BC3418A2FDD4061E5Be45B6E2DB50E424F",
     "chainId": 42,
     "name": "BEST Test Token",
