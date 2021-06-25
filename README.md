@@ -1,9 +1,84 @@
-# Plasma.Finance - Decentralized Market Token List
+# Spaceport - Decentralized Cross-Chain IDO Launchpad
+
+<p align="center"><img src="https://gblobscdn.gitbook.com/assets%2F-MOWBTwEhneL3ZmpuT_Q%2F-McTMFZHOXlDfXSW_FNI%2F-McTMtl3elNtDXm0GsdJ%2Fimage.png"></p>
+
+To add an information for your IDO on Spaceport or on the Innovation Hub page, please fork this repo, create a folder with your token address and JSON file inside with all the data about your project.
+https://github.com/plasmadlt/plasma-finance-market-tokenlist/tree/main/spaceport
+
+Here is a model of IDO JSON data:
+
+```json
+{
+  "name": "Chainlink",
+  "description": "Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.",
+  "chainId": 1,
+  "projectVerifiedByAdmins": "0",
+  "kycUrl": "https://chain.link/",
+  "socialAllocationUrl": "https://chain.link/",
+  "contractAudit": "https://chain.link/",
+  "pitchDeckPdf": "https://research.chain.link/whitepaper-v2.pdf",
+  "youtubeLink": "https://youtu.be/7Ow8uN1TmxA",
+  "email": "hello@gmail.com"
+  "tokenomics": {
+    "startTimestamp": 1624535311,
+    "period": "w",
+    "datasets": [
+      {
+        "title": "Team",
+        "line": [0, 0.7, 0.9, 0.8, 1.3, 1.8, 3, 4, 4.3, 5, 7, 8.1, 10]
+      },
+      {
+        "title": "VCs",
+        "line": [0, 2, 3, 5, 7, 8, 8.5, 9, 10, 13, 14, 16, 18]
+      },
+      {
+        "title": "IDO",
+        "line": [0, 3, 4, 6, 8, 10, 11, 14, 18, 22, 24, 28, 30]
+      },
+      {
+        "title": "Governance",
+        "line": [0, 5, 10, 18, 19, 21, 23, 24, 27, 30, 35, 40, 42]
+      }
+    ]
+  },
+  "allocations": {
+    "datasets": [
+      {
+        "title": "Team",
+        "amount": 10000
+      },
+      {
+        "title": "VCs",
+        "amount": 18000
+      },
+      {
+        "title": "IDO",
+        "amount": 30000
+      },
+      {
+        "title": "Governance",
+        "amount": 42000
+      }
+    ]
+  }
+}
+```
+
+Tokenomics period:
+m - months
+w - weeks
+
+More "How to" information you can find [here](https://docs.plasma.finance/spaceport/how-to-launch-ido)
+
+When this file is ready, you can create IDO [here](https://apy.plasma.finance/#/innovation-hub/create-ido)
+
+# Plasma.Finance - Decentralized Market Token Page List
+This information we use for token and IDO pages on Plasma.Finance
 https://github.com/plasmadlt/plasma-finance-market-tokenlist/blob/main/plasma-finance-market-list.json
 
 See https://apy.plasma.finance/market
 
-# Add token in Market Token List 
+# Add token in Market Token List and create Token Page on Plasma.Finance
 ## 1. Press on Fork in the top right corner, wait for process to complete.
 
 ```
@@ -28,19 +103,98 @@ File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-
 Address contract must be ***checksummed***
 Check or convert your address in checksummed address here: https://web3-tools.netlify.app/
 
-```
+```json
   {
     "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
     "chainId": 1,
     "name": "Plasma Finance",
+    "description": {
+      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+    },
     "symbol": "PPAY",
     "coingeckoId": "plasma-finance",
+    "coinmarketcapId": "plasma-finance",
     "decimals": 18,
+    "tokenomicsData": {
+      "totalSupply": "1000000000"
+    },
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
     "tags": [
       "defi",
       "alliance",
-      "dex"
+      "dex",
+      "trending",
+      "ido"
+    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://plasma.finance"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://docs.plasma.finance"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/plasmapay_community"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/PlasmaFinance/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/plasma_pay"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": ""
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/M3jDtyJ"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://medium.com/plasmapay"
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "http://github.com/plasmadlt"
+      }
     ]
   },
 ```
@@ -49,7 +203,7 @@ Check or convert your address in checksummed address here: https://web3-tools.ne
 
 You can add any tag from the next list to your token. Use no more than 3 tags.
 
-```
+```json
 "tags": {
       "defi": {
          "name": "DeFi Market",
@@ -110,3 +264,44 @@ git add -A
 git commit -m “Add <token_name>”
 git push origin <branch_name>
 ```
+
+# 📞 Contacts
+Email: [apy@plasma.finance](mailto:apy@plasma.finance) <br>
+Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.me/plasmapay_community)
+
+# 🔉 Social Media
+[Facebook](https://www.facebook.com/plasmapay) <br>
+[Plasma Twitter](https://twitter.com/plasma_pay) <br>
+[Spaceport Twitter](https://twitter.com/CyberSpacePort) <br>
+
+# 🔗 Useful Links
+### [PlasmaPay](https://plasmapay.com/):
+- [Crypto Wallet](https://app.plasmapay.com/)
+- [Fiat on-ramp](https://buy.plasmapay.com/)
+
+### [Plasma.Finance](https://plasma.finance/):
+#### Platform
+- [Market](https://apy.plasma.finance/#/market)
+- [Swap](https://apy.plasma.finance/#/swap)
+- [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
+- [Savings](https://apy.plasma.finance/#/savings)
+#### IDO
+- [SpacePort](https://apy.plasma.finance/#/spaceport)
+- [Innovation Hub](https://apy.plasma.finance/#/innovation-hub)
+- [Launchpad Alliance](https://apy.plasma.finance/#/launchpads)
+- [SpacePort Landing](https://plasma.finance/spaceport)
+#### How To
+- [Documentation and DeFi University](https://docs.plasma.finance/)
+
+### Media
+[PPAY on Coinmarketcap](https://coinmarketcap.com/currencies/plasma-finance/) <br>
+[PlasmaSwap (AMM) on CoinMarketCap](https://coinmarketcap.com/exchanges/plasmaswap/) <br>
+[Plasma Earn Campaigne on CMC](https://coinmarketcap.com/earn/project/plasmafinance) <br>
+[PPAY on Coingecko](https://www.coingecko.com/en/coins/plasma-finance) <br>
+
+### Tokens:
+#### PPAY
+ - [Ethereum (ERC20)](https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2)
+ - [Polygon](https://polygonscan.com/token/0x08158a6b5d4018340387d1a302f882e98a8bc5b4)
+#### xPPAY
+ - [Ethereum (ERC20)](https://etherscan.io/token/0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978)
