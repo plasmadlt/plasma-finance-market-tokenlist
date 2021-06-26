@@ -296,7 +296,7 @@ Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.
 ### Media
 [PPAY on Coinmarketcap](https://coinmarketcap.com/currencies/plasma-finance/) <br>
 [PlasmaSwap (AMM) on CoinMarketCap](https://coinmarketcap.com/exchanges/plasmaswap/) <br>
-[Plasma Earn Campaigne on CMC](https://coinmarketcap.com/earn/project/plasmafinance) <br>
+[Plasma Earn Campaign on CMC](https://coinmarketcap.com/earn/project/plasmafinance) <br>
 [PPAY on Coingecko](https://www.coingecko.com/en/coins/plasma-finance) <br>
 
 ### Tokens:
