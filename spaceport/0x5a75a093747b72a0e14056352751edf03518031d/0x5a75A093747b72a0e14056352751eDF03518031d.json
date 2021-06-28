@@ -1,0 +1,93 @@
+{
+  "name": "EmiSwap",
+  "description": "EmiSwap is a gamified, rewarding & decentralized AMM exchange powered by ESW governance token and NFT Magic Cards that compensates 100% Ethereum gas fees",
+  "chainId": 1,
+  "projectVerifiedByAdmins": "0",
+  "kycUrl": "",
+  "socialAllocationUrl": "",
+  "contractAudit": "https://emiswap.com/docs/06042021_Emiswap_SC_Audit_Report.pdf",
+  "pitchDeckPdf": "https://about.emiswap.com/whitepaper",
+  "youtubeLink": "https://www.youtube.com/channel/UCqTqY8ha7atoam6DFtyLP8Q",
+  "tokenomics": {
+    "startTimestamp": 1625043600,
+    "period": "m",
+    "datasets": [
+      {
+        "title": "Pre-seed",
+        "line": [0, 0, 0, 0.75, 0.75, 0.75, 1.5, 1.5, 1.5, 2.25, 2.25, 2.25, 3]
+      },
+      {
+        "title": "Seed",
+        "line": [1.75, 1.75, 1.75, 3.06, 3.06, 3.06, 4.37, 4.37, 4.37, 5.68, 5.68, 5.68, 7]
+      },
+      {
+        "title": "Private Sale",
+        "line": [2.25, 2.25, 2.25, 4, 4, 4, 5.75, 5.75, 5.75, 7.5, 7.5, 7.5, 7.5]
+      },
+      {
+        "title": "Launchpad Sales",
+        "line": [0.87, 1.2, 1.52, 1.85, 2.17, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+      },
+      {
+        "title": "Early Liquidity Providers",
+        "line": [0, 0, 1.5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+      },
+      {
+        "title": "Protocol Security and Maintenance",
+        "line": [0, 2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5, 30]
+      },
+      {
+        "title": "Ecosystem Growth and Users Attraction",
+        "line": [22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22]
+      },
+      {
+        "title": "Decentralized Developers Community",
+        "line": [0, 1.66, 3.32, 4.98, 6.64, 8.3, 9.96, 11.62, 13.28, 14.94, 16.6, 18.26, 20]
+      },
+      {
+        "title": "Advisors and Ambassadors",
+        "line": [1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5]
+      }
+    ]
+  },
+  "allocations": {
+    "datasets": [
+      {
+        "title": "Pre-seed",
+        "amount": 6000000
+      },
+      {
+        "title": "Seed",
+        "amount": 14000000
+      },
+      {
+        "title": "Private Sale",
+        "amount": 15000000
+      },
+      {
+        "title": "Launchpad Sales",
+        "amount": 5000000
+      },
+      {
+        "title": "Early Liquidity Providers",
+        "amount": 6000000
+      },
+      {
+        "title": "Protocol Security and Maintenance",
+        "amount": 60000000
+      },
+      {
+        "title": "Ecosystem Growth and Users Attraction",
+        "amount": 44000000
+      },
+      {
+        "title": "Decentralized Developers Community",
+        "amount": 40000000
+      },
+      {
+        "title": "Advisors and Ambassadors",
+        "amount": 10000000
+      }
+    ]
+  }
+}

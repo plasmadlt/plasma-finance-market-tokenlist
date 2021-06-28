@@ -7465,5 +7465,18 @@
         "url": "https://github.com/ethereum"
       }
     ]
-  }
+  },
+  {
+    "address": "0x5a75a093747b72a0e14056352751edf03518031d",
+    "chainId": 1,
+    "name": "EmiSwap - EmiDao Token",
+    "symbol": "ESW",
+    "coingeckoId": "",
+    "tags": [
+       "defi",
+       "dex"
+    ],
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5a75a093747b72a0e14056352751edf03518031d.png"
+ }
 ]
