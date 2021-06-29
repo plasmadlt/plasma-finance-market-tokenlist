@@ -6,7 +6,7 @@
   "kycUrl": "",
   "socialAllocationUrl": "",
   "contractAudit": "https://emiswap.com/docs/06042021_Emiswap_SC_Audit_Report.pdf",
-  "pitchDeckPdf": "https://github.com/plasmadlt/plasma-finance-market-tokenlist/raw/main/spaceport/0x5a75a093747b72a0e14056352751edf03518031d/EmiSwap%20White%20Paper%20EN%20(3.0).pdf",
+  "pitchDeckPdf": "https://github.com/plasmadlt/plasma-finance-market-tokenlist/blob/48e4febd68bed2538f95127e1b19eb54a29738fd/spaceport/0x5a75a093747b72a0e14056352751edf03518031d/EmiSwap%20White%20Paper%20EN%20(3.0).pdf",
   "youtubeLink": "hhttps://youtu.be/4l5oUacRMvs",
   "tokenomics": {
     "startTimestamp": 1625043600,
