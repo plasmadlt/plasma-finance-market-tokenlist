@@ -1,12 +1,12 @@
 [
     {
-        "idoTitle": "DuckSTARTER",
-        "idoPlatform": "duckstarter",
-        "idoWebsite": "https://duckstarter.io",
-        "contract": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
-        "token": "DuckDaoDime",
-        "ticker": "DDIM",
-        "coingeckoId": "duckdaodime"
+        "idoTitle": "BullPerks",
+        "idoPlatform": "bullstarter",
+        "idoWebsite": "https://bullperks.com",
+        "contract": "",
+        "token": "BullPerks",
+        "ticker": "BLP",
+        "coingeckoId": "bullperks"
     },
     {
         "idoTitle": "PAID Ignition",
@@ -16,6 +16,15 @@
         "token": "PAID Network",
         "ticker": "PAID",
         "coingeckoId": "paid-network"
+    },
+    {
+        "idoTitle": "DuckSTARTER",
+        "idoPlatform": "duckstarter",
+        "idoWebsite": "https://duckstarter.io",
+        "contract": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+        "token": "DuckDaoDime",
+        "ticker": "DDIM",
+        "coingeckoId": "duckdaodime"
     },
     {
         "idoTitle": "Polkastarter",
