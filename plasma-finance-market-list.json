@@ -3120,6 +3120,16 @@
         "tags": []
     },
     {
+        "address": "0x0000000000000000000000000000000000001010",
+        "chainId": 137,
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "coingeckoId": "polygon",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+        "tags": []
+    },
+    {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "chainId": 1,
         "name": "Dai Stablecoin",
