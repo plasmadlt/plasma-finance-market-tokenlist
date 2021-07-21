@@ -7328,7 +7328,7 @@
     {
         "address": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
         "chainId": 1,
-        "name": "Mirror mQQQ",
+        "name": "Mirror QQQ - Invesco",
         "symbol": "mQQQ",
         "coingeckoId": "mirrored-invesco-qqq-trust",
         "tags": [
@@ -7340,7 +7340,7 @@
     {
         "address": "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
         "chainId": 1,
-        "name": "Mirror mTWTR - Twitter",
+        "name": "Mirror TWTR - Twitter",
         "symbol": "mTWTR",
         "coingeckoId": "mirrored-twitter",
         "tags": [
@@ -7352,7 +7352,7 @@
     {
         "address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
         "chainId": 1,
-        "name": "Mirror mMSFT - Microsoft",
+        "name": "Mirror MSFT - Microsoft",
         "symbol": "mMSFT",
         "coingeckoId": "mirrored-microsoft",
         "tags": [
@@ -7364,7 +7364,7 @@
     {
         "address": "0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
         "chainId": 1,
-        "name": "Mirror mAMZN - Amazon",
+        "name": "Mirror AMZN - Amazon",
         "symbol": "mAMZN",
         "coingeckoId": "mirrored-amazon",
         "tags": [
@@ -7376,7 +7376,7 @@
     {
         "address": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
         "chainId": 1,
-        "name": "Mirror mBABA - Alibaba",
+        "name": "Mirror BABA - Alibaba",
         "symbol": "mBABA",
         "coingeckoId": "mirrored-alibaba",
         "tags": [
@@ -7388,9 +7388,9 @@
     {
         "address": "0x1d350417d9787E000cc1b95d70E9536DcD91F373",
         "chainId": 1,
-        "name": "Mirror mSLV",
-        "symbol": "mSLV",
-        "coingeckoId": "mirrored-ishares-silver-trust",
+        "name": "Mirror IAU - iShares Gold Trust",
+        "symbol": "MIAU",
+        "coingeckoId": "mirrored-ishares-gold-trust",
         "tags": [
             "stock"
         ],
@@ -7400,7 +7400,7 @@
     {
         "address": "0x31c63146a635EB7465e5853020b39713AC356991",
         "chainId": 1,
-        "name": "Mirror mUSO",
+        "name": "Mirror USO - US Oil Fund",
         "symbol": "mUSO",
         "coingeckoId": "mirrored-united-states-oil-fund",
         "tags": [
@@ -7412,7 +7412,7 @@
     {
         "address": "0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
         "chainId": 1,
-        "name": "Mirror mFB - Facebook",
+        "name": "Mirror FB - Facebook",
         "symbol": "mFB",
         "coingeckoId": "mirrored-facebook",
         "tags": [
@@ -7424,7 +7424,7 @@
     {
         "address": "0x1e25857931F75022a8814e0B0c3a371942A88437",
         "chainId": 1,
-        "name": "Mirror mCOIN - Coinbase",
+        "name": "Mirror COIN - Coinbase",
         "symbol": "mCOIN",
         "coingeckoId": "",
         "tags": [
