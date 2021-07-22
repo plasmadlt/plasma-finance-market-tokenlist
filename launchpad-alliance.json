@@ -2936,5 +2936,18 @@
         "idoAllo": "",
         "idoPrice": "",
         "idoDate": ""
+    },
+    {
+        "token": "Polker",
+        "ticker": "PKR",
+        "coingeckoId": "polker",
+        "contract": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+        "totalSupply": "1000000000",
+        "telegram": "https://t.me/polkercrew",
+        "twitter": "https://twitter.com/POLKER_PKR",
+        "idoPlatform": "bullperks",
+        "idoAllo": "5405351.35",
+        "idoPrice": "0.0185",
+        "idoDate": "2021-06-21T19:00:00"
     }
 ]
