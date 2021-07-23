@@ -195,6 +195,10 @@
       {
         "chainId": 1,
         "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd"
+      },
+      {
+        "chainId": 137,
+        "address": "0x6B3d5099c4827a3fC7C858865c1Cea15c3fe58ee"
       }
     ]
   },
@@ -209,6 +213,10 @@
       {
         "chainId": 1,
         "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF"
+      },
+      {
+        "chainId": 137,
+        "address": "0xA9ADe7b8C8252b1E17cAFa53BF46FF1319F8532D"
       }
     ]
   },
@@ -243,6 +251,10 @@
       {
         "chainId": 1,
         "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+      },
+      {
+        "chainId": 137,
+        "address": "0x347ACCAFdA7F8c5BdeC57fa34a5b663CBd1aeca7"
       }
     ]
   },
@@ -257,6 +269,10 @@
       {
         "chainId": 1,
         "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0597a52b14B0DCA2158665d6961572E371Ff5678"
       }
     ]
   },
@@ -291,6 +307,10 @@
       {
         "chainId": 1,
         "address": "0x865ec58b06bF6305B886793AA20A2da31D034E68"
+      },
+      {
+        "chainId": 137,
+        "address": "0x4Ded021C6f02dB04C9e9A97b898d36348094B9b8"
       }
     ]
   },
@@ -347,6 +367,10 @@
       {
         "chainId": 1,
         "address": "0xD291E7a03283640FDc51b121aC401383A46cC623"
+      },
+      {
+        "chainId": 137,
+        "address": "0x3b9dB434F08003A89554CDB43b3e0b1f8734BdE7"
       }
     ]
   },
@@ -402,6 +426,10 @@
       {
         "chainId": 1,
         "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023"
+      },
+      {
+        "chainId": 137,
+        "address": "0xd668c5e8A4A837CA95be5e3a8d5Bd62F5985390D"
       }
     ]
   },
@@ -491,6 +519,10 @@
       {
         "chainId": 1,
         "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704"
+      },
+      {
+        "chainId": 137,
+        "address": "0x9C81077ffdd65b7E3833dd576AA94bf4B49b00F0"
       }
     ]
   },
@@ -526,6 +558,10 @@
       {
         "chainId": 1,
         "address": "0x12f649A9E821F90BB143089a6e56846945892ffB"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0C2ea0623E1C19bfB984Dce137404671a95f3478"
       }
     ]
   },
@@ -542,6 +578,10 @@
       {
         "chainId": 1,
         "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0Bf519071b02F22C17E7Ed5F4002ee1911f46729"
       }
     ]
   },
@@ -576,6 +616,10 @@
       {
         "chainId": 1,
         "address": "0x221657776846890989a759BA2973e427DfF5C9bB"
+      },
+      {
+        "chainId": 137,
+        "address": "0x6563c1244820CfBd6Ca8820FBdf0f2847363F733"
       }
     ]
   },
@@ -625,6 +669,10 @@
       {
         "chainId": 1,
         "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988"
+      },
+      {
+        "chainId": 137,
+        "address": "0xE1444fa4b5c530E46b79A47bA1a8DFE252B8A1c0"
       }
     ]
   },
@@ -712,7 +760,11 @@
     "addresses": [
       {
         "chainId": 1,
-        "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166"
+        "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a"
+      },
+      {
+        "chainId": 137,
+        "address": "0xff835562C761205659939B64583dd381a6AA4D92"
       }
     ]
   },
@@ -729,6 +781,10 @@
       {
         "chainId": 1,
         "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a"
+      },
+      {
+        "chainId": 137,
+        "address": "0x04bEa9FCE76943E90520489cCAb84E84C0198E29"
       }
     ]
   },
@@ -800,6 +856,10 @@
       {
         "chainId": 1,
         "address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB"
+      },
+      {
+        "chainId": 137,
+        "address": "0x4Fb71290Ac171E1d144F7221D882BECAc7196EB5"
       }
     ]
   },
@@ -938,6 +998,10 @@
       {
         "chainId": 1,
         "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+      },
+      {
+        "chainId": 137,
+        "address": "0x2c14C84D08b35a8135f57338816f5FcBEac08d35"
       }
     ]
   },
@@ -952,6 +1016,10 @@
       {
         "chainId": 1,
         "address": "0x41AB1b6fcbB2fA9DCEd81aCbdeC13Ea6315F2Bf2"
+      },
+      {
+        "chainId": 137,
+        "address": "0xfdCA275366efac9204D2d8D3D7A9428CA947307B"
       }
     ]
   },
@@ -966,6 +1034,10 @@
       {
         "chainId": 1,
         "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+      },
+      {
+        "chainId": 137,
+        "address": "0x66Dc5A08091d1968e08C16aA5b27BAC8398b02Be"
       }
     ]
   },
@@ -984,6 +1056,10 @@
       {
         "chainId": 1,
         "address": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787"
+      },
+      {
+        "chainId": 137,
+        "address": "0xeAEf6cAf6d5894EDB2D4EA7ec11eC4AB655f1cBF"
       }
     ]
   },
@@ -1409,6 +1485,10 @@
       {
         "chainId": 1,
         "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643"
+      },
+      {
+        "chainId": 137,
+        "address": "0x6fe9C1631b37a2b438CFD3d67409E15503Ddd535"
       }
     ]
   },
@@ -1454,6 +1534,10 @@
       {
         "chainId": 1,
         "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb"
+      },
+      {
+        "chainId": 137,
+        "address": "0x53c1AB7a25F1A44921dE8BF479F5528845fc1254"
       }
     ]
   },
@@ -1576,6 +1660,10 @@
       {
         "chainId": 1,
         "address": "0x6758B7d441a9739b98552B373703d8d3d14f9e62"
+      },
+      {
+        "chainId": 137,
+        "address": "0xFc192E1943289d6731Ae72850da167f4c194ab91"
       }
     ]
   },
@@ -1611,6 +1699,10 @@
       {
         "chainId": 1,
         "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25"
+      },
+      {
+        "chainId": 137,
+        "address": "0xb37Dc3620b3ed0D09bBD43BCB9ceF277a6a0f49B"
       }
     ]
   },
@@ -1639,6 +1731,10 @@
       {
         "chainId": 1,
         "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78"
+      },
+      {
+        "chainId": 137,
+        "address": "0x3Ea044a788fF278d4150CE1741c888fFed6Ce44F"
       }
     ]
   },
@@ -1962,6 +2058,10 @@
       {
         "chainId": 1,
         "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419"
+      },
+      {
+        "chainId": 137,
+        "address": "0x993f2CafE9dbE525243f4A78BeBC69DAc8D36000"
       }
     ]
   },
@@ -2238,6 +2338,10 @@
       {
         "chainId": 1,
         "address": "0xf7413489c474ca4399eeE604716c72879Eea3615"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0FfC26BEDf1EB59B27479f0b79D95f61DCFB200C"
       }
     ]
   },
@@ -2287,6 +2391,10 @@
       {
         "chainId": 1,
         "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0EE392bA5ef1354c9bd75a98044667d307C0e773"
       }
     ]
   },
@@ -2361,6 +2469,10 @@
       {
         "chainId": 1,
         "address": "0x97af10D3fc7C70F67711Bf715d8397C6Da79C1Ab"
+      },
+      {
+        "chainId": 137,
+        "address": "0x1a6030f2882e38186D21fD9996d1803d9dBf0936"
       }
     ]
   },
@@ -2505,6 +2617,10 @@
       {
         "chainId": 1,
         "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3"
+      },
+      {
+        "chainId": 137,
+        "address": "0x8d42eCce45f4B30ff2435bD19a983f7616adD16e"
       }
     ]
   },
@@ -2603,6 +2719,10 @@
       {
         "chainId": 1,
         "address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe"
+      },
+      {
+        "chainId": 137,
+        "address": "0xb09C87726059f2a3d6b795cc7252A225292A53E1"
       }
     ]
   },
@@ -2617,6 +2737,10 @@
       {
         "chainId": 1,
         "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+      },
+      {
+        "chainId": 137,
+        "address": "0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3"
       }
     ]
   },
@@ -2665,6 +2789,10 @@
       {
         "chainId": 1,
         "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a"
+      },
+      {
+        "chainId": 137,
+        "address": "0xD98DeFAC38214426Ef58Cf7996DE8b373933f902"
       }
     ]
   },
@@ -2710,6 +2838,10 @@
       {
         "chainId": 1,
         "address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407"
+      },
+      {
+        "chainId": 137,
+        "address": "0x62059c1F748CD663798CEe1B31e86ce28bA73eC2"
       }
     ]
   },
@@ -2759,6 +2891,10 @@
       {
         "chainId": 1,
         "address": "0xeca82185adCE47f39c684352B0439f030f860318"
+      },
+      {
+        "chainId": 137,
+        "address": "0xB121FCD122DAAa153bB8a102754127b2682645CB"
       }
     ]
   },
@@ -2819,6 +2955,10 @@
       {
         "chainId": 1,
         "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+      },
+      {
+        "chainId": 137,
+        "address": "0x163e9c8DF744B38Fe1975fBED2Eb3d9005c6655F"
       }
     ]
   },
@@ -3001,6 +3141,10 @@
       {
         "chainId": 1,
         "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA"
+      },
+      {
+        "chainId": 137,
+        "address": "0xf6a0277582919ea0A78078F54CD11a4bcCfd6Ac7"
       }
     ]
   },
@@ -3260,6 +3404,10 @@
       {
         "chainId": 1,
         "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784"
+      },
+      {
+        "chainId": 137,
+        "address": "0x5b77bCA482bd3E7958b1103d123888EfCCDaF803"
       }
     ]
   },
@@ -3351,6 +3499,10 @@
       {
         "chainId": 1,
         "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0a5e1dE30E943421Ed9faAeC815125B6BdF9383e"
       }
     ]
   },
@@ -3460,6 +3612,10 @@
       {
         "chainId": 1,
         "address": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669"
+      },
+      {
+        "chainId": 137,
+        "address": "0xf862E6a988d0B7B7Bf2f87b8E28454fAfc5A4237"
       }
     ]
   },
@@ -3550,6 +3706,10 @@
       {
         "chainId": 1,
         "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
+      },
+      {
+        "chainId": 137,
+        "address": "0x688AB7562301b3B58B67bEB614986B51ad3698eB"
       }
     ]
   },
@@ -3564,6 +3724,10 @@
       {
         "chainId": 1,
         "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"
+      },
+      {
+        "chainId": 137,
+        "address": "0x7f4e5fC5D43D1EB91447011AC83957F673e31E9A"
       }
     ]
   },
@@ -3654,7 +3818,7 @@
     ]
   },
   {
-    "name": "Kyber Network",
+    "name": "Kyber Network Old",
     "symbol": "KNC",
     "coingeckoId": "kyber-network",
     "decimals": 18,
@@ -3667,6 +3831,10 @@
       {
         "chainId": 1,
         "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+      },
+      {
+        "chainId": 137,
+        "address": "0x324b28d6565f784d596422B0F2E5aB6e9CFA1Dc7"
       }
     ]
   },
@@ -3719,6 +3887,10 @@
       {
         "chainId": 1,
         "address": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559"
+      },
+      {
+        "chainId": 137,
+        "address": "0xf3681947a43F180ea68a8b949F5E7A18df946a09"
       }
     ]
   },
@@ -4071,6 +4243,10 @@
       {
         "chainId": 1,
         "address": "0xFA2562da1Bba7B954f26C74725dF51fb62646313"
+      },
+      {
+        "chainId": 137,
+        "address": "0xd6d8fFC109a3EE48b0c1163a062eaD5Fcc83416e"
       }
     ]
   },
@@ -4163,7 +4339,7 @@
     ]
   },
   {
-    "name": "UniCrypt",
+    "name": "UniCrypt Old",
     "symbol": "UNC",
     "coingeckoId": "unicrypt",
     "decimals": 18,
@@ -4173,6 +4349,28 @@
       {
         "chainId": 1,
         "address": "0xf29e46887FFAE92f1ff87DfE39713875Da541373"
+      },
+      {
+        "chainId": 137,
+        "address": "0xfA2328D170d9476FEAFe1a6180aBDB61A13A9494"
+      }
+    ]
+  },
+  {
+    "name": "UniCrypt",
+    "symbol": "UNCX",
+    "coingeckoId": "unicrypt",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf29e46887ffae92f1ff87dfe39713875da541373.png",
+    "tags": [],
+    "addresses": [
+      {
+        "chainId": 1,
+        "address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0"
+      },
+      {
+        "chainId": 137,
+        "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F"
       }
     ]
   },
@@ -4616,10 +4814,6 @@
       {
         "chainId": 1,
         "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
-      },
-      {
-        "chainId": 137,
-        "address": "0x0000000000000000000000000000000000001010"
       }
     ]
   },
@@ -5576,6 +5770,10 @@
       {
         "chainId": 1,
         "address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2"
+      },
+      {
+        "chainId": 137,
+        "address": "0x6f0CAd28165121Ab60d3D5504A702e77d644E367"
       }
     ]
   },
@@ -5592,6 +5790,10 @@
       {
         "chainId": 1,
         "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf"
+      },
+      {
+        "chainId": 137,
+        "address": "0x627C50aa6A384933d6354448f70476D3BD02Fcc8"
       }
     ]
   },
@@ -5678,6 +5880,10 @@
       {
         "chainId": 1,
         "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c"
+      },
+      {
+        "chainId": 137,
+        "address": "0x8F94400CDeF837F388100cfE56D7ebB8a3A3fb44"
       }
     ]
   },
@@ -6392,7 +6598,7 @@
     ]
   },
   {
-    "name": "DSLA",
+    "name": "DSLA Protocol",
     "symbol": "DSLA",
     "coingeckoId": "stacktical",
     "decimals": 18,
@@ -6402,6 +6608,10 @@
       {
         "chainId": 1,
         "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe"
+      },
+      {
+        "chainId": 137,
+        "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639"
       }
     ]
   },
@@ -6514,6 +6724,10 @@
       {
         "chainId": 1,
         "address": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F"
+      },
+      {
+        "chainId": 137,
+        "address": "0x2B34c0efB7Eeb5bEd0A7253581dB085171dAcB71"
       }
     ]
   },
@@ -6846,6 +7060,10 @@
       {
         "chainId": 1,
         "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0cdf14B01692c57fD8d066A053B3A0FA0Aa2Fc11"
       }
     ]
   },
@@ -6866,6 +7084,26 @@
       {
         "chainId": 137,
         "address": "0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Finances",
+    "symbol": "iFARM",
+    "coingeckoId": "ifarm",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa0246c9032bc3a600820415ae600c6388619a14d.png",
+    "tags": [
+      "defi"
+    ],
+    "addresses": [
+      {
+        "chainId": 1,
+        "address": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651"
+      },
+      {
+        "chainId": 137,
+        "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff"
       }
     ]
   },
@@ -6910,6 +7148,10 @@
       {
         "chainId": 1,
         "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86"
+      },
+      {
+        "chainId": 137,
+        "address": "0x655BD74cd109ebDd0b030Eb4609B9214028f7729"
       }
     ]
   },
@@ -6950,6 +7192,10 @@
       {
         "chainId": 1,
         "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd"
+      },
+      {
+        "chainId": 137,
+        "address": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78"
       }
     ]
   },
@@ -7329,6 +7575,10 @@
       {
         "chainId": 1,
         "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
+      },
+      {
+        "chainId": 137,
+        "address": "0x2b8504ab5eFc246d0eC5Ec7E74565683227497de"
       }
     ]
   },
@@ -7527,6 +7777,10 @@
       {
         "chainId": 1,
         "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a"
+      },
+      {
+        "chainId": 137,
+        "address": "0xc30DD0cCE2e683aA68c87C280e73beB3DEc9B3BA"
       }
     ]
   },
@@ -7711,11 +7965,11 @@
     "addresses": [
       {
         "chainId": 1,
-        "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA"
+        "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b"
       },
       {
         "chainId": 137,
-        "address": "0x334d7ae7f1d21ceb74537391558ce57bbf3ccf73"
+        "address": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b"
       }
     ]
   },
@@ -8458,6 +8712,10 @@
       {
         "chainId": 1,
         "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC"
+      },
+      {
+        "chainId": 137,
+        "address": "0xd4E3F03095A252323506Dd589810Dc78cEa0A923"
       }
     ]
   },
@@ -8968,6 +9226,10 @@
       {
         "chainId": 1,
         "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+      },
+      {
+        "chainId": 137,
+        "address": "0x4C6B65fe93fc9DaF413498b88195FAfFF36dD960"
       }
     ]
   },
@@ -9408,6 +9670,10 @@
       {
         "chainId": 1,
         "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713"
+      },
+      {
+        "chainId": 137,
+        "address": "0x708CCa2f9EdED49918865Fd45442eF733155CAcb"
       }
     ]
   },
@@ -9624,6 +9890,10 @@
       {
         "chainId": 1,
         "address": "0xE4fA3C576c31696322e8d7165C5965d5a1F6A1A5"
+      },
+      {
+        "chainId": 137,
+        "address": "0x99aC53C1ab08BAA7c83f444Ebf442d0fcbb09DB6"
       }
     ]
   },
@@ -9743,6 +10013,10 @@
       {
         "chainId": 1,
         "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA"
+      },
+      {
+        "chainId": 137,
+        "address": "0xc7031408C7978da9aCA03308CD104cb54E7A2EB3"
       }
     ]
   },
@@ -9856,6 +10130,10 @@
       {
         "chainId": 1,
         "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768"
+      },
+      {
+        "chainId": 137,
+        "address": "0xAE8948Bc6b4ec35FfE7Decc6BEb205Ea6d077b57"
       }
     ]
   },
@@ -9898,9 +10176,9 @@
     ]
   },
   {
-    "name": "Defi Pulse Index",
-    "symbol": "BDPI",
-    "coingeckoId": "interest-bearing-dpi",
+    "name": "BasketDAO DeFi Index",
+    "symbol": "BDI",
+    "coingeckoId": "basketdao-defi-index",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060.png",
     "tags": [
@@ -9911,6 +10189,10 @@
       {
         "chainId": 1,
         "address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060"
+      },
+      {
+        "chainId": 137,
+        "address": "0x76b1575482BcAA7815964Ed6759FE4bc4b0eB8b2"
       }
     ]
   },
@@ -9928,6 +10210,10 @@
       {
         "chainId": 1,
         "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c"
+      },
+      {
+        "chainId": 137,
+        "address": "0xd7a2DC75ea2057b3949F9E1dbdF3480203DBE26a"
       }
     ]
   },
@@ -10052,6 +10338,10 @@
       {
         "chainId": 1,
         "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
+      },
+      {
+        "chainId": 137,
+        "address": "0xa052EFCDd44F02073B1FDC42bF06017A0234ae03"
       }
     ]
   },
@@ -10122,6 +10412,10 @@
       {
         "chainId": 1,
         "address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112"
+      },
+      {
+        "chainId": 137,
+        "address": "0xBfa05E530f42999AAfC5F15F98AfdF0667e312Bc"
       }
     ]
   },
@@ -10240,6 +10534,10 @@
       {
         "chainId": 1,
         "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198"
+      },
+      {
+        "chainId": 137,
+        "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab"
       }
     ]
   },
@@ -10362,6 +10660,10 @@
       {
         "chainId": 1,
         "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915"
+      },
+      {
+        "chainId": 137,
+        "address": "0xC4d094E246B69BB1F2EeDde1e5026BEba532248e"
       }
     ]
   },
@@ -10515,7 +10817,7 @@
     ]
   },
   {
-    "name": "BEST Test Token",
+    "name": "Example - Test Token",
     "description": {
       "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
       "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
@@ -10680,6 +10982,10 @@
       {
         "chainId": 1,
         "address": "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84"
+      },
+      {
+        "chainId": 137,
+        "address": "0x7E4e3923005aC2942745480D96751Ca9DEc5C9B6"
       }
     ]
   },
@@ -10696,6 +11002,10 @@
       {
         "chainId": 1,
         "address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442"
+      },
+      {
+        "chainId": 137,
+        "address": "0x41970f24B738aA21152fDF05d65a688A9A3C63c7"
       }
     ]
   },
@@ -10728,6 +11038,10 @@
       {
         "chainId": 1,
         "address": "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD"
+      },
+      {
+        "chainId": 137,
+        "address": "0xB261387f5188c81DdD543e2A75c89309aB1bfD2C"
       }
     ]
   },
@@ -10744,6 +11058,10 @@
       {
         "chainId": 1,
         "address": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15"
+      },
+      {
+        "chainId": 137,
+        "address": "0x20269A36538fbD3f33f1688919776E2220455567"
       }
     ]
   },
@@ -10760,6 +11078,10 @@
       {
         "chainId": 1,
         "address": "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9"
+      },
+      {
+        "chainId": 137,
+        "address": "0x5c7d670637CBAc5Cd71ddF3DF7DECee2A46dbFE2"
       }
     ]
   },
@@ -10776,6 +11098,10 @@
       {
         "chainId": 1,
         "address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7"
+      },
+      {
+        "chainId": 137,
+        "address": "0xc4483AfED7159AF6b7D2eF41a18BC82F5081C063"
       }
     ]
   },
@@ -10792,6 +11118,10 @@
       {
         "chainId": 1,
         "address": "0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7"
+      },
+      {
+        "chainId": 137,
+        "address": "0xC46e5F28f1A7AdeAC72b0d2bC0c710dF865776F1"
       }
     ]
   },
@@ -10808,6 +11138,10 @@
       {
         "chainId": 1,
         "address": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0959CAD1298a204277C1b5C00F62D9F2cb0b6756"
       }
     ]
   },
@@ -10824,6 +11158,10 @@
       {
         "chainId": 1,
         "address": "0x1d350417d9787E000cc1b95d70E9536DcD91F373"
+      },
+      {
+        "chainId": 137,
+        "address": "0xB38B63CbcCd3239D72AB133771382BBbcf4BEd02"
       }
     ]
   },
@@ -10840,6 +11178,10 @@
       {
         "chainId": 1,
         "address": "0x31c63146a635EB7465e5853020b39713AC356991"
+      },
+      {
+        "chainId": 137,
+        "address": "0xe861920768dA0310B125C27A44ADDA11532ab838"
       }
     ]
   },
@@ -10856,6 +11198,10 @@
       {
         "chainId": 1,
         "address": "0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B"
+      },
+      {
+        "chainId": 137,
+        "address": "0xcDb3ff438D8fbC7B09a70311178eC68Ef4EAff00"
       }
     ]
   },
@@ -10872,6 +11218,10 @@
       {
         "chainId": 1,
         "address": "0x1e25857931F75022a8814e0B0c3a371942A88437"
+      },
+      {
+        "chainId": 137,
+        "address": "0x14c36A063414Ee9BfA9Ef2bD0e1FdFAE690512be"
       }
     ]
   },
@@ -10944,38 +11294,7 @@
     ]
   },
   {
-    "name": "DSLA Protocol",
-    "symbol": "DSLA",
-    "coingeckoId": "stacktical",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe.png",
-    "tags": [],
-    "addresses": [
-      {
-        "chainId": 137,
-        "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639"
-      }
-    ]
-  },
-  {
-    "name": "Wrapped Celo",
-    "symbol": "mwCELO",
-    "coingeckoId": "celo",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a.png",
-    "tags": [
-      "alliance",
-      "wrap"
-    ],
-    "addresses": [
-      {
-        "chainId": 137,
-        "address": "0xc30DD0cCE2e683aA68c87C280e73beB3DEc9B3BA"
-      }
-    ]
-  },
-  {
-    "name": "Kyber Network Crystal",
+    "name": "Kyber Network Crystal v2",
     "symbol": "KNC",
     "coingeckoId": "kyber-network-crystal",
     "decimals": 18,
@@ -10985,6 +11304,10 @@
       "defi"
     ],
     "addresses": [
+      {
+        "chainId": 1,
+        "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202"
+      },
       {
         "chainId": 137,
         "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C"
@@ -11001,6 +11324,10 @@
       "nft"
     ],
     "addresses": [
+      {
+        "chainId": 1,
+        "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24"
+      },
       {
         "chainId": 137,
         "address": "0x61299774020dA444Af134c82fa83E3810b309991"
@@ -11052,6 +11379,10 @@
     ],
     "addresses": [
       {
+        "chainId": 1,
+        "address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023"
+      },
+      {
         "chainId": 137,
         "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97"
       }
@@ -11067,6 +11398,10 @@
       "defi"
     ],
     "addresses": [
+      {
+        "chainId": 1,
+        "address": "0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA"
+      },
       {
         "chainId": 137,
         "address": "0xff88434E29d1E2333aD6baa08D358b436196da6b"
@@ -11095,6 +11430,10 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xB9638272aD6998708de56BBC0A290a1dE534a578.png",
     "tags": [],
     "addresses": [
+      {
+        "chainId": 1,
+        "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9"
+      },
       {
         "chainId": 137,
         "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578"
@@ -11196,7 +11535,10 @@
     "coingeckoId": "rusd",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5.png",
-    "tags": [],
+    "tags": [
+      "stable",
+      "defi"
+    ],
     "addresses": [
       {
         "chainId": 137,
@@ -11391,6 +11733,10 @@
     "tags": [],
     "addresses": [
       {
+        "chainId": 1,
+        "address": "0x99fE3B1391503A1bC1788051347A1324bff41452"
+      },
+      {
         "chainId": 137,
         "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79"
       }
@@ -11433,6 +11779,10 @@
     "tags": [],
     "addresses": [
       {
+        "chainId": 1,
+        "address": "0x831091dA075665168E01898c6DAC004A867f1e1B"
+      },
+      {
         "chainId": 137,
         "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2"
       }
@@ -11446,6 +11796,10 @@
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x034b2090b579228482520c589dbD397c53Fc51cC.png",
     "tags": [],
     "addresses": [
+      {
+        "chainId": 1,
+        "address": "0xF406F7A9046793267bc276908778B29563323996"
+      },
       {
         "chainId": 137,
         "address": "0x034b2090b579228482520c589dbD397c53Fc51cC"
