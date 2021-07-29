@@ -271,7 +271,7 @@ Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.
 
 # 🔉 Social Media
 [Facebook](https://www.facebook.com/plasmapay) <br>
-[Plasma Twitter](https://twitter.com/plasma_pay) <br>
+[Plasma Twitter](https://twitter.com/0xPlasma) <br>
 [Spaceport Twitter](https://twitter.com/CyberSpacePort) <br>
 
 # 🔗 Useful Links
