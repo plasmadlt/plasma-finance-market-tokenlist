@@ -97,6 +97,10 @@
       {
         "chainId": 137,
         "address": "0x08158A6b5d4018340387d1A302f882E98a8bC5b4"
+      },
+      {
+        "chainId": 56,
+        "address": "0xfb288d60D3b66F9c3e231a9a39Ed3f158a4269aA"
       }
     ]
   },
