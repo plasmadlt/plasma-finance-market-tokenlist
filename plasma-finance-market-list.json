@@ -608,6 +608,28 @@
     ]
   },
   {
+      "address": "0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46",
+      "chainId": 137,
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "tags": [
+         "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46.png"
+    },
+    {
+      "address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+      "chainId": 1,
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "tags": [
+        "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46.png"
+   },
+  {
     "name": "Augur Reputation v2",
     "symbol": "REPv2",
     "coingeckoId": "augur",
