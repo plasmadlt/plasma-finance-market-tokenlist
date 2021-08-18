@@ -10673,12 +10673,91 @@
   },
   {
     "name": "CoinsPaid",
+    "description": {
+      "en": "CoinsPaid is the largest crypto payment ecosystem.",
+      "es": "CoinsPaid is the largest crypto payment ecosystem.",
+      "fr": "CoinsPaid is the largest crypto payment ecosystem.",
+      "hu": "CoinsPaid is the largest crypto payment ecosystem.",
+      "id": "CoinsPaid is the largest crypto payment ecosystem.",
+      "it": "CoinsPaid is the largest crypto payment ecosystem.",
+      "ja": "CoinsPaid is the largest crypto payment ecosystem.",
+      "ko": "CoinsPaid is the largest crypto payment ecosystem.",
+      "nl": "CoinsPaid is the largest crypto payment ecosystem.",
+      "pl": "CoinsPaid is the largest crypto payment ecosystem.",
+      "pt": "CoinsPaid is the largest crypto payment ecosystem.",
+      "ro": "CoinsPaid is the largest crypto payment ecosystem.",
+      "ru": "CoinsPaid is the largest crypto payment ecosystem.",
+      "sv": "CoinsPaid is the largest crypto payment ecosystem.",
+      "th": "CoinsPaid is the largest crypto payment ecosystem.",
+      "tr": "CoinsPaid is the largest crypto payment ecosystem.",
+      "vi": "CoinsPaid is the largest crypto payment ecosystem.",
+      "zh": "CoinsPaid is the largest crypto payment ecosystem.",
+      "zh-tw": "CoinsPaid is the largest crypto payment ecosystem."
+    },
     "symbol": "CPD",
     "coingeckoId": "coinspaid",
+    "coinmarketcapId": "coinspaid",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355.png",
+    "tokenomicsData": {
+      "totalSupply": "800000000"
+    },
     "tags": [
-      "defi"
+      "defi",
+      "alliance",
+      "ido"
+    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://coinspaid.com/ido/"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://docsend.com/view/sgnx4m5n6vzutq5k"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/CoinsPaid_Chat"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/CoinsPaid/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/coinspaid"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": ""
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/TQ765kMB"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://coinspaid.medium.com/"
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x9b31bb425d8263fa1b8b9d090b83cf0c31665355"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/coinspaid"
+      }
     ],
     "addresses": [
       {
@@ -10688,6 +10767,10 @@
       {
         "chainId": 137,
         "address": "0x1cE4A2C355F0DcC24E32A9Af19F1836D6F4f98ae"
+      },
+      {
+        "chainId": 56,
+        "address": "0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2"
       }
     ]
   },
