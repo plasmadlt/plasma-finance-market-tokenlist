@@ -1,0 +1,24 @@
+name: IPFS Deploy
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_PATH: /tmp/deploy
+
+    steps:
+      - uses: actions/checkout@v1
+        name: Checkout source code
+
+      - uses: actions/setup-node@v2
+        name: Setup node
+        with:
+          node-version: '14'
+
+      - run: npm c set loglevel silent
+      - run: npm install ipfs-deploy -g
+      - run: mkdir -p $DEPLOY_PATH && cp plasma-finance-market-list.json $DEPLOY_PATH
+      - run: ipfs-deploy --no-clipboard=true $DEPLOY_PATH -p infura
