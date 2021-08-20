@@ -6,7 +6,7 @@
   "kycUrl": "https://verify-with.blockpass.org/?env=prod&auto=1&clientId=coinspaid_ido_279e4",
   "socialAllocationUrl": "",
   "contractAudit": "https://docsend.com/view/gihri7nrmi4mxy5n",
-  "pitchDeckPdf": "",
+  "pitchDeckPdf": "https://cryptoprocessing.com/docs/coinspaid-pitch-deck.pdf",
   "youtubeLink": "https://youtu.be/8S3JP-5TlXs",
   "tokenomics": {
     "startTimestamp": 1630540740,
