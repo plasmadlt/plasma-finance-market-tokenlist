@@ -1,0 +1,318 @@
+{
+  "name": "CoinsPaid: $CPD",
+  "description": "CoinsPaid is a leading crypto payment ecosystem, which processes 5% of all on-chain BTC transactions. It is a successful and profitable business that launched a CPD token and DeFi tools to provide additional value for its customers. Moreover, CoinsPaid is Payment provider of the Year (AIBC version)",
+  "chainId": 1,
+  "projectVerifiedByAdmins": "1",
+  "kycUrl": "https://verify-with.blockpass.org/?env=prod&auto=1&clientId=coinspaid_ido_279e4",
+  "socialAllocationUrl": "",
+  "contractAudit": "https://docsend.com/view/gihri7nrmi4mxy5n",
+  "pitchDeckPdf": "",
+  "youtubeLink": "https://youtu.be/8S3JP-5TlXs",
+  "tokenomics": {
+    "startTimestamp": 1630540740,
+    "period": "m",
+    "datasets": [
+      {
+        "title": "Private (Stage I)",
+        "line": [
+          0,
+          0,
+          1.2,
+          2.4,
+          3.6,
+          4.8,
+          6,
+          7.2,
+          8.4,
+          9.6,
+          10.8,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "title": "Private (Stage II)",
+        "line": [
+          0,
+          1.16666,
+          2.33332,
+          3.49998,
+          4.66664,
+          5.8333,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "title": "Public Sale (IDO)",
+        "line": [
+          0.5,
+          1,
+          1.5,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "title": "DEX Liquidity",
+        "line": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "title": "Team",
+        "line": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "title": "Advisory Pool",
+        "line": [
+          0,
+          0,
+          0,
+          0.5555,
+          1.111,
+          1.6665,
+          2.222,
+          2.7775,
+          3.333,
+          3.8885,
+          4.444,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "title": "Ecosystem Partners",
+        "line": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1,
+          1.25,
+          1.5,
+          1.75,
+          2,
+          2.25,
+          2.5,
+          2.75,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "title": "Community Building",
+        "line": [
+          0,
+          0,
+          0,
+          2.0833,
+          4.1666,
+          6.2419,
+          8.3332,
+          10.4165,
+          12.4998,
+          14.5831,
+          16.6664,
+          18.7497,
+          20.833,
+          22.9163,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ]
+      },
+      {
+        "title": "Incentive Program",
+        "line": [
+          0,
+          0,
+          1.7222,
+          3.4444,
+          5.1666,
+          6.8886,
+          8.6108,
+          10.333,
+          12.0552,
+          13.7774,
+          15.4996,
+          17.2218,
+          18.944,
+          20.6662,
+          22.3884,
+          24.1106,
+          25.8328,
+          27.555,
+          29.2772,
+          31,
+          31,
+          31,
+          31,
+          31
+        ]
+      }
+    ]
+  },
+  "allocations": {
+    "datasets": [
+      {
+        "title": "Private (Stage I)",
+        "amount": 960000
+      },
+      {
+        "title": "Private (Stage II)",
+        "amount": 840000
+      },
+      {
+        "title": "Public Sale (IDO)",
+        "amount": 320000
+      },
+      {
+        "title": "DEX Liquidity",
+        "amount": 720000
+      },
+      {
+        "title": "Team",
+        "amount": 2880000
+      },
+      {
+        "title": "Advisory Pool",
+        "amount": 1200000
+      },
+      {
+        "title": "Partners",
+        "amount": 720000
+      },
+      {
+        "title": "Community Building",
+        "amount": 6000000
+      },
+      {
+        "title": "Incentive Program",
+        "amount": 7440000
+      }
+    ]
+  }
+}
