@@ -1,0 +1,28 @@
+{
+  "name": "plasma-finance-market-tokenlist",
+  "version": "1.0.0",
+  "description": "Plasma Finance market tokenlist and Spaceports info.",
+  "scripts": {
+    "validate": "node dev/validate-market-list.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasmadlt/plasma-finance-market-tokenlist.git"
+  },
+  "keywords": [
+    "defi",
+    "plasma"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plasmadlt/plasma-finance-market-tokenlist/issues"
+  },
+  "homepage": "https://github.com/plasmadlt/plasma-finance-market-tokenlist#readme",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "cli-spinner": "^0.2.10",
+    "dotenv": "^10.0.0",
+    "web3": "^1.5.2"
+  }
+}
