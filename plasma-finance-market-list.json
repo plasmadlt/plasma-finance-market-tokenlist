@@ -5285,7 +5285,7 @@
     "tags": [
       "nft"
     ],
-    "coingeckoId": "sand",
+    "coingeckoId": "the-sandbox",
     "tokens": [
       {
         "chainId": 1,
@@ -5297,7 +5297,7 @@
       {
         "chainId": 137,
         "address": "0xC6d54D2f624bc83815b49d9c2203b1330B841cA0",
-        "name": "SAND (PoS)",
+        "name": "SAND",
         "symbol": "SAND",
         "decimals": 18
       }
@@ -8069,6 +8069,81 @@
         "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
         "name": "DefiPulse Index (PoS)",
         "symbol": "DPI",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Metaverse Index",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7.png",
+    "tags": [
+      "indexes"
+    ],
+    "coingeckoId": "metaverse-index",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+        "name": "Metaverse Index",
+        "symbol": "MVI",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
+        "name": "Metaverse Index",
+        "symbol": "MVI",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "ETH 2x Leverage",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD.png",
+    "tags": [
+      "indexes"
+    ],
+    "coingeckoId": "eth-2x-flexible-leverage-index",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+        "name": "ETH 2x Leverage",
+        "symbol": "ETH2x-FLI",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "BTC 2x Leverage",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0B498ff89709d3838a063f1dFA463091F9801c2b.png",
+    "tags": [
+      "indexes"
+    ],
+    "coingeckoId": "btc-2x-flexible-leverage-index",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+        "name": "BTC 2x Leverage",
+        "symbol": "BTC2x-FLI",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Bankless BED Index",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6.png",
+    "tags": [
+      "indexes"
+    ],
+    "coingeckoId": "bankless-bed-index",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+        "name": "Bankless BED Index",
+        "symbol": "BED",
         "decimals": 18
       }
     ]
@@ -11952,7 +12027,7 @@
       {
         "chainId": 137,
         "address": "0xd7a2DC75ea2057b3949F9E1dbdF3480203DBE26a",
-        "name": "NFT INDEX (PoS)",
+        "name": "NFT INDEX",
         "symbol": "NFTI",
         "decimals": 18
       }
@@ -17941,6 +18016,54 @@
         "name": "Venus FIL",
         "symbol": "vFIL",
         "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "Wrapped TON Coin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1.png",
+    "tags": [],
+    "coingeckoId": "the-open-network",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "name": "Wrapped TON Coin",
+        "symbol": "TONCOIN",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "ZBG Token",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247.png",
+    "tags": [],
+    "coingeckoId": "ztcoin",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247",
+        "name": "ZBG Token",
+        "symbol": "ZT",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Magic Internet Money",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3.png",
+    "tags": [
+      "stable",
+      "defi"
+    ],
+    "coingeckoId": "magic-internet-money",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "decimals": 18
       }
     ]
   }
