@@ -1,11 +1,11 @@
-# Spaceport - Decentralized Cross-Chain IDO Launchpad
+# Spaceport - The First Decentralized Multi-Chain IDO Launchpad
 
 <p align="center"><img src="https://gblobscdn.gitbook.com/assets%2F-MOWBTwEhneL3ZmpuT_Q%2F-McTMFZHOXlDfXSW_FNI%2F-McTMtl3elNtDXm0GsdJ%2Fimage.png"></p>
 
 To add an information for your IDO on Spaceport or on the Innovation Hub page, please fork this repo, create a folder with your token address and JSON file inside with all the data about your project.
 https://github.com/plasmadlt/plasma-finance-market-tokenlist/tree/main/spaceport
 
-Here is a model of IDO JSON data:
+Here is a model of IDO JSON metadata:
 
 ```json
 {
@@ -76,16 +76,16 @@ When this file is ready, you can create IDO [here](https://apy.plasma.finance/#/
 This information we use for token and IDO pages on Plasma.Finance
 https://github.com/plasmadlt/plasma-finance-market-tokenlist/blob/main/plasma-finance-market-list.json
 
-See https://apy.plasma.finance/market
+See https://apy.plasma.finance/#/market
 
 # Add token in Market Token List and create Token Page on Plasma.Finance
-## 1. Press on Fork in the top right corner, wait for process to complete.
+## 1. Press on "Fork" in the top right corner, wait for process to complete.
 
 ```
 git clone https://github.com/plasmadlt/plasma-finance-market-tokenlist
 ```
 
-## 2. Add your token image in Assets
+## 2. Add your token .png image in folder "Assets"
 
 ```
 https://github.com/plasmadlt/token-list/tree/master/assets 
@@ -94,7 +94,7 @@ https://github.com/plasmadlt/token-list/tree/master/assets
 ### Image Requirements
 File extension: png. Uppercase PNG is considered invalid.
 File name：<contract_address>.png, all lowercase.
-Dimension: 256 x 256 pixels or 512 x 512 pixels.
+Dimension: 256 x 256 pixels (recommended) or 512 x 512 pixels.
 Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
 File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
 
@@ -201,7 +201,7 @@ Check or convert your address in checksummed address here: https://web3-tools.ne
 
 ## 3.2 Tags
 
-You can add any tag from the next list to your token. Use no more than 3 tags.
+You can add any tag from the next list to your token metadata. You can use up to 3 tags.
 
 ```json
 "tags": {
@@ -254,7 +254,7 @@ You can add any tag from the next list to your token. Use no more than 3 tags.
 
 ## 3.3 Coingecko ID
 
-To have all information (like circulation supply, trading volume, total supply, web links) for your token page please add Coingecko_ID to your token scheme.
+To have all information (like circulation supply, trading volume, total supply, web links) for your token page please add "coingeckoId" to your token scheme.
 Go to Coingecko, find your token and copy your token name from token's web page address. Paste this name to your token scheme.
 
 ## 4. Make a new PR (pull request)
@@ -267,7 +267,7 @@ git push origin <branch_name>
 
 # 📞 Contacts
 Email: [apy@plasma.finance](mailto:apy@plasma.finance) <br>
-Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.me/plasmapay_community)
+Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPlasmaMedia)
 
 # 🔉 Social Media
 [Facebook](https://www.facebook.com/plasmapay) <br>
@@ -277,12 +277,11 @@ Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.
 # 🔗 Useful Links
 ### [PlasmaPay](https://plasmapay.com/):
 - [Crypto Wallet](https://app.plasmapay.com/)
-- [Fiat on-ramp](https://buy.plasmapay.com/)
 
 ### [Plasma.Finance](https://plasma.finance/):
 #### Platform
 - [Market](https://apy.plasma.finance/#/market)
-- [Swap](https://apy.plasma.finance/#/swap)
+- [HyperDEX](https://apy.plasma.finance/#/hyper-dex)
 - [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
 - [Savings](https://apy.plasma.finance/#/savings)
 #### IDO
