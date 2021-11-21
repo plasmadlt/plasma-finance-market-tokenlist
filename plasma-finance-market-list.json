@@ -18066,5 +18066,22 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "name": "Constitution DAO",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "constitutiondao",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+        "name": "Constitution DAO",
+        "symbol": "PEOPLE",
+        "decimals": 18
+      }
+    ]
   }
 ]
