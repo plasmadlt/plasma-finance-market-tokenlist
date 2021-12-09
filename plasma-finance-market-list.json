@@ -19261,5 +19261,91 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "address": "0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140",
+    "chainId": 1,
+    "name": "Mylivn Coin",
+    "description": {
+      "en": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "es": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "fr": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "hu": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "id": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "it": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "ja": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "ko": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "nl": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "pl": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "pt": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "ro": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "ru": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "sv": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "th": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "tr": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "vi": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "zh": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+      "zh-tw": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn."
+    },
+    "symbol": "MLVC",
+    "coingeckoId": "mylivn-coin",
+    "coinmarketcapId": "mylivn-coin",
+    "decimals": 18,
+    "tokenomicsData": {
+      "totalSupply": "1000000000"
+    },
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140",
+        "name": "Mylivn Coin",
+        "symbol": "MLVC",
+        "decimals": 18
+      }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5054ed21d6f50b8bcc374c9ef86c9ad832e52140.png",
+    "tags": [    ],
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://mylivn.com"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://cdn-ln1.mylivn.com/static/2021-11-05/mylivn-lighpaper.pdf"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/mylivncoin"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/mylivn"
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/NF7hNY4rKa"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://mylivn.medium.com"
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/mylivn-gmbh/mlvc"
+      }
+    ]
   }
 ]

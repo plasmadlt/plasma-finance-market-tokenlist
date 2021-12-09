@@ -1,0 +1,78 @@
+{
+    "name": "Mylivn Coin",
+    "description": "Mylivn Coin (MLVC) is a token that has been designed to be the universal currency for the unique monetization model inside the social network mylivn.",
+    "chainId": 1,
+    "projectVerifiedByAdmins": "0",
+    "kycUrl": "https://mylivn.com/kyc",
+    "socialAllocationUrl": "https://mylivn.com/coin",
+    "contractAudit": "https://mylivn.com/mlvc-audit",
+    "pitchDeckPdf": "https://cdn-ln1.mylivn.com/static/2021-11-05/mylivn-lighpaper.pdf",
+    "email": "hello@mylivn.com",
+    "tokenomics": {
+      "startTimestamp": 1639656000,
+      "period": "m",
+      "datasets": [
+        {
+          "title": "Public round",
+          "line": [260000000]
+        },
+        {
+            "title": "Private round",
+            "line": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000000,10000000,10000000,20000000,20000000,20000000,30000000,30000000,30000000,40000000,40000000,40000000,50000000,50000000,50000000,60000000,60000000,60000000,70000000,70000000,70000000,80000000]
+        },
+        {
+          "title": "Founders round",
+          "line": [0,0,0,0,0,0,30000000]
+        },
+        {
+          "title": "Growth reserve",
+          "line": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,400000000]
+        },
+        {
+          "title": "Liquidity pool",
+          "line": [80000000]
+        },
+        {
+          "title": "Team",
+          "line": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50000000]
+        },
+        {
+          "title": "Incentives",
+          "line": [0,0,0,0,0,16666667,16666667,16666667,33333334,33333334,33333334,50000000,50000000,50000000,66666667,66666667,66666667,83333334,83333334,83333334,100000000]
+        }
+      ]
+    },
+    "allocations": {
+      "datasets": [
+        {
+          "title": "Public round",
+          "amount": 260000000
+        },
+        {
+          "title": "Private round",
+          "amount": 80000000
+        },
+        {
+            "title": "Founders round",
+            "amount": 30000000
+        },
+        {
+            "title": "Growth reserve",
+            "amount": 400000000
+        },      
+        {
+            "title": "Liquidity pool",
+            "amount": 80000000
+        },    
+        {
+            "title": "Team",
+            "amount": 50000000
+        },                    
+        {
+          "title": "Incentives",
+          "amount": 100000000
+        }
+      ]
+    }
+  }
+  
