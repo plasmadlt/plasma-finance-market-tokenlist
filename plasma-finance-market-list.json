@@ -927,6 +927,13 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8
+      },
+      {
+        "chainId": 10,
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8
       }
     ]
   },
@@ -1650,6 +1657,13 @@
         "name": "ChainLink",
         "symbol": "LINK",
         "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+        "name": "ChainLink",
+        "symbol": "LINK",
+        "decimals": 18
       }
     ]
   },
@@ -1892,6 +1906,13 @@
       {
         "chainId": 137,
         "address": "0x53c1AB7a25F1A44921dE8BF479F5528845fc1254",
+        "name": "Synth sETH",
+        "symbol": "sETH",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
         "name": "Synth sETH",
         "symbol": "sETH",
         "decimals": 18
@@ -3187,6 +3208,13 @@
         "name": "USDC",
         "symbol": "USDC",
         "decimals": 6
+      },
+      {
+        "chainId": 10,
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6
       }
     ]
   },
@@ -3919,6 +3947,13 @@
       {
         "chainId": 250,
         "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
         "name": "Synthetix Network Token",
         "symbol": "SNX",
         "decimals": 18
@@ -4697,6 +4732,41 @@
       {
         "chainId": 43114,
         "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "chainId": 42161,
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "chainId": 128,
+        "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 18
+      },
+      {
+        "chainId": 100,
+        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "chainId": 250,
+        "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "chainId": 10,
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6
@@ -5940,6 +6010,13 @@
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18
       }
     ]
   },
@@ -5980,6 +6057,13 @@
       {
         "chainId": 137,
         "address": "0xF81b4Bec6Ca8f9fe7bE01CA734F55B2b6e03A7a0",
+        "name": "Synth sUSD",
+        "symbol": "sUSD",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
         "name": "Synth sUSD",
         "symbol": "sUSD",
         "decimals": 18
@@ -6035,6 +6119,13 @@
       {
         "chainId": 1,
         "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+        "name": "Synth sBTC",
+        "symbol": "sBTC",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
         "name": "Synth sBTC",
         "symbol": "sBTC",
         "decimals": 18
@@ -6363,6 +6454,13 @@
       {
         "chainId": 1,
         "address": "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+        "name": "Synth sLINK",
+        "symbol": "sLINK",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
         "name": "Synth sLINK",
         "symbol": "sLINK",
         "decimals": 18
