@@ -1,3 +1,10 @@
+# Plasma.Finance Market Page Token List
+
+To create your token page on the Decentralized Plasma.Finance [Market Page](https://apy.plasma.finance/#/market), please fork this repo and edit this JSON file - https://github.com/plasmadlt/plasma-finance-market-tokenlist/blob/main/plasma-finance-market-list.json. After checking your Pull Request by our staff, your token page will appear on the platform.
+
+___________________
+
+
 # Spaceport - The First Decentralized Multi-Chain IDO Launchpad
 
 <p align="center"><img src="https://gblobscdn.gitbook.com/assets%2F-MOWBTwEhneL3ZmpuT_Q%2F-McTMFZHOXlDfXSW_FNI%2F-McTMtl3elNtDXm0GsdJ%2Fimage.png"></p>
