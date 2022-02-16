@@ -19360,4 +19360,110 @@
       }
     ]
   }
+  
+  {
+    "name": "Quizdom",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
+    "tags": [
+      "Gaming",
+      "Cryptogaming",
+      "Mobile Gaming",
+      "trending",
+      "ido",
+      "nft"
+    ],
+    "coingeckoId": "",
+    "description": {
+      "en": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "es": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "fr": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "hu": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "id": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "it": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "ja": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "ko": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "nl": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "pl": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "pt": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "ro": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "ru": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "sv": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "th": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "tr": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "vi": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "zh": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends.",
+      "zh-tw": "Hybrid trivia gaming. Think you are the smartest? Prove it against a worldwide community of trivia fiends."
+    },
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.quizdom.com/en/"
+      },
+      {
+        "icon": "whitepaper",
+        "name": "Whitepaper",
+        "url": "https://www.quizdom.com/QUIZDOM%20White%20Paper.V.3.pdf"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/OxPlasmaMedia"
+      },
+      {
+        "icon": "reddit",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/PlasmaFinance/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://t.me/QuizdomTokenDiscussion"
+      },
+      {
+        "icon": "wechat",
+        "name": "WeChat",
+        "url": ""
+      },
+      {
+        "icon": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/jAKGmu8gwm"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "etherscan",
+        "name": "Etherscan",
+        "url": "https://polygonscan.com/token/0x02003538587cf58FbcC06f15043F2618d4F56B55"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "url": "https://github.com/Quizdomtoken"
+      }
+    ],
+    "tokenomicsData": {
+      "totalSupply": "1000000000"
+    },
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x33d459776eb595dcc25353a232a9155f69852dd7",
+        "name": "Quizdom",
+        "symbol": "QUIZ",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x03fea254cfa7434004e8d495725bcbb7ccc40454",
+        "name": "Quizdom",
+        "symbol": "QUIZ",
+        "decimals": 18
+      }
+    ]
+  }
 ]
