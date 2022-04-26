@@ -16072,24 +16072,6 @@
     ]
   },
   {
-    "name": "Linear Finance",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x762539b45A1dCcE3D36d080F74d1AED37844b878.png",
-    "tags": [
-      "defi",
-      "dex"
-    ],
-    "coingeckoId": "linear-bsc",
-    "tokens": [
-      {
-        "chainId": 56,
-        "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
-        "name": "Linear Token",
-        "symbol": "LINA",
-        "decimals": 18
-      }
-    ]
-  },
-  {
     "name": "Litentry",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723.png",
     "tags": [
