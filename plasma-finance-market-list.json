@@ -3911,6 +3911,13 @@
         "name": "Compound Coin",
         "symbol": "COMP",
         "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+        "name": "Compound Coin",
+        "symbol": "COMP.e",
+        "decimals": 18
       }
     ]
   },
@@ -4029,6 +4036,13 @@
       {
         "chainId": 42161,
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "name": "Wrapped Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x4200000000000000000000000000000000000006",
         "name": "Wrapped Ether",
         "symbol": "ETH",
         "decimals": 18
@@ -4375,28 +4389,6 @@
         "address": "0x0a5e1dE30E943421Ed9faAeC815125B6BdF9383e",
         "name": "DuckDaoDime",
         "symbol": "DDIM",
-        "decimals": 18
-      }
-    ]
-  },
-  {
-    "name": "Shopping.io",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7.png",
-    "tags": [],
-    "coingeckoId": "shopping-io",
-    "tokens": [
-      {
-        "chainId": 1,
-        "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
-        "name": "Shopping.io",
-        "symbol": "SPI",
-        "decimals": 18
-      },
-      {
-        "chainId": 137,
-        "address": "0x068180071617528606371c31892EcBF2B70ac1d2",
-        "name": "Shopping.io",
-        "symbol": "SPI",
         "decimals": 18
       }
     ]
@@ -19338,6 +19330,70 @@
         "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
         "name": "Tarot",
         "symbol": "TAROT",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Optimism",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4200000000000000000000000000000000000042.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "optimism",
+    "tokens": [
+      {
+        "chainId": 10,
+        "address": "0x4200000000000000000000000000000000000042",
+        "name": "optimism",
+        "symbol": "OP",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Hop Protocol",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "hop-protocol",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "name": "optimism",
+        "symbol": "HOP",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "STEPN",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png",
+    "tags": [],
+    "coingeckoId": "stepn",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+        "name": "STEPN",
+        "symbol": "GMT",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "ApeCoin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4d224452801aced8b2f0aebe155379bb5d594381.png",
+    "tags": [],
+    "coingeckoId": "apecoin",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+        "name": "ApeCoin",
+        "symbol": "APE",
         "decimals": 18
       }
     ]
