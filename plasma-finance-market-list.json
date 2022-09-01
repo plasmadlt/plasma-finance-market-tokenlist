@@ -19397,5 +19397,20 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "name": "MarsDAO",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x60322971a672b81bcce5947706d22c19daecf6fb.png",
+    "tags": [],
+    "coingeckoId": "marsdao",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
+        "name": "MarsDAO",
+        "symbol": "MDAO",
+        "decimals": 18
+      }
+    ]
   }
 ]
