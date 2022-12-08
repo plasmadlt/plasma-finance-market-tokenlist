@@ -2074,14 +2074,21 @@
       {
         "chainId": 1,
         "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
-        "name": "Gnosis Token",
+        "name": "Gnosis",
         "symbol": "GNO",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
-        "name": "Gnosis Token",
+        "name": "Gnosis",
+        "symbol": "GNO",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
+        "name": "Gnosis",
         "symbol": "GNO",
         "decimals": 18
       }
@@ -8618,6 +8625,34 @@
         "name": "Uniswap",
         "symbol": "UNI",
         "decimals": 18
+      },
+      {
+        "chainId": 100,
+        "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18
       }
     ]
   },
@@ -8977,6 +9012,13 @@
       {
         "chainId": 137,
         "address": "0x263534a4Fe3cb249dF46810718B7B612a30ebbff",
+        "name": "PERP",
+        "symbol": "PERP",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
         "name": "PERP",
         "symbol": "PERP",
         "decimals": 18
@@ -19409,6 +19451,124 @@
         "address": "0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
         "name": "MarsDAO",
         "symbol": "MDAO",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Coinbase Staked ETH",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.png",
+    "tags": [
+      "stable",
+      "synths"
+    ],
+    "coingeckoId": "coinbase-wrapped-staked-eth",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+        "name": "Coinbase Staked ETH",
+        "symbol": "cbETH",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "BOB",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png",
+    "tags": [
+      "stable"
+    ],
+    "coingeckoId": "bob",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "name": "BOB",
+        "symbol": "BOB",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "name": "BOB",
+        "symbol": "BOB",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "name": "BOB",
+        "symbol": "BOB",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "name": "BOB",
+        "symbol": "BOB",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "GMX",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "gmx",
+    "tokens": [
+      {
+        "chainId": 42161,
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "name": "GMX",
+        "symbol": "GMX",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+        "name": "GMX",
+        "symbol": "GMX",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "USDD",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6.png",
+    "tags": [
+      "stable"
+    ],
+    "coingeckoId": "usdd",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+        "name": "USDD",
+        "symbol": "USDD",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+        "name": "USDD",
+        "symbol": "USDD",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2",
+        "name": "USDD",
+        "symbol": "USDD",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+        "name": "USDD",
+        "symbol": "USDD",
         "decimals": 18
       }
     ]
