@@ -3,6 +3,10 @@ on:
   push:
     branches: [ main ]
 
+env:
+  IPFS_DEPLOY_INFURA__PROJECT_ID: ${{ secrets.infura_project_id }}
+  IPFS_DEPLOY_INFURA__PROJECT_SECRET: ${{ secrets.infura_project_secret }}
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
