@@ -971,6 +971,13 @@
         "name": "DEXTools",
         "symbol": "DEXT",
         "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xe91a8D2c584Ca93C7405F15c22CdFE53C29896E3",
+        "name": "DEXTools",
+        "symbol": "DEXT",
+        "decimals": 18
       }
     ]
   },
@@ -1339,6 +1346,13 @@
       {
         "chainId": 137,
         "address": "0xeAEf6cAf6d5894EDB2D4EA7ec11eC4AB655f1cBF",
+        "name": "PAID Network",
+        "symbol": "PAID",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xAD86d0E9764ba90DDD68747D64BFfBd79879a238",
         "name": "PAID Network",
         "symbol": "PAID",
         "decimals": 18
@@ -2519,6 +2533,13 @@
         "name": "DIAToken",
         "symbol": "DIA",
         "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x99956D38059cf7bEDA96Ec91Aa7BB2477E0901DD",
+        "name": "DIAToken",
+        "symbol": "DIA",
+        "decimals": 18
       }
     ]
   },
@@ -2671,14 +2692,14 @@
       {
         "chainId": 1,
         "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
-        "name": "SingularityNET Token",
+        "name": "SingularityNET",
         "symbol": "AGI",
         "decimals": 8
       },
       {
         "chainId": 137,
         "address": "0x800eB319e3F0E962d3ca8D625C871B8F1bdf2bC8",
-        "name": "SingularityNET Token",
+        "name": "SingularityNET",
         "symbol": "AGI",
         "decimals": 8
       }
@@ -3915,15 +3936,22 @@
       {
         "chainId": 56,
         "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
-        "name": "Compound Coin",
+        "name": "Compound",
         "symbol": "COMP",
         "decimals": 18
       },
       {
         "chainId": 43114,
         "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
-        "name": "Compound Coin",
+        "name": "Compound",
         "symbol": "COMP.e",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+        "name": "Compound",
+        "symbol": "COMP",
         "decimals": 18
       }
     ]
@@ -4184,6 +4212,13 @@
         "name": "Fantom",
         "symbol": "FTM",
         "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18
       }
     ]
   },
@@ -4394,6 +4429,13 @@
       {
         "chainId": 137,
         "address": "0x0a5e1dE30E943421Ed9faAeC815125B6BdF9383e",
+        "name": "DuckDaoDime",
+        "symbol": "DDIM",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xc9132C76060F6b319764Ea075973a650A1a53bC9",
         "name": "DuckDaoDime",
         "symbol": "DDIM",
         "decimals": 18
@@ -7687,14 +7729,42 @@
       {
         "chainId": 1,
         "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-        "name": "Cartesi Token",
+        "name": "Cartesi",
         "symbol": "CTSI",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
-        "name": "Cartesi Token",
+        "name": "Cartesi",
+        "symbol": "CTSI",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2",
+        "name": "Cartesi",
+        "symbol": "CTSI",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+        "name": "Cartesi",
+        "symbol": "CTSI",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+        "name": "Cartesi",
+        "symbol": "CTSI",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+        "name": "Cartesi",
         "symbol": "CTSI",
         "decimals": 18
       }
@@ -7896,7 +7966,7 @@
       {
         "chainId": 1,
         "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
-        "name": "Parsiq Token",
+        "name": "Parsiq",
         "symbol": "PRQ",
         "decimals": 18
       },
@@ -7910,7 +7980,7 @@
       {
         "chainId": 56,
         "address": "0xd21d29B38374528675C34936bf7d5Dd693D2a577",
-        "name": "Parsiq Token",
+        "name": "Parsiq",
         "symbol": "PRQ",
         "decimals": 18
       }
@@ -8035,14 +8105,14 @@
       {
         "chainId": 1,
         "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
-        "name": "Bella",
+        "name": "Bella Protocol",
         "symbol": "BEL",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
-        "name": "Bella",
+        "name": "Bella Protocol",
         "symbol": "BEL",
         "decimals": 18
       },
@@ -8775,15 +8845,22 @@
       {
         "chainId": 1,
         "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
-        "name": "FARM Reward Token",
+        "name": "FARM Reward",
         "symbol": "FARM",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0",
-        "name": "Harvest Reward Token",
+        "name": "Harvest Reward",
         "symbol": "mFARM",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+        "name": "Harvest Reward",
+        "symbol": "FARM",
         "decimals": 18
       }
     ]
@@ -9799,7 +9876,7 @@
     ]
   },
   {
-    "name": "Axie Infinity Shard",
+    "name": "Axie Infinity",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf5d669627376ebd411e34b98f19c868c8aba5ada.png",
     "tags": [
       "nft",
@@ -9810,21 +9887,21 @@
       {
         "chainId": 1,
         "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-        "name": "Axie Infinity Shard",
+        "name": "Axie Infinity",
         "symbol": "AXS",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b",
-        "name": "Axie Infinity Shard",
+        "name": "Axie Infinity",
         "symbol": "AXS",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
-        "name": "Axie Infinity Shard",
+        "name": "Axie Infinity",
         "symbol": "AXS",
         "decimals": 18
       }
@@ -9983,28 +10060,28 @@
       {
         "chainId": 1,
         "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
-        "name": "PolkastarterToken",
+        "name": "Polkastarter",
         "symbol": "POLS",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x8dc302e2141DA59c934d900886DbF1518Fd92cd4",
-        "name": "PolkastarterToken",
+        "name": "Polkastarter",
         "symbol": "POLS",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0x7e624FA0E1c4AbFD309cC15719b7E2580887f570",
-        "name": "PolkastarterToken",
+        "name": "Polkastarter",
         "symbol": "POLS",
         "decimals": 18
       }
     ]
   },
   {
-    "name": "Alpha Finance Lab",
+    "name": "Alpha Venture DAO",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa1faa113cbe53436df28ff0aee54275c13b40975.png",
     "tags": [
       "defi"
@@ -10014,14 +10091,21 @@
       {
         "chainId": 1,
         "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
-        "name": "AlphaToken",
+        "name": "Alpha Venture DAO",
         "symbol": "ALPHA",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
-        "name": "AlphaToken",
+        "name": "Alpha Venture DAO",
+        "symbol": "ALPHA",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+        "name": "Alpha Venture DAO",
         "symbol": "ALPHA",
         "decimals": 18
       }
@@ -10070,14 +10154,14 @@
       {
         "chainId": 1,
         "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
-        "name": "Wrapped MIR Token",
+        "name": "Wrapped MIR",
         "symbol": "MIR",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9",
-        "name": "Wrapped MIR Token",
+        "name": "Wrapped MIR",
         "symbol": "MIR",
         "decimals": 18
       }
@@ -10118,21 +10202,21 @@
       {
         "chainId": 1,
         "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
-        "name": "UniLend Finance Token",
+        "name": "UniLend Finance",
         "symbol": "UFT",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
-        "name": "UniLend Finance Token",
+        "name": "UniLend Finance",
         "symbol": "UFT",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0x2645d5f59D952ef2317C8e0AaA5A61c392cCd44d",
-        "name": "UniLend Finance Token",
+        "name": "UniLend Finance",
         "symbol": "UFT",
         "decimals": 18
       }
@@ -10230,6 +10314,13 @@
         "chainId": 1,
         "address": "0x485d17A6f1B8780392d53D64751824253011A260",
         "name": "ChronoTech Token",
+        "symbol": "TIME",
+        "decimals": 8
+      },
+      {
+        "chainId": 56,
+        "address": "0x3b198e26E473b8faB2085b37978e36c9DE5D7f68",
+        "name": "ChronoTech",
         "symbol": "TIME",
         "decimals": 8
       }
@@ -11464,7 +11555,7 @@
   },
   {
     "name": "AntiMatter",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F.png",
     "tags": [
       "defi"
     ],
@@ -11472,8 +11563,15 @@
     "tokens": [
       {
         "chainId": 1,
+        "address": "0x9B99CcA871Be05119B2012fd4474731dd653FEBe",
+        "name": "Antimatter",
+        "symbol": "MATTER",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
         "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
-        "name": "Antimatter.Finance Governance Token",
+        "name": "Antimatter",
         "symbol": "MATTER",
         "decimals": 18
       }
@@ -11495,6 +11593,13 @@
       {
         "chainId": 137,
         "address": "0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8",
+        "name": "TORN",
+        "symbol": "TORN",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x1bA8D3C4c219B124d351F603060663BD1bcd9bbF",
         "name": "TORN",
         "symbol": "TORN",
         "decimals": 18
@@ -12703,14 +12808,21 @@
       {
         "chainId": 1,
         "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
-        "name": "$Poolz Finance",
+        "name": "Poolz Finance",
         "symbol": "POOLZ",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0xa052EFCDd44F02073B1FDC42bF06017A0234ae03",
-        "name": "$Poolz Finance",
+        "name": "Poolz Finance",
+        "symbol": "POOLZ",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x77018282fD033DAF370337A5367E62d8811Bc885",
+        "name": "Poolz Finance",
         "symbol": "POOLZ",
         "decimals": 18
       }
@@ -13009,6 +13121,13 @@
       {
         "chainId": 137,
         "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
         "name": "SHIBA INU",
         "symbol": "SHIB",
         "decimals": 18
@@ -13910,7 +14029,7 @@
     ]
   },
   {
-    "name": "Kyber Network Crystal v2",
+    "name": "Kyber Network Crystal",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C.png",
     "tags": [
       "dex",
@@ -13921,14 +14040,28 @@
       {
         "chainId": 1,
         "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
-        "name": "Kyber Network Crystal v2",
+        "name": "Kyber Network",
+        "symbol": "KNC",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+        "name": "Kyber Network",
         "symbol": "KNC",
         "decimals": 18
       },
       {
         "chainId": 137,
         "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
-        "name": "Kyber Network Crystal v2",
+        "name": "Kyber Network",
+        "symbol": "KNC",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+        "name": "Kyber Network",
         "symbol": "KNC",
         "decimals": 18
       }
@@ -14588,25 +14721,25 @@
   },
   {
     "name": "PancakeSwap",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
     "tags": [
       "dex",
       "defi"
     ],
-    "coingeckoId": "pancakeswap-token",
+    "coingeckoId": "pancakeswap",
     "tokens": [
       {
         "chainId": 56,
         "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-        "name": "PancakeSwap Token",
+        "name": "PancakeSwap",
         "symbol": "Cake",
         "decimals": 18
       }
     ]
   },
   {
-    "name": "Cardano Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png",
+    "name": "Cardano",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png",
     "tags": [
       "wrap"
     ],
@@ -14623,16 +14756,23 @@
   },
   {
     "name": "My Neighbor Alice",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xAC51066d7bEC65Dc4589368da368b212745d63E8.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8.png",
     "tags": [
       "nft"
     ],
     "coingeckoId": "my-neighbor-alice",
     "tokens": [
       {
+        "chainId": 1,
+        "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+        "name": "My Neighbor Alice",
+        "symbol": "ALICE",
+        "decimals": 6
+      },
+      {
         "chainId": 56,
         "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
-        "name": "ALICE",
+        "name": "My Neighbor Alice",
         "symbol": "ALICE",
         "decimals": 6
       }
@@ -14675,7 +14815,7 @@
   },
   {
     "name": "Ankr",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png",
     "tags": [
       "defi"
     ],
@@ -14691,6 +14831,27 @@
       {
         "chainId": 56,
         "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "decimals": 18
+      },
+      {
+        "chainId": 250,
+        "address": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
         "name": "Ankr",
         "symbol": "ANKR",
         "decimals": 18
@@ -14773,8 +14934,8 @@
     ]
   },
   {
-    "name": "Cosmos Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png",
+    "name": "Cosmos",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png",
     "tags": [
       "wrap"
     ],
@@ -14783,15 +14944,15 @@
       {
         "chainId": 56,
         "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-        "name": "Cosmos Token",
+        "name": "Cosmos",
         "symbol": "ATOM",
         "decimals": 18
       }
     ]
   },
   {
-    "name": "AUTOv2",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xa184088a740c695E156F91f5cC086a06bb78b827.png",
+    "name": "Autofarm",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa184088a740c695E156F91f5cC086a06bb78b827.png",
     "tags": [
       "defi",
       "dex"
@@ -14801,6 +14962,13 @@
       {
         "chainId": 56,
         "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "name": "AUTOv2",
+        "symbol": "AUTO",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
         "name": "AUTOv2",
         "symbol": "AUTO",
         "decimals": 18
@@ -14823,8 +14991,8 @@
     ]
   },
   {
-    "name": "Bakery Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png",
+    "name": "BakerySwap",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png",
     "tags": [
       "defi",
       "dex",
@@ -14835,7 +15003,7 @@
       {
         "chainId": 56,
         "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-        "name": "BakeryToken",
+        "name": "BakerySwap",
         "symbol": "BAKE",
         "decimals": 18
       }
@@ -14887,8 +15055,8 @@
     ]
   },
   {
-    "name": "Bitcoin Cash Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png",
+    "name": "Bitcoin Cash",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png",
     "tags": [
       "wrap"
     ],
@@ -14897,7 +15065,7 @@
       {
         "chainId": 56,
         "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-        "name": "Bitcoin Cash Token",
+        "name": "Bitcoin Cash",
         "symbol": "BCH",
         "decimals": 18
       }
@@ -14952,8 +15120,10 @@
   },
   {
     "name": "Beacon ETH",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png",
-    "tags": [],
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png",
+    "tags": [
+      "wrap"
+    ],
     "coingeckoId": "",
     "tokens": [
       {
@@ -15126,7 +15296,7 @@
   },
   {
     "name": "Binance Bitcoin",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png",
     "tags": [
       "wrap"
     ],
@@ -15172,15 +15342,17 @@
     ]
   },
   {
-    "name": "Bittorrent",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x8595F9dA7b868b1822194fAEd312235E43007b49.png",
-    "tags": [],
-    "coingeckoId": "bittorrent-2",
+    "name": "Bittorrent Binance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8595F9dA7b868b1822194fAEd312235E43007b49.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "bittorrent",
     "tokens": [
       {
         "chainId": 56,
         "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
-        "name": "BitTorrent",
+        "name": "BitTorrent Binance",
         "symbol": "BTT",
         "decimals": 18
       }
@@ -15204,8 +15376,8 @@
     ]
   },
   {
-    "name": "Burger Swap",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png",
+    "name": "BurgerSwap",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png",
     "tags": [
       "dex",
       "defi"
@@ -15215,15 +15387,15 @@
       {
         "chainId": 56,
         "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
-        "name": "Burger Swap",
+        "name": "BurgerSwap",
         "symbol": "BURGER",
         "decimals": 18
       }
     ]
   },
   {
-    "name": "Binance BUSD",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
+    "name": "Binance USD",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
     "tags": [
       "stable"
     ],
@@ -15232,7 +15404,7 @@
       {
         "chainId": 56,
         "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "name": "BUSD Token",
+        "name": "BUSD",
         "symbol": "BUSD",
         "decimals": 18
       }
@@ -15255,7 +15427,7 @@
   },
   {
     "name": "Coin98",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6.png",
     "tags": [
       "defi"
     ],
@@ -15264,6 +15436,13 @@
       {
         "chainId": 56,
         "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+        "name": "Coin98",
+        "symbol": "C98",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
         "name": "Coin98",
         "symbol": "C98",
         "decimals": 18
@@ -15305,7 +15484,7 @@
   },
   {
     "name": "Tranchess",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6.png",
     "tags": [
       "defi"
     ],
@@ -15314,7 +15493,7 @@
       {
         "chainId": 56,
         "address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
-        "name": "Chess",
+        "name": "Tranchess",
         "symbol": "CHESS",
         "decimals": 18
       }
@@ -15362,15 +15541,15 @@
     ]
   },
   {
-    "name": "CertiK Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png",
+    "name": "Shentu",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png",
     "tags": [],
     "coingeckoId": "certik",
     "tokens": [
       {
         "chainId": 56,
         "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
-        "name": "CertiK Token",
+        "name": "Shentu",
         "symbol": "CTK",
         "decimals": 6
       }
@@ -15502,14 +15681,28 @@
       {
         "chainId": 1,
         "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
-        "name": "DODO bird",
+        "name": "DODO",
         "symbol": "DODO",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
-        "name": "DODO bird",
+        "name": "DODO",
+        "symbol": "DODO",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78",
+        "name": "DODO",
+        "symbol": "DODO",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+        "name": "DODO",
         "symbol": "DODO",
         "decimals": 18
       }
@@ -15517,7 +15710,7 @@
   },
   {
     "name": "Dogecoin",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png",
     "tags": [
       "wrap"
     ],
@@ -15551,8 +15744,8 @@
     ]
   },
   {
-    "name": "Polkadot Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png",
+    "name": "Polkadot",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png",
     "tags": [
       "wrap"
     ],
@@ -15561,7 +15754,7 @@
       {
         "chainId": 56,
         "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-        "name": "Polkadot Token",
+        "name": "Polkadot",
         "symbol": "DOT",
         "decimals": 18
       }
@@ -15600,10 +15793,10 @@
     ]
   },
   {
-    "name": "Elrond",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png",
+    "name": "MultiversX",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png",
     "tags": [],
-    "coingeckoId": "elrond-erd-2",
+    "coingeckoId": "multiversx",
     "tokens": [
       {
         "chainId": 56,
@@ -15615,8 +15808,8 @@
     ]
   },
   {
-    "name": "EOS Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png",
+    "name": "EOS",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png",
     "tags": [
       "wrap"
     ],
@@ -15633,7 +15826,7 @@
   },
   {
     "name": "Ellipsis",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xA7f552078dcC247C2684336020c03648500C6d9F.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xA7f552078dcC247C2684336020c03648500C6d9F.png",
     "tags": [
       "defi",
       "dex"
@@ -15698,7 +15891,7 @@
   },
   {
     "name": "Refinable",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x4e6415a5727ea08aAE4580057187923aeC331227.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4e6415a5727ea08aAE4580057187923aeC331227.png",
     "tags": [
       "nft"
     ],
@@ -15714,8 +15907,8 @@
     ]
   },
   {
-    "name": "ForTube",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png",
+    "name": "Force Protocol",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x658A109C5900BC6d2357c87549B651670E5b0539.png",
     "tags": [
       "defi"
     ],
@@ -15724,7 +15917,7 @@
       {
         "chainId": 56,
         "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
-        "name": "The Force Token",
+        "name": "Force Protocol",
         "symbol": "FOR",
         "decimals": 18
       }
@@ -15748,8 +15941,8 @@
     ]
   },
   {
-    "name": "Frontier Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b.png",
+    "name": "Frontier",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b.png",
     "tags": [
       "dex"
     ],
@@ -15758,7 +15951,7 @@
       {
         "chainId": 56,
         "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
-        "name": "Frontier Token",
+        "name": "Frontier",
         "symbol": "FRONT",
         "decimals": 18
       }
@@ -15813,14 +16006,14 @@
   },
   {
     "name": "Hacken",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xaA9E582e5751d703F85912903bacADdFed26484C.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaA9E582e5751d703F85912903bacADdFed26484C.png",
     "tags": [],
     "coingeckoId": "hackenai",
     "tokens": [
       {
         "chainId": 56,
         "address": "0xaA9E582e5751d703F85912903bacADdFed26484C",
-        "name": "Hacken Token",
+        "name": "Hacken",
         "symbol": "HAI",
         "decimals": 8
       }
@@ -15972,8 +16165,26 @@
     ]
   },
   {
+    "name": "Impossible Finance",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89.png",
+    "tags": [
+      "defi",
+      "dex"
+    ],
+    "coingeckoId": "idia",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+        "name": "Impossible Finance",
+        "symbol": "IDIA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
     "name": "IoTeX",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png",
     "tags": [
       "defi",
       "wrap"
@@ -16147,8 +16358,8 @@
     ]
   },
   {
-    "name": "Litecoin Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png",
+    "name": "Litecoin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png",
     "tags": [
       "wrap"
     ],
@@ -16157,7 +16368,7 @@
       {
         "chainId": 56,
         "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-        "name": "Litecoin Token",
+        "name": "Litecoin",
         "symbol": "LTC",
         "decimals": 18
       }
@@ -16165,7 +16376,7 @@
   },
   {
     "name": "Mobox",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377.png",
     "tags": [
       "defi",
       "nft"
@@ -16246,7 +16457,7 @@
   },
   {
     "name": "Nerve Finance",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096.png",
     "tags": [
       "defi",
       "dex"
@@ -16256,7 +16467,7 @@
       {
         "chainId": 56,
         "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
-        "name": "Nerve",
+        "name": "Nerve Finance",
         "symbol": "NRV",
         "decimals": 18
       }
@@ -16313,7 +16524,7 @@
   },
   {
     "name": "Oddz",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xCD40F2670CF58720b694968698A5514e924F742d.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xCD40F2670CF58720b694968698A5514e924F742d.png",
     "tags": [
       "wrap"
     ],
@@ -16322,7 +16533,7 @@
       {
         "chainId": 56,
         "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
-        "name": "OddzToken",
+        "name": "Oddz",
         "symbol": "ODDZ",
         "decimals": 18
       }
@@ -16398,8 +16609,8 @@
     ]
   },
   {
-    "name": "Ontology Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png",
+    "name": "Ontology",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png",
     "tags": [
       "wrap"
     ],
@@ -16408,7 +16619,7 @@
       {
         "chainId": 56,
         "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-        "name": "Ontology Token",
+        "name": "Ontology",
         "symbol": "ONT",
         "decimals": 18
       }
@@ -16600,7 +16811,7 @@
   },
   {
     "name": "Ramp DEFI",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png",
     "tags": [
       "defi"
     ],
@@ -16680,15 +16891,15 @@
     ]
   },
   {
-    "name": "SafePal Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb.png",
+    "name": "SafePal",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb.png",
     "tags": [],
     "coingeckoId": "safepal",
     "tokens": [
       {
         "chainId": 56,
         "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
-        "name": "SafePal Token",
+        "name": "SafePal",
         "symbol": "SFP",
         "decimals": 18
       }
@@ -16921,14 +17132,14 @@
   },
   {
     "name": "TokoCrypto",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png",
     "tags": [],
     "coingeckoId": "tokocrypto",
     "tokens": [
       {
         "chainId": 56,
         "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
-        "name": "Tokocrypto Token",
+        "name": "Tokocrypto",
         "symbol": "TKO",
         "decimals": 18
       }
@@ -16936,7 +17147,7 @@
   },
   {
     "name": "TokenPocket",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xECa41281c24451168a37211F0bc2b8645AF45092.png",
     "tags": [],
     "coingeckoId": "token-pocket",
     "tokens": [
@@ -16983,7 +17194,7 @@
   },
   {
     "name": "Trust Wallet",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
     "tags": [
       "defi"
     ],
@@ -17061,8 +17272,8 @@
     ]
   },
   {
-    "name": "VAI Stablecoin",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png",
+    "name": "Venus VAI",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png",
     "tags": [
       "stable"
     ],
@@ -17071,7 +17282,7 @@
       {
         "chainId": 56,
         "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
-        "name": "VAI Stablecoin",
+        "name": "Venus VAI",
         "symbol": "VAI",
         "decimals": 18
       }
@@ -17186,7 +17397,7 @@
   },
   {
     "name": "WINk",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99.png",
     "tags": [],
     "coingeckoId": "winklink-bsc",
     "tokens": [
@@ -17201,7 +17412,7 @@
   },
   {
     "name": "Wall Street Games",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xA58950F05FeA2277d2608748412bf9F802eA4901.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xA58950F05FeA2277d2608748412bf9F802eA4901.png",
     "tags": [
       "nft"
     ],
@@ -17280,7 +17491,7 @@
   },
   {
     "name": "Ripple",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png",
     "tags": [
       "wrap"
     ],
@@ -17296,8 +17507,8 @@
     ]
   },
   {
-    "name": "Tezos Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png",
+    "name": "Tezos",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x16939ef78684453bfDFb47825F8a5F714f12623a.png",
     "tags": [
       "wrap"
     ],
@@ -17306,15 +17517,15 @@
       {
         "chainId": 56,
         "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
-        "name": "Tezos Token",
+        "name": "Tezos",
         "symbol": "XTZ",
         "decimals": 18
       }
     ]
   },
   {
-    "name": "Venus Token",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png",
+    "name": "Venus",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png",
     "tags": [
       "defi"
     ],
@@ -17711,8 +17922,8 @@
     ]
   },
   {
-    "name": "Linear Token",
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x762539b45A1dCcE3D36d080F74d1AED37844b878/logo.png",
+    "name": "Linear Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x762539b45A1dCcE3D36d080F74d1AED37844b878.png",
     "tags": [
       "defi",
       "dex"
@@ -17722,7 +17933,14 @@
       {
         "chainId": 1,
         "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
-        "name": "Linear Token",
+        "name": "Linear",
+        "symbol": "LINA",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
+        "name": "Linear",
         "symbol": "LINA",
         "decimals": 18
       }
@@ -17939,7 +18157,7 @@
   },
   {
     "name": "UNCL on xDai on BSC",
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E8D5504bF54D9E44260f8d153EcD5412130CaBb/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0E8D5504bF54D9E44260f8d153EcD5412130CaBb.png",
     "tags": [],
     "coingeckoId": "uncl",
     "tokens": [
@@ -17954,7 +18172,7 @@
   },
   {
     "name": "UniCrypt on xDai on BSC",
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x09a6c44c3947B69E2B45F4D51b67E6a39ACfB506/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf29e46887ffae92f1ff87dfe39713875da541373.png",
     "tags": [],
     "coingeckoId": "unicrypt-2",
     "tokens": [
@@ -18102,7 +18320,7 @@
       {
         "chainId": 56,
         "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
-        "name": "ApeSwapFinance Banana",
+        "name": "ApeSwap Finance",
         "symbol": "BANANA",
         "decimals": 18
       }
@@ -18144,7 +18362,7 @@
   },
   {
     "name": "Venus USDT",
-    "logoURI": "https://tokens.1inch.exchange/0xfd5840cd36d94d7229439859c0112a4185bc0255.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfD5840Cd36d94D7229439859C0112a4185BC0255.png",
     "tags": [
       "comp"
     ],
@@ -18212,7 +18430,7 @@
   },
   {
     "name": "Venus BTC",
-    "logoURI": "https://tokens.1inch.exchange/0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B.png",
     "tags": [
       "comp"
     ],
@@ -18314,7 +18532,7 @@
   },
   {
     "name": "Venus LINK",
-    "logoURI": "https://tokens.1inch.exchange/0x650b940a1033b8a1b1873f78730fcfc73ec11f1f.png",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x650b940a1033B8A1b1873f78730FcFC73ec11f1f.png",
     "tags": [
       "comp"
     ],
@@ -19411,7 +19629,7 @@
     ]
   },
   {
-    "name": "STEPN",
+    "name": "StepN",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png",
     "tags": [],
     "coingeckoId": "stepn",
@@ -19419,7 +19637,7 @@
       {
         "chainId": 56,
         "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
-        "name": "STEPN",
+        "name": "StepN",
         "symbol": "GMT",
         "decimals": 8
       }
@@ -19569,6 +19787,946 @@
         "address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
         "name": "USDD",
         "symbol": "USDD",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "anyUSDC",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2.png",
+    "tags": [
+      "stable",
+      "wrap"
+    ],
+    "coingeckoId": "usd-coin",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
+        "name": "anyUSDC",
+        "symbol": "anyUSDC",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Ethereum Classic",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3d6545b08693daE087E957cb1180ee38B9e3c25E.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "ethereum-classic",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "NEAR Protocol",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "wrapped-near",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+        "name": "NEAR Protocol",
+        "symbol": "NEAR",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Flow",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "flow",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2",
+        "name": "Flow",
+        "symbol": "FLOW",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "BabyDogeCoin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc748673057861a797275CD8A068AbB95A902e8de.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "baby-doge-coin",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
+        "name": "BabyDogeCoin",
+        "symbol": "BabyDoge",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "BitTorrent Chain",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "bittorrent",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+        "name": "BitTorrent Chain",
+        "symbol": "BTT",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "eCash",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "ecash",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3",
+        "name": "eCash",
+        "symbol": "XEC",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Ethereum PoW",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x302cD8973bE5CA2334B4ff7e7b01BA41455559b3.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "ethereumpow",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x302cD8973bE5CA2334B4ff7e7b01BA41455559b3",
+        "name": "Ethereum PoW",
+        "symbol": "ETHW",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Fetch",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x031b41e504677879370e9DBcF937283A8691Fa7f.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "fetch-ai",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
+        "name": "Fetch",
+        "symbol": "FET",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Floki",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E.png",
+    "tags": [
+      "wrap"
+    ],
+    "coingeckoId": "floki",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+        "name": "Floki",
+        "symbol": "FLOKI",
+        "decimals": 9
+      },
+      {
+        "chainId": 56,
+        "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+        "name": "Floki",
+        "symbol": "FLOKI",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Bitgert",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83.png",
+    "tags": [],
+    "coingeckoId": "bitrise-token",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
+        "name": "Bitgert",
+        "symbol": "BRISE",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Synapse",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa4080f1778e69467E905B8d6F72f6e441f9e9484.png",
+    "tags": [],
+    "coingeckoId": "synapse-2",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xa4080f1778e69467E905B8d6F72f6e441f9e9484",
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb",
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "SafeMoon",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5.png",
+    "tags": [],
+    "coingeckoId": "safemoon-2",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+        "name": "SafeMoon",
+        "symbol": "SFM",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "APENFT",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1fC9004eC7E5722891f5f38baE7678efCB11d34D.png",
+    "tags": [
+      "nft"
+    ],
+    "coingeckoId": "apenft",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+        "name": "APENFT",
+        "symbol": "SFM",
+        "decimals": 6
+      },
+      {
+        "chainId": 56,
+        "address": "0x1fC9004eC7E5722891f5f38baE7678efCB11d34D",
+        "name": "Binance APENFT",
+        "symbol": "NFT",
+        "decimals": 6
+      }
+    ]
+  },
+  {
+    "name": "Stargate Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "stargate-finance",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 250,
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Celer Network",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163.png",
+    "tags": [],
+    "coingeckoId": "celer-network",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+        "name": "Celer Network",
+        "symbol": "CELR",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
+        "name": "Celer Network",
+        "symbol": "CELR",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
+        "name": "Celer Network",
+        "symbol": "CELR",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Volt Inu",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac.png",
+    "tags": [],
+    "coingeckoId": "volt-inu-2",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+        "name": "Volt Inu",
+        "symbol": "VOLT",
+        "decimals": 9
+      },
+      {
+        "chainId": 1,
+        "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+        "name": "Volt Inu",
+        "symbol": "VOLT",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "CEEK VR",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66.png",
+    "tags": [],
+    "coingeckoId": "ceek",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+        "name": "CEEK VR",
+        "symbol": "VOLT",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
+        "name": "CEEK VR",
+        "symbol": "VOLT",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Mdex",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739.png",
+    "tags": [
+      "dex",
+      "defi"
+    ],
+    "coingeckoId": "mdex",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+        "name": "Mdex",
+        "symbol": "MDX",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Alchemy Pay",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xBc7d6B50616989655AfD682fb42743507003056D.png",
+    "tags": [],
+    "coingeckoId": "alchemy-pay",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xBc7d6B50616989655AfD682fb42743507003056D",
+        "name": "Alchemy Pay",
+        "symbol": "ACH",
+        "decimals": 8
+      },
+      {
+        "chainId": 1,
+        "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+        "name": "Alchemy Pay",
+        "symbol": "ACH",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "Radio Caca",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x12BB890508c125661E03b09EC06E404bc9289040.png",
+    "tags": [],
+    "coingeckoId": "radio-caca",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+        "name": "Radio Caca",
+        "symbol": "RACA",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+        "name": "Radio Caca",
+        "symbol": "RACA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Beta Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.png",
+    "tags": [
+      "defi"
+    ],
+    "coingeckoId": "beta-finance",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+        "name": "Beta Finance",
+        "symbol": "BETA",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+        "name": "Beta Finance",
+        "symbol": "BETA",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+        "name": "Beta Finance",
+        "symbol": "BETA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Velas",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc.png",
+    "tags": [],
+    "coingeckoId": "velas",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
+        "name": "Velas",
+        "symbol": "BETA",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+        "name": "Velas",
+        "symbol": "BETA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Everdome",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x475bFaa1848591ae0E6aB69600f48d828f61a80E.png",
+    "tags": [
+      "nft"
+    ],
+    "coingeckoId": "everdome",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+        "name": "Everdome",
+        "symbol": "DOME",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "SONM",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B.png",
+    "tags": [],
+    "coingeckoId": "sonm",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B",
+        "name": "SONM",
+        "symbol": "SNM",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B",
+        "name": "SONM",
+        "symbol": "SNM",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "BIDR",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2.png",
+    "tags": [],
+    "coingeckoId": "bidr",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2",
+        "name": "BIDR",
+        "symbol": "BIDR",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "BNBPay",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xeBC76079Da0c245faE7225b58a57A54809b40618.png",
+    "tags": [],
+    "coingeckoId": "",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xeBC76079Da0c245faE7225b58a57A54809b40618",
+        "name": "BNBPay",
+        "symbol": "BPAY",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Travala",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9.png",
+    "tags": [],
+    "coingeckoId": "concierge-io",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+        "name": "Travala",
+        "symbol": "AVA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Clover",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x09E889BB4D5b474f561db0491C38702F367A4e4d.png",
+    "tags": [],
+    "coingeckoId": "clover-finance",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+        "name": "Clover",
+        "symbol": "AVA",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
+        "name": "Clover",
+        "symbol": "AVA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Proton",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5de3939b2F811A61d830E6F52d13B066881412ab.png",
+    "tags": [],
+    "coingeckoId": "proton",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
+        "name": "Proton",
+        "symbol": "XPR",
+        "decimals": 4
+      },
+      {
+        "chainId": 1,
+        "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+        "name": "Proton",
+        "symbol": "XPR",
+        "decimals": 4
+      }
+    ]
+  },
+  {
+    "name": "Santos Futebol",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png",
+    "tags": [],
+    "coingeckoId": "santos-fc-fan-token",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+        "name": "Santos Futebol",
+        "symbol": "SANTOS",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "Hoge Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40.png",
+    "tags": [],
+    "coingeckoId": "hoge-finance",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
+        "name": "Hoge Finance",
+        "symbol": "HOGE",
+        "decimals": 9
+      },
+      {
+        "chainId": 56,
+        "address": "0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40",
+        "name": "Hoge Finance",
+        "symbol": "HOGE",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Hello",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00.png",
+    "tags": [
+      "nft"
+    ],
+    "coingeckoId": "hello-labs",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00",
+        "name": "Hello",
+        "symbol": "HELLO",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Bridge Oracle",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42.png",
+    "tags": [],
+    "coingeckoId": "bridge-oracle",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+        "name": "Bridge Oracle",
+        "symbol": "BRG",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Ariva",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6679eB24F59dFe111864AEc72B443d1Da666B360.png",
+    "tags": [],
+    "coingeckoId": "ariva",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+        "name": "Ariva",
+        "symbol": "ARV",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "Omax Protocol",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F.png",
+    "tags": [],
+    "coingeckoId": "omax-token",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F",
+        "name": "Omax Protocol",
+        "symbol": "OMAX",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "CherrySwap",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbc420Bc2c015d1579F77e4a5c68270b75F2DDB9d.png",
+    "tags": [
+      "dex"
+    ],
+    "coingeckoId": "cherryswap",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xbc420Bc2c015d1579F77e4a5c68270b75F2DDB9d",
+        "name": "CherrySwap",
+        "symbol": "CHE",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Rubic",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8E3BCC334657560253B83f08331d85267316e08a.png",
+    "tags": [
+      "dex"
+    ],
+    "coingeckoId": "rubic",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x8E3BCC334657560253B83f08331d85267316e08a",
+        "name": "Rubic",
+        "symbol": "BRBC",
+        "decimals": 18
+      },
+      {
+        "chainId": 1,
+        "address": "0x3330BFb7332cA23cd071631837dC289B09C33333",
+        "name": "Rubic",
+        "symbol": "BRBC",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8",
+        "name": "Rubic",
+        "symbol": "BRBC",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "VIDT DAO",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9c4a515cd72D27A4710571Aca94858a53D9278D5.png",
+    "tags": [],
+    "coingeckoId": "vidt-dao",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x3BE7bF1A5F23BD8336787D0289B70602f1940875",
+        "name": "VIDT DAO",
+        "symbol": "VIDT",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x9c4a515cd72D27A4710571Aca94858a53D9278D5",
+        "name": "VIDT DAO",
+        "symbol": "VIDT",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Smooth Love Potion",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x070a08BeEF8d36734dD67A491202fF35a6A16d97.png",
+    "tags": [
+      "nft"
+    ],
+    "coingeckoId": "smooth-love-potion",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
+        "name": "Smooth Love Potion",
+        "symbol": "SLP",
+        "decimals": 0
+      },
+      {
+        "chainId": 56,
+        "address": "0x070a08BeEF8d36734dD67A491202fF35a6A16d97",
+        "name": "Smooth Love Potion",
+        "symbol": "SLP",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "SingularityDAO",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240.png",
+    "tags": [],
+    "coingeckoId": "singularitydao",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+        "name": "SingularityDAO",
+        "symbol": "SDAO",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+        "name": "SingularityDAO",
+        "symbol": "SDAO",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Phala Network",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0112e557d400474717056C4e6D40eDD846F38351.png",
+    "tags": [],
+    "coingeckoId": "pha",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+        "name": "Phala Network",
+        "symbol": "PHA",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+        "name": "Phala Network",
+        "symbol": "PHA",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "inSure",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b17bAADf0f21F03e35249e0e59723F34994F806.png",
+    "tags": [],
+    "coingeckoId": "insure",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E",
+        "name": "inSure",
+        "symbol": "SURE",
+        "decimals": 18
+      },
+      {
+        "chainId": 56,
+        "address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+        "name": "inSure",
+        "symbol": "SURE",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0xF88332547c680F755481Bf489D890426248BB275",
+        "name": "inSure",
+        "symbol": "SURE",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+        "name": "inSure",
+        "symbol": "SURE",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Blur",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5283D291DBCF85356A21bA090E6db59121208b44.png",
+    "tags": [
+      "nft"
+    ],
+    "coingeckoId": "blur",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+        "name": "Blur",
+        "symbol": "BLUR",
         "decimals": 18
       }
     ]
