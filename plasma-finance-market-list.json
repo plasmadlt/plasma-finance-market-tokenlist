@@ -3907,14 +3907,14 @@
         "chainId": 42161,
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "name": "Wrapped Ether",
-        "symbol": "ETH",
+        "symbol": "WETH",
         "decimals": 18
       },
       {
         "chainId": 10,
         "address": "0x4200000000000000000000000000000000000006",
         "name": "Wrapped Ether",
-        "symbol": "ETH",
+        "symbol": "WETH",
         "decimals": 18
       }
     ]
