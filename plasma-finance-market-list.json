@@ -19437,15 +19437,37 @@
       {
         "chainId": 1,
         "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-        "name": "ARB",
+        "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18
       },
       {
         "chainId": 42161,
         "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-        "name": "ARB",
+        "name": "Arbitrum",
         "symbol": "ARB",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Radiant",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3082CC23568eA640225c2467653dB90e9250AaA0.png",
+    "tags": [],
+    "coingeckoId": "radiant-capital",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+        "name": "Radiant",
+        "symbol": "RDNT",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+        "name": "Radiant",
+        "symbol": "RDNT",
         "decimals": 18
       }
     ]
