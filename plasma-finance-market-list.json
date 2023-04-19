@@ -10917,21 +10917,6 @@
     ]
   },
   {
-    "name": "Tether Gold",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4922a015c4407F87432B179bb209e125432E4a2A.png",
-    "tags": ["defi", "stable"],
-    "coingeckoId": "tether-gold",
-    "tokens": [
-      {
-        "chainId": 1,
-        "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-        "name": "Gold Tether",
-        "symbol": "XAUt",
-        "decimals": 6
-      }
-    ]
-  },
-  {
     "name": "AntiMatter",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F.png",
     "tags": ["defi"],
