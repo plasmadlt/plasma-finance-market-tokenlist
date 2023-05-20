@@ -19456,5 +19456,37 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "name": "PEPE",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png",
+    "tags": [],
+    "coingeckoId": "pepe",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "name": "PEPE",
+        "symbol": "PEPE",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "crvUSD",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E.png",
+    "tags": [
+      "stable"
+    ],
+    "coingeckoId": "crvusd",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+        "name": "crvUSD",
+        "symbol": "crvUSD",
+        "decimals": 18
+      }
+    ]
   }
 ]
