@@ -19488,5 +19488,67 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "name": "GHO",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.png",
+    "tags": [
+      "stable"
+    ],
+    "coingeckoId": "gho",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "name": "GHO",
+        "symbol": "GHO",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Arkham",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050.png",
+    "tags": [],
+    "coingeckoId": "arkham",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+        "name": "Arkham",
+        "symbol": "ARKM",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Frax Ether",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5E8422345238F34275888049021821E8E08CAa1f.png",
+    "tags": [],
+    "coingeckoId": "frax-ether",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+        "name": "Frax Ether",
+        "symbol": "FRXETH",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Rocket Pool ETH",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xae78736Cd615f374D3085123A210448E74Fc6393.png",
+    "tags": [],
+    "coingeckoId": "rocket-pool-eth",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+        "name": "Rocket Pool ETH",
+        "symbol": "RETH",
+        "decimals": 18
+      }
+    ]
   }
 ]
