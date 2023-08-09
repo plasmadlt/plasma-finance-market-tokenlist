@@ -3110,6 +3110,13 @@
         "name": "USDC",
         "symbol": "USDC",
         "decimals": 6
+      },
+      {
+        "chainId": 8453,
+        "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "name": "USDbC",
+        "symbol": "USDbC",
+        "decimals": 6
       }
     ]
   },
@@ -3912,6 +3919,13 @@
       },
       {
         "chainId": 10,
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "chainId": 8453,
         "address": "0x4200000000000000000000000000000000000006",
         "name": "Wrapped Ether",
         "symbol": "WETH",
@@ -5777,6 +5791,13 @@
       {
         "chainId": 10,
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18
+      },
+      {
+        "chainId": 8453,
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18
@@ -18418,6 +18439,13 @@
         "name": "Coinbase Staked ETH",
         "symbol": "cbETH",
         "decimals": 18
+      },
+      {
+        "chainId": 8453,
+        "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+        "name": "Coinbase Staked ETH",
+        "symbol": "cbETH",
+        "decimals": 18
       }
     ]
   },
@@ -19475,9 +19503,7 @@
   {
     "name": "crvUSD",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E.png",
-    "tags": [
-      "stable"
-    ],
+    "tags": ["stable"],
     "coingeckoId": "crvusd",
     "tokens": [
       {
@@ -19492,9 +19518,7 @@
   {
     "name": "GHO",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.png",
-    "tags": [
-      "stable"
-    ],
+    "tags": ["stable"],
     "coingeckoId": "gho",
     "tokens": [
       {
