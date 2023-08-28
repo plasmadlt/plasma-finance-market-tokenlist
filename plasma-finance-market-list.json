@@ -19574,5 +19574,41 @@
         "decimals": 18
       }
     ]
+  },
+  {
+    "name": "Kromatika",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789.png",
+    "tags": [],
+    "coingeckoId": "kromatika",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+        "name": "Kromatika",
+        "symbol": "KROM",
+        "decimals": 18
+      },
+      {
+        "chainId": 42161,
+        "address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
+        "name": "Kromatika",
+        "symbol": "KROM",
+        "decimals": 18
+      },
+      {
+        "chainId": 137,
+        "address": "0x14Af1F2f02DCcB1e43402339099A05a5E363b83c",
+        "name": "Kromatika",
+        "symbol": "KROM",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
+        "name": "Kromatika",
+        "symbol": "KROM",
+        "decimals": 18
+      }
+    ]
   }
 ]
