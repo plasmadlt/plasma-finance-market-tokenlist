@@ -15,7 +15,7 @@ Links:
 - [SpacePort Launchpad](https://apy.plasma.finance/#/spaceport)
 - [Innovation Hub](https://apy.plasma.finance/#/innovation-hub)
 
-To add an information for your IDO on Spaceport or on the Innovation Hub page, please fork this repo, create a folder with your token address and JSON file inside with all the data about your project.
+To add information for your IDO on Spaceport or on the Innovation Hub page, please fork this repo, and create a folder with your token address and JSON file inside with all the data about your project.
 https://github.com/plasmadlt/plasma-finance-market-tokenlist/tree/main/spaceport
 
 Here is a model of IDO JSON metadata:
@@ -283,13 +283,12 @@ Email: [apy@plasma.finance](mailto:apy@plasma.finance) <br>
 Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPlasmaMedia)
 
 # 🔉 Social Media
-[Facebook](https://www.facebook.com/plasmapay) <br>
 [Plasma Twitter](https://twitter.com/0xPlasma) <br>
 [Spaceport Twitter](https://twitter.com/CyberSpacePort) <br>
 
 # 🔗 Useful Links
-### [PlasmaPay](https://plasmapay.com/):
-- [Crypto Wallet](https://app.plasmapay.com/)
+### [Plasma Wallet](https://plasma-wallet.com/):
+- [Crypto Wallet](https://plasma-wallet.com/)
 
 ### [Plasma.Finance](https://plasma.finance/):
 #### Platform
@@ -297,6 +296,7 @@ Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPla
 - [HyperDEX](https://apy.plasma.finance/#/hyper-dex)
 - [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
 - [Savings](https://apy.plasma.finance/#/savings)
+- [Quadrat Protocol]([https://apy.plasma.finance/#/savings](https://apy.plasma.finance/#/quadrat))
 #### IDO
 - [SpacePort](https://apy.plasma.finance/#/spaceport)
 - [Innovation Hub](https://apy.plasma.finance/#/innovation-hub)
@@ -315,5 +315,6 @@ Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPla
 #### PPAY
  - [Ethereum (ERC20)](https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2)
  - [Polygon](https://polygonscan.com/token/0x08158a6b5d4018340387d1a302f882e98a8bc5b4)
+ - [BSC chain](https://bscscan.com/token/0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa)
 #### xPPAY
  - [Ethereum (ERC20)](https://etherscan.io/token/0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978)
